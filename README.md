@@ -3,6 +3,7 @@ A python script that utilizing [Riot Games' Match History API](https://developer
 
 **Versions**
 Python: 3.8.1
+
 Match History API: match-v4
 
 ## Overview
