@@ -13,5 +13,7 @@ The script will **output** a [text file](https://github.com/TimothyBui/CustomGam
 * vision score
 
 Example of a [custom game match history page](https://matchhistory.na.leagueoflegends.com/en/#match-details/NA1/3871003691/202023771?tab=overview).
+
 The page does not display the exact numbers of certain stats and do not include stats such as vision score.
+
 Player names are also always hidden for custom games which is why providing team rosters is necessary.
