@@ -1,11 +1,21 @@
 # Match History Parser for League of Legends Custom Games
-A python script that calls on [Riot Games' Match History API (v4)](https://developer.riotgames.com/apis#match-v4).
+A python script that utilizing [Riot Games' Match History API](https://developer.riotgames.com/apis#match-v4).
 
-The script takes the following external files as **input**:
+**Versions**
+Python: 3.8.1
+Match History API: match-v4
+
+## Overview
+This script is designed to pull match history data directly from Riot's API and retrieve designated player metrics.
+
+It was designed for [CSUF League of Legends](twitter.com/csuflol/)'s annual spring tournament, [SIEGE 2021](https://docs.google.com/spreadsheets/d/1FBWeb1m64Ft3Ofgg3wwyMr8IzlIeXEix1DqGjr_qpM8/edit#gid=0)
+
+### External files
 * a [json file](https://github.com/TimothyBui/CustomGameHistory/blob/main/SIEGE2021.json) containing all team rosters and a list containing game ID and participating teams.
 * a [json file](http://ddragon.leagueoflegends.com/cdn/11.8.1/data/en_US/champion.json) containing all champion IDs and champion names (currently Patch 11.8)
 
-The script will **output** a [text file](https://github.com/TimothyBui/CustomGameHistory/blob/main/output.txt) containing each game played and the following stats:
+### Output
+The script will output a [text file](https://github.com/TimothyBui/CustomGameHistory/blob/main/output.txt) containing each game played and the following stats:
 * player name and champion played
 * individual player score
 * damage dealt to champions
