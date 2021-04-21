@@ -1,5 +1,5 @@
 # Match History Parser for League of Legends Custom Games
-A python script that utilizing [Riot Games' Match History API](https://developer.riotgames.com/apis#match-v4).
+A python script that utilizes [Riot Games' Match History API](https://developer.riotgames.com/apis#match-v4).
 
 **Versions**
 
