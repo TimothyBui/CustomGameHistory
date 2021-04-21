@@ -101,20 +101,33 @@ def match_history_stats(match_IDs, games, champions):
         else:
           kda = round((k+a)/d, 3)
         
-        # gold and damage calculations
-        damage = data['participants'][i]['stats']['totalDamageDealtToChampions']
+        # damage dealt to champions and gold spent calculations
+        damageToChamps = data['participants'][i]['stats']['totalDamageDealtToChampions']
         goldSpent = data['participants'][i]['stats']['goldSpent']
-        damage_efficiency = round(damage/goldSpent,3)
+        damage_gold_ratio = round(damageToChamps/goldSpent,3)
 
-        # vision score calculations
+        # vision score
         visionScore = data['participants'][i]['stats']['visionScore']
         
-        # output data
-        print('{} | {}: \n\tKDA: {}\n\tDamage Dealt to Champions: {}\n\tGold Spent: {}\n\tDamage-to-Gold Ratio: {}\n\tVision Score: {}'.format(player_name, championName, kda, damage, goldSpent, damage_efficiency, visionScore))
-        output.write('\n{} | {}: \n\tKDA: {}\n\tDamage Dealt to Champions: {}\n\tGold Spent: {}\n\tDamage-to-Gold Ratio: {}\n\tVision Score: {}'.format(player_name, championName, kda, damage, goldSpent, damage_efficiency, visionScore))
+        # print to console
+        print('{} | {}: '.format(player_name, championName))
+        print('\tScore: {}/{}/{}'.format(k, d, a))
+        print('\tDamage Dealt to Champions: {}'.format(damageToChamps))
+        print('\tGold Spent: {}'.format(goldSpent))
+        print('\tDamage-to-Gold Ratio: {}'.format(damage_gold_ratio))
+        print('\tVision Score: {}'.format(visionScore))
+
+        # write to text file
+        output.write('\n{} | {}: '.format(player_name, championName))
+        output.write('\n\tScore: {}/{}/{}'.format(k, d, a))
+        output.write('\n\tDamage Dealt to Champions: {}'.format(damageToChamps))
+        output.write('\n\tGold Spent: {}'.format(goldSpent))
+        output.write('\n\tDamage-to-Gold Ratio: {}'.format(damage_gold_ratio))
+        output.write('\n\tVision Score: {}'.format(visionScore))
 
         # write data to text file to import to spreadsheet
-        spreadsheet_data.write('\n{}${}${}${}${}${}${}${}${}${}${}${}${}'.format(game_counter, team, temp_role, player_name, championName, k, d, a, kda, damage, goldSpent, damage_efficiency, visionScore))
+        spreadsheet_data.write('\n{}${}${}${}${}${}${}${}${}${}${}${}${}'
+        .format(game_counter, team, temp_role, player_name, championName, k, d, a, kda, damageToChamps, goldSpent, damage_gold_ratio, visionScore))
       
     
     # track number of games played for output
@@ -123,11 +136,12 @@ def match_history_stats(match_IDs, games, champions):
     # account for Riot limiting request rates
     time.sleep(1.5)
 
+  # estimate and print error rate
   estimated_error_rate = round(adjusted_error_counter/(10*game_counter) * 100, 2)
-  print('Estimated error rate: {}%'.format(estimated_error_rate))
+  print('\nEstimated error rate: {}%'.format(estimated_error_rate))
   output.write('\nEstimated error rate: {}%'.format(estimated_error_rate))
 
-  # close text file  
+  # close text files
   output.close()
   spreadsheet_data.close()
 
