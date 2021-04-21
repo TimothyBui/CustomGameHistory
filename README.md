@@ -10,7 +10,7 @@ Match History API: match-v4
 ## Overview
 This script is designed to pull match history data directly from Riot's API and retrieve designated player metrics.
 
-It was designed for [CSUF League of Legends](twitter.com/csuflol/)'s annual spring tournament, [SIEGE 2021](https://docs.google.com/spreadsheets/d/1FBWeb1m64Ft3Ofgg3wwyMr8IzlIeXEix1DqGjr_qpM8/edit#gid=0)
+It was designed for [CSUF League of Legends](twitter.com/csuflol/)'s annual spring tournament, [SIEGE 2021](https://docs.google.com/spreadsheets/d/1FBWeb1m64Ft3Ofgg3wwyMr8IzlIeXEix1DqGjr_qpM8/edit#gid=0).
 
 ### External files
 * a [json file](https://github.com/TimothyBui/CustomGameHistory/blob/main/SIEGE2021.json) containing all team rosters and a list containing game ID and participating teams.
@@ -24,7 +24,7 @@ The script will output a [text file](https://github.com/TimothyBui/CustomGameHis
 * gold spent
 * vision score
 
-Example of a [custom game match history page](https://matchhistory.na.leagueoflegends.com/en/#match-details/NA1/3871003691/202023771?tab=overview).
+### Example of a [custom game match history page](https://matchhistory.na.leagueoflegends.com/en/#match-details/NA1/3871003691/202023771?tab=overview).
 
 The page does not display the exact numbers of certain stats and do not include stats such as vision score.
 
