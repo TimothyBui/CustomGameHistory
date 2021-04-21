@@ -1,0 +1,578 @@
+{
+  "teams":{
+    "Daddy Chill":{
+      "team":"Daddy Chill",
+      "top":"Minnogi",
+      "jungle":"Goshiki",
+      "mid":"Śenpai",
+      "bot":"Akaruishi",
+      "support":"Sugoi Neko"
+    },
+    "Discord Kittens":{
+      "team":"Discord Kittens",
+      "top":"AsylumX",
+      "jungle":"Icurus",
+      "mid":"IAmOneCrazyDude",
+      "bot":"sadder luna",
+      "support":"Puar"
+    },
+    "Donkey Farts":{
+      "team":"Donkey Farts",
+      "top":"NeoDoctor",
+      "jungle":"Zâch",
+      "mid":"MidBaked",
+      "bot":"over it",
+      "support":"Blásé"
+    },
+    "Get Me Out":{
+      "team":"Get Me Out",
+      "top":"Spongebobu",
+      "jungle":"Splendor",
+      "mid":"Jaypark Fanboy",
+      "bot":"Mårç",
+      "support":"Againstic"
+    },
+    "Gigastuck Marines":{
+      "team":"Gigastuck Marines",
+      "top":"ImTheBill",
+      "jungle":"BrandFlakez",
+      "mid":"Ejaculatory",
+      "bot":"FORCED ORGASM",
+      "support":"BIurr"
+    },
+    "KAMINATONINJASANDM0DE58":{
+      "team":"KAMINATONINJASANDM0DE58",
+      "top":"SICKLEM0DE",
+      "jungle":"NinjaHamsters18",
+      "mid":"BirdofSand",
+      "bot":"Minatozaki",
+      "support":"Kamu40"
+    },
+    "Lower Bracket Gatekeepers":{
+      "team":"Lower Bracket Gatekeepers",
+      "top":"Edwin Peraza",
+      "jungle":"insay",
+      "mid":"CrimsonR0se",
+      "bot":"Piercing Rain",
+      "support":"Juruken"
+    },
+    "NBNE":{
+      "team":"NBNE",
+      "top":"iwc112358",
+      "jungle":"F4aintbwind",
+      "mid":"EternaLProspecT",
+      "bot":"ThatOneRyanGuy",
+      "support":"ketiqu"
+    },
+    "No Scrawny Boys":{
+      "team":"No Scrawny Boys",
+      "top":"SoulwingXD",
+      "jungle":"Piñata",
+      "mid":"JawKneeNewWin",
+      "bot":"iAmezcua",
+      "support":"ILikeBeans"
+    },
+    "Not My President":{
+      "team":"Not My President",
+      "top":"She wont say yes",
+      "jungle":"Wyl",
+      "mid":"Just Ask Her Out",
+      "bot":"Sojiro Sakura",
+      "support":"Bill Cypher"
+    },
+    "Phantom Thieves":{
+      "team":"Phantom Thieves",
+      "top":"Susânoo",
+      "jungle":"Full Send It Bro",
+      "mid":"Ren Amamiya",
+      "bot":"Sleepìng",
+      "support":"Luau"
+    },
+    "Team 7 Mid":{
+      "team":"Team 7 Mid",
+      "top":"AFurnitureItem",
+      "jungle":"WeDoWhatWeMust",
+      "mid":"melon buns",
+      "bot":"Ferney",
+      "support":"Kinzo"
+    },
+    "The Zoo":{
+      "team":"The Zoo",
+      "top":"GINNYDOG",
+      "jungle":"Anonymous Turtle",
+      "mid":"Bakami",
+      "bot":"Brycep00",
+      "support":"ƒrogchamp"
+    },
+    "Toad Dreaming of Dogs in Bloo Twilight":{
+      "team":"Toad Dreaming of Dogs in Bloo Twilight",
+      "top":"Toad is Playing",
+      "jungle":"Dream Eradicator",
+      "mid":"One Punch Doggo",
+      "bot":"Twilight Koreziv",
+      "support":"Bloo"
+    },
+    "UCLA":{
+      "team":"UCLA",
+      "top":"booisucksomuch3",
+      "jungle":"Mame Jin",
+      "mid":"MadLifeisGod",
+      "bot":"Snail352",
+      "support":"littlemunchkin24"
+    },
+    "Zac's Ooey Gooey Slimes":{
+      "team":"Zac's Ooey Gooey Slimes",
+      "top":"Minalinsky",
+      "jungle":"GLONKY FUGGLER",
+      "mid":"Mechhart",
+      "bot":"Snorunt",
+      "support":"Ríka"
+    }
+  },
+  "matches":{
+    "1":{
+      "game_id":3808066940,
+      "blue":"Phantom Thieves",
+      "red":"Gigastuck Marines",
+      "counter":1
+    },
+    "2":{
+      "game_id":3808067340,
+      "blue":"Gigastuck Marines",
+      "red":"Phantom Thieves",
+      "counter":2
+    },
+    "3":{
+      "game_id":3808067692,
+      "blue":"Phantom Thieves",
+      "red":"Gigastuck Marines",
+      "counter":3
+    },
+    "4":{
+      "game_id":3812169867,
+      "blue":"Daddy Chill",
+      "red":"No Scrawny Boys",
+      "counter":4
+    },
+    "5":{
+      "game_id":3812170229,
+      "blue":"No Scrawny Boys",
+      "red":"Daddy Chill",
+      "counter":5
+    },
+    "6":{
+      "game_id":3812170586,
+      "blue":"Daddy Chill",
+      "red":"No Scrawny Boys",
+      "counter":6
+    },
+    "7":{
+      "game_id":3812080137,
+      "blue":"Not My President",
+      "red":"Lower Bracket Gatekeepers",
+      "counter":7
+    },
+    "8":{
+      "game_id":3812360241,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"Not My President",
+      "counter":8
+    },
+    "9":{
+      "game_id":3811991068,
+      "blue":"Not My President",
+      "red":"Lower Bracket Gatekeepers",
+      "counter":9
+    },
+    "10":{
+      "game_id":3812260695,
+      "blue":"Team 7 Mid",
+      "red":"The Zoo",
+      "counter":10
+    },
+    "11":{
+      "game_id":3812261108,
+      "blue":"Team 7 Mid",
+      "red":"The Zoo",
+      "counter":11
+    },
+    "12":{
+      "game_id":3812261247,
+      "blue":"The Zoo",
+      "red":"Team 7 Mid",
+      "counter":12
+    },
+    "13":{
+      "game_id":3812066116,
+      "blue":"NBNE",
+      "red":"UCLA",
+      "counter":13
+    },
+    "14":{
+      "game_id":3812366067,
+      "blue":"UCLA",
+      "red":"NBNE",
+      "counter":14
+    },
+    "15":{
+      "game_id":3812135729,
+      "blue":"Donkey Farts",
+      "red":"Discord Kittens",
+      "counter":15
+    },
+    "16":{
+      "game_id":3812366027,
+      "blue":"Discord Kittens",
+      "red":"Donkey Farts",
+      "counter":16
+    },
+    "17":{
+      "game_id":3812366318,
+      "blue":"Donkey Farts",
+      "red":"Discord Kittens",
+      "counter":17
+    },
+    "18":{
+      "game_id":3812346217,
+      "blue":"Zac's Ooey Gooey Slimes",
+      "red":"Get Me Out",
+      "counter":18
+    },
+    "19":{
+      "game_id":3812346811,
+      "blue":"Get Me Out",
+      "red":"Zac's Ooey Gooey Slimes",
+      "counter":19
+    },
+    "20":{
+      "game_id":3814164209,
+      "blue":"Toad Dreaming of Dogs in Bloo Twilight",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":20
+    },
+    "21":{
+      "game_id":3814164648,
+      "blue":"Toad Dreaming of Dogs in Bloo Twilight",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":21
+    },
+    "22":{
+      "game_id":3814164889,
+      "blue":"KAMINATONINJASANDM0DE58",
+      "red":"Toad Dreaming of Dogs in Bloo Twilight",
+      "counter":22
+    },
+    "23":{
+      "game_id":3816175752,
+      "blue":"Gigastuck Marines",
+      "red":"Daddy Chill",
+      "counter":23
+    },
+    "24":{
+      "game_id":3816175974,
+      "blue":"Daddy Chill",
+      "red":"Gigastuck Marines",
+      "counter":24
+    },
+    "25":{
+      "game_id":3818650796,
+      "blue":"Phantom Thieves",
+      "red":"No Scrawny Boys",
+      "counter":25
+    },
+    "26":{
+      "game_id":3818631280,
+      "blue":"Phantom Thieves",
+      "red":"No Scrawny Boys",
+      "counter":26
+    },
+    "27":{
+      "game_id":3818651784,
+      "blue":"No Scrawny Boys",
+      "red":"Phantom Thieves",
+      "counter":27
+    },
+    "28":{
+      "game_id":3818362107,
+      "blue":"Donkey Farts",
+      "red":"The Zoo",
+      "counter":28
+    },
+    "29":{
+      "game_id":3818612280,
+      "blue":"Donkey Farts",
+      "red":"The Zoo",
+      "counter":29
+    },
+    "30":{
+      "game_id":3818362947,
+      "blue":"The Zoo",
+      "red":"Donkey Farts",
+      "counter":30
+    },
+    "31":{
+      "game_id":3818367831,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"Get Me Out",
+      "counter":31
+    },
+    "32":{
+      "game_id":3818368194,
+      "blue":"Get Me Out",
+      "red":"Lower Bracket Gatekeepers",
+      "counter":32
+    },
+    "33":{
+      "game_id":3820354755,
+      "blue":"NBNE",
+      "red":"Toad Dreaming of Dogs in Bloo Twilight",
+      "counter":33
+    },
+    "34":{
+      "game_id":3821500553,
+      "blue":"Toad Dreaming of Dogs in Bloo Twilight",
+      "red":"NBNE",
+      "counter":34
+    },
+    "35":{
+      "game_id":3821500835,
+      "blue":"NBNE",
+      "red":"Toad Dreaming of Dogs in Bloo Twilight",
+      "counter":35
+    },
+    "36":{
+      "game_id":3820899456,
+      "blue":"Not My President",
+      "red":"Zac's Ooey Gooey Slimes",
+      "counter":36
+    },
+    "37":{
+      "game_id":3822511780,
+      "blue":"Zac's Ooey Gooey Slimes",
+      "red":"Not My President",
+      "counter":37
+    },
+    "38":{
+      "game_id":3822512241,
+      "blue":"Zac's Ooey Gooey Slimes",
+      "red":"Not My President",
+      "counter":38
+    },
+    "39":{
+      "game_id":3823046356,
+      "blue":"UCLA",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":39
+    },
+    "40":{
+      "game_id":3823046750,
+      "blue":"UCLA",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":40
+    },
+    "41":{
+      "game_id":3824540154,
+      "blue":"Discord Kittens",
+      "red":"Team 7 Mid",
+      "counter":41
+    },
+    "42":{
+      "game_id":3824540487,
+      "blue":"Discord Kittens",
+      "red":"Team 7 Mid",
+      "counter":42
+    },
+    "43":{
+      "game_id":3824540823,
+      "blue":"Team 7 Mid",
+      "red":"Discord Kittens",
+      "counter":43
+    },
+    "44":{
+      "game_id":3826664447,
+      "blue":"Zac's Ooey Gooey Slimes",
+      "red":"Gigastuck Marines",
+      "counter":44
+    },
+    "45":{
+      "game_id":3826664844,
+      "blue":"Gigastuck Marines",
+      "red":"Zac's Ooey Gooey Slimes",
+      "counter":45
+    },
+    "46":{
+      "game_id":3831451829,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"Phantom Thieves",
+      "counter":46
+    },
+    "47":{
+      "game_id":3831452477,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"Phantom Thieves",
+      "counter":47
+    },
+    "48":{
+      "game_id":3831452999,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"Phantom Thieves",
+      "counter":48
+    },
+    "49":{
+      "game_id":3833635897,
+      "blue":"Toad Dreaming of Dogs in Bloo Twilight",
+      "red":"Team 7 Mid",
+      "counter":49
+    },
+    "50":{
+      "game_id":3833636361,
+      "blue":"Toad Dreaming of Dogs in Bloo Twilight",
+      "red":"Team 7 Mid",
+      "counter":50
+    },
+    "51":{
+      "game_id":3833939163,
+      "blue":"Donkey Farts",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":51
+    },
+    "52":{
+      "game_id":3833939544,
+      "blue":"Donkey Farts",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":52
+    },
+    "53":{
+      "game_id":3838224693,
+      "blue":"Gigastuck Marines",
+      "red":"Team 7 Mid",
+      "counter":53
+    },
+    "54":{
+      "game_id":3838015616,
+      "blue":"Team 7 Mid",
+      "red":"Gigastuck Marines",
+      "counter":54
+    },
+    "55":{
+      "game_id":3839976456,
+      "blue":"No Scrawny Boys",
+      "red":"The Zoo",
+      "counter":55
+    },
+    "56":{
+      "game_id":3839976910,
+      "blue":"The Zoo",
+      "red":"No Scrawny Boys",
+      "counter":56
+    },
+    "57":{
+      "game_id":3842012627,
+      "blue":"NBNE",
+      "red":"Not My President",
+      "counter":57
+    },
+    "58":{
+      "game_id":3842043112,
+      "blue":"Not My President",
+      "red":"NBNE",
+      "counter":58
+    },
+    "59":{
+      "game_id":3842208568,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":59
+    },
+    "60":{
+      "game_id":3842209011,
+      "blue":"Lower Bracket Gatekeepers",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":60
+    },
+    "61":{
+      "game_id":3848087828,
+      "blue":"The Zoo",
+      "red":"Gigastuck Marines",
+      "counter":61
+    },
+    "62":{
+      "game_id":3848088122,
+      "blue":"The Zoo",
+      "red":"Gigastuck Marines",
+      "counter":62
+    },
+    "63":{
+      "game_id":3849936710,
+      "blue":"KAMINATONINJASANDM0DE58",
+      "red":"Not My President",
+      "counter":63
+    },
+    "64":{
+      "game_id":3849937027,
+      "blue":"Not My President",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":64
+    },
+    "65":{
+      "game_id":3859080592,
+      "blue":"NBNE",
+      "red":"No Scrawny Boys",
+      "counter":65
+    },
+    "66":{
+      "game_id":3859081062,
+      "blue":"No Scrawny Boys",
+      "red":"NBNE",
+      "counter":66
+    },
+    "67":{
+      "game_id":3861627339,
+      "blue":"Gigastuck Marines",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":67
+    },
+    "68":{
+      "game_id":3861627627,
+      "blue":"Gigastuck Marines",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":68
+    },
+    "69":{
+      "game_id":3861627843,
+      "blue":"Gigastuck Marines",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":69
+    },
+    "70":{
+      "game_id":3868066226,
+      "blue":"No Scrawny Boys",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":70
+    },
+    "71":{
+      "game_id":3868067001,
+      "blue":"No Scrawny Boys",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":71
+    },
+    "72":{
+      "game_id":3871002680,
+      "blue":"NBNE",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":72
+    },
+    "73":{
+      "game_id":3871003176,
+      "blue":"NBNE",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":73
+    },
+    "74":{
+      "game_id":3871003691,
+      "blue":"NBNE",
+      "red":"KAMINATONINJASANDM0DE58",
+      "counter":74
+    }
+  }
+}
