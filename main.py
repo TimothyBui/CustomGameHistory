@@ -139,7 +139,7 @@ def match_history_stats(match_IDs, games, champions):
   # estimate and print error rate
   estimated_error_rate = round(adjusted_error_counter/(10*game_counter) * 100, 2)
   print('\nEstimated error rate: {}%'.format(estimated_error_rate))
-  output.write('\nEstimated error rate: {}%'.format(estimated_error_rate))
+  output.write('\n\nEstimated error rate: {}%'.format(estimated_error_rate))
 
   # close text files
   output.close()
