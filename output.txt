@@ -1,6 +1,6 @@
 
 
-====== GAME 1 | ID: 3808066940 ======
+======= GAME 1 | GAME ID: 3808066940 =======
 
 Blue: Phantom Thieves
 
@@ -68,7 +68,7 @@ ImTheBill | Malphite:
 	Damage-to-Gold Ratio: 0.8
 	Vision Score: 36
 
-====== GAME 2 | ID: 3808067340 ======
+======= GAME 2 | GAME ID: 3808067340 =======
 
 Blue: Gigastuck Marines
 
@@ -136,7 +136,7 @@ Luau | Karma:
 	Damage-to-Gold Ratio: 1.423
 	Vision Score: 64
 
-====== GAME 3 | ID: 3808067692 ======
+======= GAME 3 | GAME ID: 3808067692 =======
 
 Blue: Phantom Thieves
 
@@ -204,7 +204,7 @@ BIurr | Alistar:
 	Damage-to-Gold Ratio: 0.559
 	Vision Score: 72
 
-====== GAME 4 | ID: 3812169867 ======
+======= GAME 4 | GAME ID: 3812169867 =======
 
 Blue: Daddy Chill
 
@@ -272,7 +272,7 @@ ILikeBeans | Alistar:
 	Damage-to-Gold Ratio: 0.708
 	Vision Score: 79
 
-====== GAME 5 | ID: 3812170229 ======
+======= GAME 5 | GAME ID: 3812170229 =======
 
 Blue: No Scrawny Boys
 
@@ -340,7 +340,7 @@ Sugoi Neko | Bard:
 	Damage-to-Gold Ratio: 0.866
 	Vision Score: 61
 
-====== GAME 6 | ID: 3812170586 ======
+======= GAME 6 | GAME ID: 3812170586 =======
 
 Blue: Daddy Chill
 
@@ -408,7 +408,7 @@ ILikeBeans | Morgana:
 	Damage-to-Gold Ratio: 1.276
 	Vision Score: 50
 
-====== GAME 7 | ID: 3812080137 ======
+======= GAME 7 | GAME ID: 3812080137 =======
 
 Blue: Not My President
 
@@ -476,7 +476,7 @@ Juruken | Thresh:
 	Damage-to-Gold Ratio: 0.876
 	Vision Score: 112
 
-====== GAME 8 | ID: 3812360241 ======
+======= GAME 8 | GAME ID: 3812360241 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -544,7 +544,7 @@ Bill Cypher | Leona:
 	Damage-to-Gold Ratio: 0.373
 	Vision Score: 43
 
-====== GAME 9 | ID: 3811991068 ======
+======= GAME 9 | GAME ID: 3811991068 =======
 
 Blue: Not My President
 
@@ -612,7 +612,7 @@ insay | Sejuani:
 	Damage-to-Gold Ratio: 1.166
 	Vision Score: 35
 
-====== GAME 10 | ID: 3812260695 ======
+======= GAME 10 | GAME ID: 3812260695 =======
 
 Blue: Team 7 Mid
 
@@ -680,7 +680,7 @@ Brycep00 | Senna:
 	Damage-to-Gold Ratio: 0.463
 	Vision Score: 118
 
-====== GAME 11 | ID: 3812261108 ======
+======= GAME 11 | GAME ID: 3812261108 =======
 
 Blue: Team 7 Mid
 
@@ -748,7 +748,7 @@ Brycep00 | Ashe:
 	Damage-to-Gold Ratio: 0.248
 	Vision Score: 87
 
-====== GAME 12 | ID: 3812261247 ======
+======= GAME 12 | GAME ID: 3812261247 =======
 
 Blue: The Zoo
 
@@ -816,7 +816,7 @@ melon buns | Lux:
 	Damage-to-Gold Ratio: 1.435
 	Vision Score: 32
 
-====== GAME 13 | ID: 3812066116 ======
+======= GAME 13 | GAME ID: 3812066116 =======
 
 Blue: NBNE
 
@@ -884,7 +884,7 @@ littlemunchkin24 | Nautilus:
 	Damage-to-Gold Ratio: 0.785
 	Vision Score: 32
 
-====== GAME 14 | ID: 3812366067 ======
+======= GAME 14 | GAME ID: 3812366067 =======
 
 Blue: UCLA
 
@@ -952,7 +952,7 @@ ketiqu | Nautilus:
 	Damage-to-Gold Ratio: 1.269
 	Vision Score: 35
 
-====== GAME 15 | ID: 3812135729 ======
+======= GAME 15 | GAME ID: 3812135729 =======
 
 Blue: Donkey Farts
 
@@ -1020,7 +1020,7 @@ Puar | Leona:
 	Damage-to-Gold Ratio: 0.638
 	Vision Score: 48
 
-====== GAME 16 | ID: 3812366027 ======
+======= GAME 16 | GAME ID: 3812366027 =======
 
 Blue: Discord Kittens
 
@@ -1088,7 +1088,7 @@ Blásé | Pyke:
 	Damage-to-Gold Ratio: 0.768
 	Vision Score: 41
 
-====== GAME 17 | ID: 3812366318 ======
+======= GAME 17 | GAME ID: 3812366318 =======
 
 Blue: Donkey Farts
 
@@ -1156,7 +1156,7 @@ Puar | Thresh:
 	Damage-to-Gold Ratio: 0.636
 	Vision Score: 76
 
-====== GAME 18 | ID: 3812346217 ======
+======= GAME 18 | GAME ID: 3812346217 =======
 
 Blue: Zac's Ooey Gooey Slimes
 
@@ -1224,7 +1224,7 @@ Againstic | Lulu:
 	Damage-to-Gold Ratio: 0.311
 	Vision Score: 107
 
-====== GAME 19 | ID: 3812346811 ======
+======= GAME 19 | GAME ID: 3812346811 =======
 
 Blue: Get Me Out
 
@@ -1292,7 +1292,7 @@ Ríka | Leona:
 	Damage-to-Gold Ratio: 0.717
 	Vision Score: 102
 
-====== GAME 20 | ID: 3814164209 ======
+======= GAME 20 | GAME ID: 3814164209 =======
 
 Blue: Toad Dreaming of Dogs in Bloo Twilight
 
@@ -1360,7 +1360,7 @@ Kamu40 | Blitzcrank:
 	Damage-to-Gold Ratio: 0.786
 	Vision Score: 91
 
-====== GAME 21 | ID: 3814164648 ======
+======= GAME 21 | GAME ID: 3814164648 =======
 
 Blue: Toad Dreaming of Dogs in Bloo Twilight
 
@@ -1428,7 +1428,7 @@ Kamu40 | Blitzcrank:
 	Damage-to-Gold Ratio: 0.9
 	Vision Score: 105
 
-====== GAME 22 | ID: 3814164889 ======
+======= GAME 22 | GAME ID: 3814164889 =======
 
 Blue: KAMINATONINJASANDM0DE58
 
@@ -1496,7 +1496,7 @@ Bloo | Leona:
 	Damage-to-Gold Ratio: 0.639
 	Vision Score: 90
 
-====== GAME 23 | ID: 3816175752 ======
+======= GAME 23 | GAME ID: 3816175752 =======
 
 Blue: Gigastuck Marines
 
@@ -1564,7 +1564,7 @@ Sugoi Neko | Leona:
 	Damage-to-Gold Ratio: 0.639
 	Vision Score: 57
 
-====== GAME 24 | ID: 3816175974 ======
+======= GAME 24 | GAME ID: 3816175974 =======
 
 Blue: Daddy Chill
 
@@ -1632,7 +1632,7 @@ BIurr | Seraphine:
 	Damage-to-Gold Ratio: 1.099
 	Vision Score: 58
 
-====== GAME 25 | ID: 3818650796 ======
+======= GAME 25 | GAME ID: 3818650796 =======
 
 Blue: Phantom Thieves
 
@@ -1700,7 +1700,7 @@ ILikeBeans | Blitzcrank:
 	Damage-to-Gold Ratio: 0.542
 	Vision Score: 95
 
-====== GAME 26 | ID: 3818631280 ======
+======= GAME 26 | GAME ID: 3818631280 =======
 
 Blue: Phantom Thieves
 
@@ -1768,7 +1768,7 @@ iAmezcua | Tristana:
 	Damage-to-Gold Ratio: 0.752
 	Vision Score: 22
 
-====== GAME 27 | ID: 3818651784 ======
+======= GAME 27 | GAME ID: 3818651784 =======
 
 Blue: No Scrawny Boys
 
@@ -1836,7 +1836,7 @@ Luau | Lulu:
 	Damage-to-Gold Ratio: 0.261
 	Vision Score: 81
 
-====== GAME 28 | ID: 3818362107 ======
+======= GAME 28 | GAME ID: 3818362107 =======
 
 Blue: Donkey Farts
 
@@ -1904,7 +1904,7 @@ Brycep00 | Tristana:
 	Damage-to-Gold Ratio: 1.054
 	Vision Score: 111
 
-====== GAME 29 | ID: 3818612280 ======
+======= GAME 29 | GAME ID: 3818612280 =======
 
 Blue: Donkey Farts
 
@@ -1972,7 +1972,7 @@ Brycep00 | Draven:
 	Damage-to-Gold Ratio: 0.75
 	Vision Score: 88
 
-====== GAME 30 | ID: 3818362947 ======
+======= GAME 30 | GAME ID: 3818362947 =======
 
 Blue: The Zoo
 
@@ -2040,7 +2040,7 @@ Blásé | Nautilus:
 	Damage-to-Gold Ratio: 1.16
 	Vision Score: 41
 
-====== GAME 31 | ID: 3818367831 ======
+======= GAME 31 | GAME ID: 3818367831 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -2108,7 +2108,7 @@ Againstic | Leona:
 	Damage-to-Gold Ratio: 0.288
 	Vision Score: 65
 
-====== GAME 32 | ID: 3818368194 ======
+======= GAME 32 | GAME ID: 3818368194 =======
 
 Blue: Get Me Out
 
@@ -2176,7 +2176,7 @@ Juruken | Thresh:
 	Damage-to-Gold Ratio: 1.12
 	Vision Score: 68
 
-====== GAME 33 | ID: 3820354755 ======
+======= GAME 33 | GAME ID: 3820354755 =======
 
 Blue: NBNE
 
@@ -2244,7 +2244,7 @@ Bloo | Thresh:
 	Damage-to-Gold Ratio: 0.818
 	Vision Score: 31
 
-====== GAME 34 | ID: 3821500553 ======
+======= GAME 34 | GAME ID: 3821500553 =======
 
 Blue: Toad Dreaming of Dogs in Bloo Twilight
 
@@ -2312,7 +2312,7 @@ ketiqu | Leona:
 	Damage-to-Gold Ratio: 0.699
 	Vision Score: 62
 
-====== GAME 35 | ID: 3821500835 ======
+======= GAME 35 | GAME ID: 3821500835 =======
 
 Blue: NBNE
 
@@ -2380,7 +2380,7 @@ Bloo | Seraphine:
 	Damage-to-Gold Ratio: 0.934
 	Vision Score: 49
 
-====== GAME 36 | ID: 3820899456 ======
+======= GAME 36 | GAME ID: 3820899456 =======
 
 Blue: Not My President
 
@@ -2448,7 +2448,7 @@ Ríka | Nami:
 	Damage-to-Gold Ratio: 0.876
 	Vision Score: 70
 
-====== GAME 37 | ID: 3822511780 ======
+======= GAME 37 | GAME ID: 3822511780 =======
 
 Blue: Zac's Ooey Gooey Slimes
 
@@ -2516,7 +2516,7 @@ Bill Cypher | Rell:
 	Damage-to-Gold Ratio: 0.607
 	Vision Score: 52
 
-====== GAME 38 | ID: 3822512241 ======
+======= GAME 38 | GAME ID: 3822512241 =======
 
 Blue: Zac's Ooey Gooey Slimes
 
@@ -2584,7 +2584,7 @@ Bill Cypher | Thresh:
 	Damage-to-Gold Ratio: 0.266
 	Vision Score: 52
 
-====== GAME 39 | ID: 3823046356 ======
+======= GAME 39 | GAME ID: 3823046356 =======
 
 Blue: UCLA
 
@@ -2652,7 +2652,7 @@ Kamu40 | Blitzcrank:
 	Damage-to-Gold Ratio: 1.267
 	Vision Score: 53
 
-====== GAME 40 | ID: 3823046750 ======
+======= GAME 40 | GAME ID: 3823046750 =======
 
 Blue: UCLA
 
@@ -2720,7 +2720,7 @@ Kamu40 | Alistar:
 	Damage-to-Gold Ratio: 0.739
 	Vision Score: 58
 
-====== GAME 41 | ID: 3824540154 ======
+======= GAME 41 | GAME ID: 3824540154 =======
 
 Blue: Discord Kittens
 
@@ -2788,7 +2788,7 @@ Kinzo | Lux:
 	Damage-to-Gold Ratio: 1.291
 	Vision Score: 42
 
-====== GAME 42 | ID: 3824540487 ======
+======= GAME 42 | GAME ID: 3824540487 =======
 
 Blue: Discord Kittens
 
@@ -2856,7 +2856,7 @@ Kinzo | Lux:
 	Damage-to-Gold Ratio: 1.783
 	Vision Score: 24
 
-====== GAME 43 | ID: 3824540823 ======
+======= GAME 43 | GAME ID: 3824540823 =======
 
 Blue: Team 7 Mid
 
@@ -2924,7 +2924,7 @@ Puar | Seraphine:
 	Damage-to-Gold Ratio: 0.755
 	Vision Score: 21
 
-====== GAME 44 | ID: 3826664447 ======
+======= GAME 44 | GAME ID: 3826664447 =======
 
 Blue: Zac's Ooey Gooey Slimes
 
@@ -2992,7 +2992,7 @@ BIurr | Alistar:
 	Damage-to-Gold Ratio: 0.872
 	Vision Score: 71
 
-====== GAME 45 | ID: 3826664844 ======
+======= GAME 45 | GAME ID: 3826664844 =======
 
 Blue: Gigastuck Marines
 
@@ -3060,7 +3060,7 @@ Ríka | Swain:
 	Damage-to-Gold Ratio: 1.03
 	Vision Score: 63
 
-====== GAME 46 | ID: 3831451829 ======
+======= GAME 46 | GAME ID: 3831451829 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -3128,7 +3128,7 @@ Luau | Lulu:
 	Damage-to-Gold Ratio: 0.619
 	Vision Score: 92
 
-====== GAME 47 | ID: 3831452477 ======
+======= GAME 47 | GAME ID: 3831452477 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -3196,7 +3196,7 @@ Luau | Lulu:
 	Damage-to-Gold Ratio: 0.492
 	Vision Score: 86
 
-====== GAME 48 | ID: 3831452999 ======
+======= GAME 48 | GAME ID: 3831452999 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -3264,7 +3264,7 @@ Luau | Lulu:
 	Damage-to-Gold Ratio: 0.254
 	Vision Score: 75
 
-====== GAME 49 | ID: 3833635897 ======
+======= GAME 49 | GAME ID: 3833635897 =======
 
 Blue: Toad Dreaming of Dogs in Bloo Twilight
 
@@ -3332,7 +3332,7 @@ Kinzo | Lulu:
 	Damage-to-Gold Ratio: 0.714
 	Vision Score: 95
 
-====== GAME 50 | ID: 3833636361 ======
+======= GAME 50 | GAME ID: 3833636361 =======
 
 Blue: Toad Dreaming of Dogs in Bloo Twilight
 
@@ -3400,7 +3400,7 @@ Kinzo | Morgana:
 	Damage-to-Gold Ratio: 1.191
 	Vision Score: 57
 
-====== GAME 51 | ID: 3833939163 ======
+======= GAME 51 | GAME ID: 3833939163 =======
 
 Blue: Donkey Farts
 
@@ -3468,7 +3468,7 @@ Minatozaki | Jinx:
 	Damage-to-Gold Ratio: 1.652
 	Vision Score: 36
 
-====== GAME 52 | ID: 3833939544 ======
+======= GAME 52 | GAME ID: 3833939544 =======
 
 Blue: Donkey Farts
 
@@ -3536,7 +3536,7 @@ Kamu40 | Alistar:
 	Damage-to-Gold Ratio: 0.691
 	Vision Score: 50
 
-====== GAME 53 | ID: 3838224693 ======
+======= GAME 53 | GAME ID: 3838224693 =======
 
 Blue: Gigastuck Marines
 
@@ -3604,7 +3604,7 @@ Kinzo | Morgana:
 	Damage-to-Gold Ratio: 1.223
 	Vision Score: 39
 
-====== GAME 54 | ID: 3838015616 ======
+======= GAME 54 | GAME ID: 3838015616 =======
 
 Blue: Team 7 Mid
 
@@ -3672,7 +3672,7 @@ BIurr | Seraphine:
 	Damage-to-Gold Ratio: 1.267
 	Vision Score: 64
 
-====== GAME 55 | ID: 3839976456 ======
+======= GAME 55 | GAME ID: 3839976456 =======
 
 Blue: No Scrawny Boys
 
@@ -3740,7 +3740,7 @@ Brycep00 | Caitlyn:
 	Damage-to-Gold Ratio: 0.83
 	Vision Score: 97
 
-====== GAME 56 | ID: 3839976910 ======
+======= GAME 56 | GAME ID: 3839976910 =======
 
 Blue: The Zoo
 
@@ -3808,7 +3808,7 @@ iAmezcua | Taric:
 	Damage-to-Gold Ratio: 0.524
 	Vision Score: 23
 
-====== GAME 57 | ID: 3842012627 ======
+======= GAME 57 | GAME ID: 3842012627 =======
 
 Blue: NBNE
 
@@ -3876,7 +3876,7 @@ Bill Cypher | Thresh:
 	Damage-to-Gold Ratio: 0.781
 	Vision Score: 75
 
-====== GAME 58 | ID: 3842043112 ======
+======= GAME 58 | GAME ID: 3842043112 =======
 
 Blue: Not My President
 
@@ -3944,7 +3944,7 @@ ketiqu | Xerath:
 	Damage-to-Gold Ratio: 1.637
 	Vision Score: 31
 
-====== GAME 59 | ID: 3842208568 ======
+======= GAME 59 | GAME ID: 3842208568 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -4012,7 +4012,7 @@ Kamu40 | Alistar:
 	Damage-to-Gold Ratio: 0.219
 	Vision Score: 67
 
-====== GAME 60 | ID: 3842209011 ======
+======= GAME 60 | GAME ID: 3842209011 =======
 
 Blue: Lower Bracket Gatekeepers
 
@@ -4080,7 +4080,7 @@ Kamu40 | Rakan:
 	Damage-to-Gold Ratio: 0.685
 	Vision Score: 64
 
-====== GAME 61 | ID: 3848087828 ======
+======= GAME 61 | GAME ID: 3848087828 =======
 
 Blue: The Zoo
 
@@ -4148,7 +4148,7 @@ BIurr | Leona:
 	Damage-to-Gold Ratio: 0.568
 	Vision Score: 71
 
-====== GAME 62 | ID: 3848088122 ======
+======= GAME 62 | GAME ID: 3848088122 =======
 
 Blue: The Zoo
 
@@ -4216,7 +4216,7 @@ FORCED ORGASM | Malphite:
 	Damage-to-Gold Ratio: 1.303
 	Vision Score: 11
 
-====== GAME 63 | ID: 3849936710 ======
+======= GAME 63 | GAME ID: 3849936710 =======
 
 Blue: KAMINATONINJASANDM0DE58
 
@@ -4284,7 +4284,7 @@ Bill Cypher | Alistar:
 	Damage-to-Gold Ratio: 0.285
 	Vision Score: 30
 
-====== GAME 64 | ID: 3849937027 ======
+======= GAME 64 | GAME ID: 3849937027 =======
 
 Blue: Not My President
 
@@ -4352,7 +4352,7 @@ Kamu40 | Rakan:
 	Damage-to-Gold Ratio: 0.519
 	Vision Score: 98
 
-====== GAME 65 | ID: 3859080592 ======
+======= GAME 65 | GAME ID: 3859080592 =======
 
 Blue: NBNE
 
@@ -4420,7 +4420,7 @@ ILikeBeans | Karma:
 	Damage-to-Gold Ratio: 1.047
 	Vision Score: 79
 
-====== GAME 66 | ID: 3859081062 ======
+======= GAME 66 | GAME ID: 3859081062 =======
 
 Blue: No Scrawny Boys
 
@@ -4488,7 +4488,7 @@ ketiqu | Lulu:
 	Damage-to-Gold Ratio: 0.558
 	Vision Score: 99
 
-====== GAME 67 | ID: 3861627339 ======
+======= GAME 67 | GAME ID: 3861627339 =======
 
 Blue: Gigastuck Marines
 
@@ -4556,7 +4556,7 @@ Kamu40 | Bard:
 	Damage-to-Gold Ratio: 0.789
 	Vision Score: 100
 
-====== GAME 68 | ID: 3861627627 ======
+======= GAME 68 | GAME ID: 3861627627 =======
 
 Blue: Gigastuck Marines
 
@@ -4624,7 +4624,7 @@ Kamu40 | Alistar:
 	Damage-to-Gold Ratio: 0.476
 	Vision Score: 87
 
-====== GAME 69 | ID: 3861627843 ======
+======= GAME 69 | GAME ID: 3861627843 =======
 
 Blue: Gigastuck Marines
 
@@ -4692,7 +4692,7 @@ Kamu40 | Blitzcrank:
 	Damage-to-Gold Ratio: 0.61
 	Vision Score: 57
 
-====== GAME 70 | ID: 3868066226 ======
+======= GAME 70 | GAME ID: 3868066226 =======
 
 Blue: No Scrawny Boys
 
@@ -4760,7 +4760,7 @@ Kamu40 | Blitzcrank:
 	Damage-to-Gold Ratio: 0.644
 	Vision Score: 60
 
-====== GAME 71 | ID: 3868067001 ======
+======= GAME 71 | GAME ID: 3868067001 =======
 
 Blue: No Scrawny Boys
 
@@ -4828,7 +4828,7 @@ Kamu40 | Blitzcrank:
 	Damage-to-Gold Ratio: 0.75
 	Vision Score: 102
 
-====== GAME 72 | ID: 3871002680 ======
+======= GAME 72 | GAME ID: 3871002680 =======
 
 Blue: NBNE
 
@@ -4896,7 +4896,7 @@ Kamu40 | Alistar:
 	Damage-to-Gold Ratio: 0.601
 	Vision Score: 73
 
-====== GAME 73 | ID: 3871003176 ======
+======= GAME 73 | GAME ID: 3871003176 =======
 
 Blue: NBNE
 
@@ -4964,7 +4964,7 @@ Kamu40 | Alistar:
 	Damage-to-Gold Ratio: 0.876
 	Vision Score: 64
 
-====== GAME 74 | ID: 3871003691 ======
+======= GAME 74 | GAME ID: 3871003691 =======
 
 Blue: NBNE
 
