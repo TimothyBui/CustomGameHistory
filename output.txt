@@ -1,0 +1,5035 @@
+
+
+====== GAME 1 | ID: 3808066940 ======
+
+Blue: Phantom Thieves
+
+Susânoo | Volibear: 
+	Score: 2/4/5
+	Damage Dealt to Champions: 8495
+	Gold Spent: 9185
+	Damage-to-Gold Ratio: 0.925
+	Vision Score: 31
+Full Send It Bro | Graves: 
+	Score: 11/1/6
+	Damage Dealt to Champions: 18681
+	Gold Spent: 15900
+	Damage-to-Gold Ratio: 1.175
+	Vision Score: 35
+Ren Amamiya | Kayle: 
+	Score: 10/3/11
+	Damage Dealt to Champions: 26280
+	Gold Spent: 17550
+	Damage-to-Gold Ratio: 1.497
+	Vision Score: 26
+Sleepìng | Lucian: 
+	Score: 2/2/9
+	Damage Dealt to Champions: 5276
+	Gold Spent: 8600
+	Damage-to-Gold Ratio: 0.613
+	Vision Score: 17
+Luau | Lulu: 
+	Score: 0/3/17
+	Damage Dealt to Champions: 2357
+	Gold Spent: 7310
+	Damage-to-Gold Ratio: 0.322
+	Vision Score: 76
+
+Red: Gigastuck Marines
+
+BIurr | Blitzcrank: 
+	Score: 0/6/6
+	Damage Dealt to Champions: 5103
+	Gold Spent: 7350
+	Damage-to-Gold Ratio: 0.694
+	Vision Score: 69
+BrandFlakez | Fiddlesticks: 
+	Score: 4/5/8
+	Damage Dealt to Champions: 11746
+	Gold Spent: 9750
+	Damage-to-Gold Ratio: 1.205
+	Vision Score: 65
+Ejaculatory | Syndra: 
+	Score: 5/5/4
+	Damage Dealt to Champions: 14969
+	Gold Spent: 10425
+	Damage-to-Gold Ratio: 1.436
+	Vision Score: 31
+FORCED ORGASM | Kai'Sa: 
+	Score: 4/5/3
+	Damage Dealt to Champions: 13500
+	Gold Spent: 12350
+	Damage-to-Gold Ratio: 1.093
+	Vision Score: 16
+ImTheBill | Malphite: 
+	Score: 0/4/5
+	Damage Dealt to Champions: 6522
+	Gold Spent: 8150
+	Damage-to-Gold Ratio: 0.8
+	Vision Score: 36
+
+====== GAME 2 | ID: 3808067340 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Aatrox: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 22853
+	Gold Spent: 13130
+	Damage-to-Gold Ratio: 1.741
+	Vision Score: 41
+BrandFlakez | Udyr: 
+	Score: 8/1/8
+	Damage Dealt to Champions: 15584
+	Gold Spent: 15425
+	Damage-to-Gold Ratio: 1.01
+	Vision Score: 48
+Ejaculatory | Ekko: 
+	Score: 6/3/5
+	Damage Dealt to Champions: 19490
+	Gold Spent: 13500
+	Damage-to-Gold Ratio: 1.444
+	Vision Score: 34
+BIurr | Senna: 
+	Score: 6/2/15
+	Damage Dealt to Champions: 15672
+	Gold Spent: 11525
+	Damage-to-Gold Ratio: 1.36
+	Vision Score: 78
+FORCED ORGASM | Malphite: 
+	Score: 3/5/11
+	Damage Dealt to Champions: 12069
+	Gold Spent: 10930
+	Damage-to-Gold Ratio: 1.104
+	Vision Score: 34
+
+Red: Phantom Thieves
+
+Susânoo | Volibear: 
+	Score: 0/7/6
+	Damage Dealt to Champions: 8030
+	Gold Spent: 8625
+	Damage-to-Gold Ratio: 0.931
+	Vision Score: 20
+Full Send It Bro | Lillia: 
+	Score: 9/6/2
+	Damage Dealt to Champions: 35058
+	Gold Spent: 11810
+	Damage-to-Gold Ratio: 2.969
+	Vision Score: 26
+Ren Amamiya | Yone: 
+	Score: 2/3/6
+	Damage Dealt to Champions: 22227
+	Gold Spent: 16425
+	Damage-to-Gold Ratio: 1.353
+	Vision Score: 35
+Sleepìng | Jhin: 
+	Score: 1/6/4
+	Damage Dealt to Champions: 9360
+	Gold Spent: 8400
+	Damage-to-Gold Ratio: 1.114
+	Vision Score: 7
+Luau | Karma: 
+	Score: 1/6/7
+	Damage Dealt to Champions: 10507
+	Gold Spent: 7385
+	Damage-to-Gold Ratio: 1.423
+	Vision Score: 64
+
+====== GAME 3 | ID: 3808067692 ======
+
+Blue: Phantom Thieves
+
+Susânoo | Tahm Kench: 
+	Score: 2/3/12
+	Damage Dealt to Champions: 13974
+	Gold Spent: 8100
+	Damage-to-Gold Ratio: 1.725
+	Vision Score: 27
+Full Send It Bro | Graves: 
+	Score: 10/3/10
+	Damage Dealt to Champions: 25480
+	Gold Spent: 14125
+	Damage-to-Gold Ratio: 1.804
+	Vision Score: 45
+Ren Amamiya | Kassadin: 
+	Score: 9/4/8
+	Damage Dealt to Champions: 26760
+	Gold Spent: 11750
+	Damage-to-Gold Ratio: 2.277
+	Vision Score: 33
+Sleepìng | Kai'Sa: 
+	Score: 5/1/8
+	Damage Dealt to Champions: 9943
+	Gold Spent: 8825
+	Damage-to-Gold Ratio: 1.127
+	Vision Score: 20
+Luau | Seraphine: 
+	Score: 1/7/12
+	Damage Dealt to Champions: 6541
+	Gold Spent: 5520
+	Damage-to-Gold Ratio: 1.185
+	Vision Score: 90
+
+Red: Gigastuck Marines
+
+ImTheBill | Mordekaiser: 
+	Score: 3/5/5
+	Damage Dealt to Champions: 20167
+	Gold Spent: 11100
+	Damage-to-Gold Ratio: 1.817
+	Vision Score: 31
+BrandFlakez | Kayn: 
+	Score: 3/8/8
+	Damage Dealt to Champions: 16311
+	Gold Spent: 10000
+	Damage-to-Gold Ratio: 1.631
+	Vision Score: 22
+Ejaculatory | Yone: 
+	Score: 2/5/8
+	Damage Dealt to Champions: 10477
+	Gold Spent: 10100
+	Damage-to-Gold Ratio: 1.037
+	Vision Score: 37
+FORCED ORGASM | Jhin: 
+	Score: 8/3/4
+	Damage Dealt to Champions: 11240
+	Gold Spent: 11675
+	Damage-to-Gold Ratio: 0.963
+	Vision Score: 21
+BIurr | Alistar: 
+	Score: 2/6/11
+	Damage Dealt to Champions: 4067
+	Gold Spent: 7275
+	Damage-to-Gold Ratio: 0.559
+	Vision Score: 72
+
+====== GAME 4 | ID: 3812169867 ======
+
+Blue: Daddy Chill
+
+Minnogi | Malphite: 
+	Score: 6/3/15
+	Damage Dealt to Champions: 19642
+	Gold Spent: 12525
+	Damage-to-Gold Ratio: 1.568
+	Vision Score: 36
+Goshiki | Jarvan IV: 
+	Score: 5/6/16
+	Damage Dealt to Champions: 15383
+	Gold Spent: 11575
+	Damage-to-Gold Ratio: 1.329
+	Vision Score: 30
+Śenpai | Malzahar: 
+	Score: 6/5/12
+	Damage Dealt to Champions: 24410
+	Gold Spent: 14025
+	Damage-to-Gold Ratio: 1.74
+	Vision Score: 53
+Akaruishi | Jinx: 
+	Score: 12/3/9
+	Damage Dealt to Champions: 36794
+	Gold Spent: 12975
+	Damage-to-Gold Ratio: 2.836
+	Vision Score: 42
+Sugoi Neko | Poppy: 
+	Score: 2/3/15
+	Damage Dealt to Champions: 11055
+	Gold Spent: 7550
+	Damage-to-Gold Ratio: 1.464
+	Vision Score: 110
+
+Red: No Scrawny Boys
+
+SoulwingXD | Gragas: 
+	Score: 0/5/8
+	Damage Dealt to Champions: 10997
+	Gold Spent: 8550
+	Damage-to-Gold Ratio: 1.286
+	Vision Score: 26
+Piñata | Hecarim: 
+	Score: 2/9/10
+	Damage Dealt to Champions: 10101
+	Gold Spent: 9983
+	Damage-to-Gold Ratio: 1.012
+	Vision Score: 24
+JawKneeNewWin | Azir: 
+	Score: 8/6/5
+	Damage Dealt to Champions: 26721
+	Gold Spent: 14150
+	Damage-to-Gold Ratio: 1.888
+	Vision Score: 31
+iAmezcua | Kai'Sa: 
+	Score: 10/5/6
+	Damage Dealt to Champions: 21732
+	Gold Spent: 13925
+	Damage-to-Gold Ratio: 1.561
+	Vision Score: 30
+ILikeBeans | Alistar: 
+	Score: 0/6/10
+	Damage Dealt to Champions: 4658
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 0.708
+	Vision Score: 79
+
+====== GAME 5 | ID: 3812170229 ======
+
+Blue: No Scrawny Boys
+
+SoulwingXD | Ornn: 
+	Score: 5/2/11
+	Damage Dealt to Champions: 13966
+	Gold Spent: 8100
+	Damage-to-Gold Ratio: 1.724
+	Vision Score: 21
+Piñata | Udyr: 
+	Score: 4/0/10
+	Damage Dealt to Champions: 7736
+	Gold Spent: 7850
+	Damage-to-Gold Ratio: 0.985
+	Vision Score: 23
+JawKneeNewWin | Seraphine: 
+	Score: 3/1/12
+	Damage Dealt to Champions: 15947
+	Gold Spent: 7550
+	Damage-to-Gold Ratio: 2.112
+	Vision Score: 20
+iAmezcua | Caitlyn: 
+	Score: 5/0/5
+	Damage Dealt to Champions: 10098
+	Gold Spent: 7925
+	Damage-to-Gold Ratio: 1.274
+	Vision Score: 26
+JawKneeNewWin | Thresh: 
+	Score: 0/1/9
+	Damage Dealt to Champions: 3828
+	Gold Spent: 5050
+	Damage-to-Gold Ratio: 0.758
+	Vision Score: 49
+
+Red: Daddy Chill
+
+Minnogi | Shen: 
+	Score: 1/2/1
+	Damage Dealt to Champions: 7344
+	Gold Spent: 7350
+	Damage-to-Gold Ratio: 0.999
+	Vision Score: 22
+Goshiki | Jarvan IV: 
+	Score: 2/4/1
+	Damage Dealt to Champions: 3905
+	Gold Spent: 6375
+	Damage-to-Gold Ratio: 0.613
+	Vision Score: 15
+Śenpai | Veigar: 
+	Score: 0/5/2
+	Damage Dealt to Champions: 8318
+	Gold Spent: 7425
+	Damage-to-Gold Ratio: 1.12
+	Vision Score: 20
+Akaruishi | Jinx: 
+	Score: 1/2/1
+	Damage Dealt to Champions: 10193
+	Gold Spent: 8625
+	Damage-to-Gold Ratio: 1.182
+	Vision Score: 20
+Sugoi Neko | Bard: 
+	Score: 0/4/3
+	Damage Dealt to Champions: 4504
+	Gold Spent: 5200
+	Damage-to-Gold Ratio: 0.866
+	Vision Score: 61
+
+====== GAME 6 | ID: 3812170586 ======
+
+Blue: Daddy Chill
+
+Minnogi | Cho'Gath: 
+	Score: 4/4/5
+	Damage Dealt to Champions: 9949
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 1.109
+	Vision Score: 30
+Goshiki | Amumu: 
+	Score: 3/8/11
+	Damage Dealt to Champions: 9064
+	Gold Spent: 9450
+	Damage-to-Gold Ratio: 0.959
+	Vision Score: 10
+Śenpai | Malzahar: 
+	Score: 6/8/5
+	Damage Dealt to Champions: 12606
+	Gold Spent: 10335
+	Damage-to-Gold Ratio: 1.22
+	Vision Score: 38
+Akaruishi | Ashe: 
+	Score: 7/7/7
+	Damage Dealt to Champions: 23442
+	Gold Spent: 10175
+	Damage-to-Gold Ratio: 2.304
+	Vision Score: 45
+Sugoi Neko | Karma: 
+	Score: 0/6/8
+	Damage Dealt to Champions: 7396
+	Gold Spent: 5825
+	Damage-to-Gold Ratio: 1.27
+	Vision Score: 79
+
+Red: No Scrawny Boys
+
+SoulwingXD | Volibear: 
+	Score: 4/10/10
+	Damage Dealt to Champions: 15012
+	Gold Spent: 8350
+	Damage-to-Gold Ratio: 1.798
+	Vision Score: 27
+Piñata | Udyr: 
+	Score: 7/3/13
+	Damage Dealt to Champions: 11625
+	Gold Spent: 11750
+	Damage-to-Gold Ratio: 0.989
+	Vision Score: 20
+JawKneeNewWin | Galio: 
+	Score: 6/2/18
+	Damage Dealt to Champions: 28482
+	Gold Spent: 11175
+	Damage-to-Gold Ratio: 2.549
+	Vision Score: 26
+iAmezcua | Caitlyn: 
+	Score: 13/2/8
+	Damage Dealt to Champions: 20674
+	Gold Spent: 13605
+	Damage-to-Gold Ratio: 1.52
+	Vision Score: 41
+ILikeBeans | Morgana: 
+	Score: 3/3/14
+	Damage Dealt to Champions: 9503
+	Gold Spent: 7450
+	Damage-to-Gold Ratio: 1.276
+	Vision Score: 50
+
+====== GAME 7 | ID: 3812080137 ======
+
+Blue: Not My President
+
+She wont say yes | Garen: 
+	Score: 5/3/13
+	Damage Dealt to Champions: 17916
+	Gold Spent: 14775
+	Damage-to-Gold Ratio: 1.213
+	Vision Score: 53
+Wyl | Ivern: 
+	Score: 0/3/16
+	Damage Dealt to Champions: 5360
+	Gold Spent: 11250
+	Damage-to-Gold Ratio: 0.476
+	Vision Score: 37
+Just Ask Her Out | Lucian: 
+	Score: 14/1/7
+	Damage Dealt to Champions: 36905
+	Gold Spent: 18800
+	Damage-to-Gold Ratio: 1.963
+	Vision Score: 50
+Sojiro Sakura | Swain: 
+	Score: 1/5/16
+	Damage Dealt to Champions: 22072
+	Gold Spent: 11935
+	Damage-to-Gold Ratio: 1.849
+	Vision Score: 35
+Bill Cypher | Leona: 
+	Score: 2/5/16
+	Damage Dealt to Champions: 5270
+	Gold Spent: 8425
+	Damage-to-Gold Ratio: 0.626
+	Vision Score: 78
+
+Red: Lower Bracket Gatekeepers
+
+Edwin Peraza | Camille: 
+	Score: 1/5/5
+	Damage Dealt to Champions: 14574
+	Gold Spent: 12675
+	Damage-to-Gold Ratio: 1.15
+	Vision Score: 39
+insay | Volibear: 
+	Score: 1/7/7
+	Damage Dealt to Champions: 5185
+	Gold Spent: 10325
+	Damage-to-Gold Ratio: 0.502
+	Vision Score: 44
+CrimsonR0se | Orianna: 
+	Score: 3/3/8
+	Damage Dealt to Champions: 20217
+	Gold Spent: 14750
+	Damage-to-Gold Ratio: 1.371
+	Vision Score: 37
+Piercing Rain | Aphelios: 
+	Score: 12/3/3
+	Damage Dealt to Champions: 37722
+	Gold Spent: 19275
+	Damage-to-Gold Ratio: 1.957
+	Vision Score: 42
+Juruken | Thresh: 
+	Score: 0/4/14
+	Damage Dealt to Champions: 7904
+	Gold Spent: 9025
+	Damage-to-Gold Ratio: 0.876
+	Vision Score: 112
+
+====== GAME 8 | ID: 3812360241 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Mordekaiser: 
+	Score: 2/0/3
+	Damage Dealt to Champions: 8799
+	Gold Spent: 8725
+	Damage-to-Gold Ratio: 1.008
+	Vision Score: 18
+insay | Sejuani: 
+	Score: 0/2/7
+	Damage Dealt to Champions: 3241
+	Gold Spent: 7275
+	Damage-to-Gold Ratio: 0.445
+	Vision Score: 27
+CrimsonR0se | Viktor: 
+	Score: 5/1/4
+	Damage Dealt to Champions: 9584
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 1.068
+	Vision Score: 21
+insay | Tristana: 
+	Score: 7/0/7
+	Damage Dealt to Champions: 16737
+	Gold Spent: 13750
+	Damage-to-Gold Ratio: 1.217
+	Vision Score: 28
+Juruken | Rell: 
+	Score: 2/3/10
+	Damage Dealt to Champions: 5143
+	Gold Spent: 7425
+	Damage-to-Gold Ratio: 0.693
+	Vision Score: 81
+
+Red: Not My President
+
+She wont say yes | Garen: 
+	Score: 1/2/1
+	Damage Dealt to Champions: 7584
+	Gold Spent: 8405
+	Damage-to-Gold Ratio: 0.902
+	Vision Score: 30
+Wyl | Kindred: 
+	Score: 2/3/3
+	Damage Dealt to Champions: 2225
+	Gold Spent: 7050
+	Damage-to-Gold Ratio: 0.316
+	Vision Score: 20
+Just Ask Her Out | Seraphine: 
+	Score: 2/3/3
+	Damage Dealt to Champions: 13113
+	Gold Spent: 8875
+	Damage-to-Gold Ratio: 1.478
+	Vision Score: 25
+Sojiro Sakura | Swain: 
+	Score: 1/4/3
+	Damage Dealt to Champions: 7172
+	Gold Spent: 6900
+	Damage-to-Gold Ratio: 1.039
+	Vision Score: 14
+Bill Cypher | Leona: 
+	Score: 0/4/3
+	Damage Dealt to Champions: 1807
+	Gold Spent: 4850
+	Damage-to-Gold Ratio: 0.373
+	Vision Score: 43
+
+====== GAME 9 | ID: 3811991068 ======
+
+Blue: Not My President
+
+She wont say yes | Aatrox: 
+	Score: 8/4/13
+	Damage Dealt to Champions: 25145
+	Gold Spent: 14200
+	Damage-to-Gold Ratio: 1.771
+	Vision Score: 33
+Wyl | Lillia: 
+	Score: 4/7/10
+	Damage Dealt to Champions: 15613
+	Gold Spent: 9385
+	Damage-to-Gold Ratio: 1.664
+	Vision Score: 28
+Just Ask Her Out | Yasuo: 
+	Score: 7/8/11
+	Damage Dealt to Champions: 18776
+	Gold Spent: 14380
+	Damage-to-Gold Ratio: 1.306
+	Vision Score: 32
+Sojiro Sakura | Swain: 
+	Score: 5/4/11
+	Damage Dealt to Champions: 20740
+	Gold Spent: 11535
+	Damage-to-Gold Ratio: 1.798
+	Vision Score: 44
+Bill Cypher | Rell: 
+	Score: 1/10/11
+	Damage Dealt to Champions: 4788
+	Gold Spent: 7325
+	Damage-to-Gold Ratio: 0.654
+	Vision Score: 92
+
+Red: Lower Bracket Gatekeepers
+
+Edwin Peraza | Malphite: 
+	Score: 12/5/16
+	Damage Dealt to Champions: 29514
+	Gold Spent: 14325
+	Damage-to-Gold Ratio: 2.06
+	Vision Score: 37
+CrimsonR0se | Orianna: 
+	Score: 6/5/20
+	Damage Dealt to Champions: 19489
+	Gold Spent: 14450
+	Damage-to-Gold Ratio: 1.349
+	Vision Score: 51
+Piercing Rain | Ezreal: 
+	Score: 7/4/18
+	Damage Dealt to Champions: 36232
+	Gold Spent: 13950
+	Damage-to-Gold Ratio: 2.597
+	Vision Score: 38
+Juruken | Thresh: 
+	Score: 4/7/20
+	Damage Dealt to Champions: 8791
+	Gold Spent: 8525
+	Damage-to-Gold Ratio: 1.031
+	Vision Score: 97
+insay | Sejuani: 
+	Score: 4/4/24
+	Damage Dealt to Champions: 13922
+	Gold Spent: 11935
+	Damage-to-Gold Ratio: 1.166
+	Vision Score: 35
+
+====== GAME 10 | ID: 3812260695 ======
+
+Blue: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 2/2/4
+	Damage Dealt to Champions: 9357
+	Gold Spent: 10800
+	Damage-to-Gold Ratio: 0.866
+	Vision Score: 18
+WeDoWhatWeMust | Zac: 
+	Score: 0/3/5
+	Damage Dealt to Champions: 9492
+	Gold Spent: 10300
+	Damage-to-Gold Ratio: 0.922
+	Vision Score: 52
+melon buns | Qiyana: 
+	Score: 6/8/3
+	Damage Dealt to Champions: 13968
+	Gold Spent: 12500
+	Damage-to-Gold Ratio: 1.117
+	Vision Score: 33
+Ferney | Miss Fortune: 
+	Score: 2/2/4
+	Damage Dealt to Champions: 22263
+	Gold Spent: 15500
+	Damage-to-Gold Ratio: 1.436
+	Vision Score: 49
+Kinzo | Seraphine: 
+	Score: 0/6/6
+	Damage Dealt to Champions: 4678
+	Gold Spent: 7300
+	Damage-to-Gold Ratio: 0.641
+	Vision Score: 41
+
+Red: The Zoo
+
+GINNYDOG | Garen: 
+	Score: 5/1/4
+	Damage Dealt to Champions: 16853
+	Gold Spent: 15075
+	Damage-to-Gold Ratio: 1.118
+	Vision Score: 40
+Anonymous Turtle | Hecarim: 
+	Score: 5/3/10
+	Damage Dealt to Champions: 12141
+	Gold Spent: 12450
+	Damage-to-Gold Ratio: 0.975
+	Vision Score: 45
+Bakami | Orianna: 
+	Score: 5/3/5
+	Damage Dealt to Champions: 16335
+	Gold Spent: 12900
+	Damage-to-Gold Ratio: 1.266
+	Vision Score: 33
+Brycep00 | Senna: 
+	Score: 5/2/10
+	Damage Dealt to Champions: 21483
+	Gold Spent: 14850
+	Damage-to-Gold Ratio: 1.447
+	Vision Score: 33
+ƒrogchamp | Karma: 
+	Score: 1/1/13
+	Damage Dealt to Champions: 3724
+	Gold Spent: 8035
+	Damage-to-Gold Ratio: 0.463
+	Vision Score: 118
+
+====== GAME 11 | ID: 3812261108 ======
+
+Blue: Team 7 Mid
+
+AFurnitureItem | Ornn: 
+	Score: 0/3/16
+	Damage Dealt to Champions: 16780
+	Gold Spent: 9980
+	Damage-to-Gold Ratio: 1.681
+	Vision Score: 22
+WeDoWhatWeMust | Nocturne: 
+	Score: 7/3/13
+	Damage Dealt to Champions: 17711
+	Gold Spent: 13275
+	Damage-to-Gold Ratio: 1.334
+	Vision Score: 48
+Kinzo | Rell: 
+	Score: 2/3/19
+	Damage Dealt to Champions: 10400
+	Gold Spent: 9875
+	Damage-to-Gold Ratio: 1.053
+	Vision Score: 96
+Ferney | Tristana: 
+	Score: 8/4/7
+	Damage Dealt to Champions: 29581
+	Gold Spent: 15600
+	Damage-to-Gold Ratio: 1.896
+	Vision Score: 46
+melon buns | Lux: 
+	Score: 12/3/10
+	Damage Dealt to Champions: 36721
+	Gold Spent: 14000
+	Damage-to-Gold Ratio: 2.623
+	Vision Score: 29
+
+Red: The Zoo
+
+GINNYDOG | Sion: 
+	Score: 2/5/6
+	Damage Dealt to Champions: 17627
+	Gold Spent: 10200
+	Damage-to-Gold Ratio: 1.728
+	Vision Score: 31
+Anonymous Turtle | Kha'Zix: 
+	Score: 3/7/7
+	Damage Dealt to Champions: 11245
+	Gold Spent: 11450
+	Damage-to-Gold Ratio: 0.982
+	Vision Score: 27
+Bakami | Syndra: 
+	Score: 4/4/6
+	Damage Dealt to Champions: 14441
+	Gold Spent: 13325
+	Damage-to-Gold Ratio: 1.084
+	Vision Score: 30
+Brycep00 | Ashe: 
+	Score: 7/7/4
+	Damage Dealt to Champions: 26579
+	Gold Spent: 13955
+	Damage-to-Gold Ratio: 1.905
+	Vision Score: 37
+ƒrogchamp | Lulu: 
+	Score: 0/6/10
+	Damage Dealt to Champions: 1873
+	Gold Spent: 7550
+	Damage-to-Gold Ratio: 0.248
+	Vision Score: 87
+
+====== GAME 12 | ID: 3812261247 ======
+
+Blue: The Zoo
+
+Anonymous Turtle | Garen: 
+	Score: 10/2/5
+	Damage Dealt to Champions: 22869
+	Gold Spent: 17375
+	Damage-to-Gold Ratio: 1.316
+	Vision Score: 49
+Anonymous Turtle | Volibear: 
+	Score: 3/3/15
+	Damage Dealt to Champions: 16147
+	Gold Spent: 14200
+	Damage-to-Gold Ratio: 1.137
+	Vision Score: 47
+Bakami | Azir: 
+	Score: 9/5/10
+	Damage Dealt to Champions: 42050
+	Gold Spent: 17700
+	Damage-to-Gold Ratio: 2.376
+	Vision Score: 54
+Brycep00 | Caitlyn: 
+	Score: 9/6/12
+	Damage Dealt to Champions: 45027
+	Gold Spent: 16775
+	Damage-to-Gold Ratio: 2.684
+	Vision Score: 66
+ƒrogchamp | Seraphine: 
+	Score: 0/5/26
+	Damage Dealt to Champions: 13009
+	Gold Spent: 12000
+	Damage-to-Gold Ratio: 1.084
+	Vision Score: 153
+
+Red: Team 7 Mid
+
+AFurnitureItem | Ornn: 
+	Score: 2/3/12
+	Damage Dealt to Champions: 23200
+	Gold Spent: 17525
+	Damage-to-Gold Ratio: 1.324
+	Vision Score: 15
+WeDoWhatWeMust | Jarvan IV: 
+	Score: 1/9/18
+	Damage Dealt to Champions: 12646
+	Gold Spent: 16030
+	Damage-to-Gold Ratio: 0.789
+	Vision Score: 69
+Kinzo | Pyke: 
+	Score: 4/10/9
+	Damage Dealt to Champions: 13713
+	Gold Spent: 14570
+	Damage-to-Gold Ratio: 0.941
+	Vision Score: 208
+Ferney | Kai'Sa: 
+	Score: 9/6/7
+	Damage Dealt to Champions: 40600
+	Gold Spent: 25625
+	Damage-to-Gold Ratio: 1.584
+	Vision Score: 78
+melon buns | Lux: 
+	Score: 5/3/8
+	Damage Dealt to Champions: 21060
+	Gold Spent: 14675
+	Damage-to-Gold Ratio: 1.435
+	Vision Score: 32
+
+====== GAME 13 | ID: 3812066116 ======
+
+Blue: NBNE
+
+F4aintbwind | Garen: 
+	Score: 6/0/8
+	Damage Dealt to Champions: 18143
+	Gold Spent: 9425
+	Damage-to-Gold Ratio: 1.925
+	Vision Score: 10
+F4aintbwind | Hecarim: 
+	Score: 5/2/15
+	Damage Dealt to Champions: 12091
+	Gold Spent: 8258
+	Damage-to-Gold Ratio: 1.464
+	Vision Score: 15
+EternaLProspecT | Orianna: 
+	Score: 5/1/12
+	Damage Dealt to Champions: 12191
+	Gold Spent: 8500
+	Damage-to-Gold Ratio: 1.434
+	Vision Score: 25
+ThatOneRyanGuy | Jinx: 
+	Score: 9/0/10
+	Damage Dealt to Champions: 13137
+	Gold Spent: 9150
+	Damage-to-Gold Ratio: 1.436
+	Vision Score: 11
+ketiqu | Leona: 
+	Score: 2/2/14
+	Damage Dealt to Champions: 4231
+	Gold Spent: 5625
+	Damage-to-Gold Ratio: 0.752
+	Vision Score: 49
+
+Red: UCLA
+
+booisucksomuch3 | Illaoi: 
+	Score: 1/7/0
+	Damage Dealt to Champions: 14886
+	Gold Spent: 7550
+	Damage-to-Gold Ratio: 1.972
+	Vision Score: 14
+Mame Jin | Warwick: 
+	Score: 2/7/1
+	Damage Dealt to Champions: 2986
+	Gold Spent: 5775
+	Damage-to-Gold Ratio: 0.517
+	Vision Score: 9
+MadLifeisGod | Corki: 
+	Score: 0/3/4
+	Damage Dealt to Champions: 7551
+	Gold Spent: 6600
+	Damage-to-Gold Ratio: 1.144
+	Vision Score: 9
+Snail352 | Seraphine: 
+	Score: 2/3/1
+	Damage Dealt to Champions: 6977
+	Gold Spent: 7395
+	Damage-to-Gold Ratio: 0.943
+	Vision Score: 15
+littlemunchkin24 | Nautilus: 
+	Score: 0/7/4
+	Damage Dealt to Champions: 4496
+	Gold Spent: 5725
+	Damage-to-Gold Ratio: 0.785
+	Vision Score: 32
+
+====== GAME 14 | ID: 3812366067 ======
+
+Blue: UCLA
+
+booisucksomuch3 | Wukong: 
+	Score: 0/6/0
+	Damage Dealt to Champions: 7624
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 1.16
+	Vision Score: 8
+Mame Jin | Hecarim: 
+	Score: 4/5/2
+	Damage Dealt to Champions: 10561
+	Gold Spent: 7100
+	Damage-to-Gold Ratio: 1.487
+	Vision Score: 8
+MadLifeisGod | Galio: 
+	Score: 1/3/2
+	Damage Dealt to Champions: 7275
+	Gold Spent: 6110
+	Damage-to-Gold Ratio: 1.191
+	Vision Score: 11
+Snail352 | Ezreal: 
+	Score: 1/3/2
+	Damage Dealt to Champions: 7760
+	Gold Spent: 6255
+	Damage-to-Gold Ratio: 1.241
+	Vision Score: 17
+littlemunchkin24 | Yuumi: 
+	Score: 1/0/5
+	Damage Dealt to Champions: 5160
+	Gold Spent: 4735
+	Damage-to-Gold Ratio: 1.09
+	Vision Score: 32
+
+Red: NBNE
+
+iwc112358 | Poppy: 
+	Score: 4/0/5
+	Damage Dealt to Champions: 15322
+	Gold Spent: 9350
+	Damage-to-Gold Ratio: 1.639
+	Vision Score: 20
+F4aintbwind | Dr. Mundo: 
+	Score: 5/1/4
+	Damage Dealt to Champions: 6430
+	Gold Spent: 7750
+	Damage-to-Gold Ratio: 0.83
+	Vision Score: 17
+EternaLProspecT | Ryze: 
+	Score: 4/3/5
+	Damage Dealt to Champions: 13314
+	Gold Spent: 7460
+	Damage-to-Gold Ratio: 1.785
+	Vision Score: 26
+ThatOneRyanGuy | Sivir: 
+	Score: 3/2/4
+	Damage Dealt to Champions: 16469
+	Gold Spent: 6850
+	Damage-to-Gold Ratio: 2.404
+	Vision Score: 12
+ketiqu | Nautilus: 
+	Score: 1/1/6
+	Damage Dealt to Champions: 5268
+	Gold Spent: 4150
+	Damage-to-Gold Ratio: 1.269
+	Vision Score: 35
+
+====== GAME 15 | ID: 3812135729 ======
+
+Blue: Donkey Farts
+
+MidBaked | Galio: 
+	Score: 4/0/20
+	Damage Dealt to Champions: 16689
+	Gold Spent: 9075
+	Damage-to-Gold Ratio: 1.839
+	Vision Score: 18
+over it | Kai'Sa: 
+	Score: 11/2/11
+	Damage Dealt to Champions: 16174
+	Gold Spent: 13175
+	Damage-to-Gold Ratio: 1.228
+	Vision Score: 24
+Blásé | Alistar: 
+	Score: 2/1/21
+	Damage Dealt to Champions: 6829
+	Gold Spent: 5325
+	Damage-to-Gold Ratio: 1.282
+	Vision Score: 43
+NeoDoctor | Urgot: 
+	Score: 2/1/6
+	Damage Dealt to Champions: 7508
+	Gold Spent: 6925
+	Damage-to-Gold Ratio: 1.084
+	Vision Score: 16
+Zâch | Lillia: 
+	Score: 9/2/9
+	Damage Dealt to Champions: 14586
+	Gold Spent: 8825
+	Damage-to-Gold Ratio: 1.653
+	Vision Score: 12
+
+Red: Discord Kittens
+
+AsylumX | Gnar: 
+	Score: 1/5/0
+	Damage Dealt to Champions: 12627
+	Gold Spent: 7250
+	Damage-to-Gold Ratio: 1.742
+	Vision Score: 30
+Icurus | Skarner: 
+	Score: 0/9/5
+	Damage Dealt to Champions: 3131
+	Gold Spent: 6950
+	Damage-to-Gold Ratio: 0.451
+	Vision Score: 21
+IAmOneCrazyDude | Seraphine: 
+	Score: 3/4/0
+	Damage Dealt to Champions: 13145
+	Gold Spent: 9175
+	Damage-to-Gold Ratio: 1.433
+	Vision Score: 18
+sadder luna | Caitlyn: 
+	Score: 2/5/2
+	Damage Dealt to Champions: 18223
+	Gold Spent: 7975
+	Damage-to-Gold Ratio: 2.285
+	Vision Score: 21
+Puar | Leona: 
+	Score: 0/5/4
+	Damage Dealt to Champions: 2982
+	Gold Spent: 4675
+	Damage-to-Gold Ratio: 0.638
+	Vision Score: 48
+
+====== GAME 16 | ID: 3812366027 ======
+
+Blue: Discord Kittens
+
+AsylumX | Renekton: 
+	Score: 7/0/1
+	Damage Dealt to Champions: 6508
+	Gold Spent: 8650
+	Damage-to-Gold Ratio: 0.752
+	Vision Score: 20
+Icurus | Amumu: 
+	Score: 4/1/10
+	Damage Dealt to Champions: 8716
+	Gold Spent: 8125
+	Damage-to-Gold Ratio: 1.073
+	Vision Score: 20
+IAmOneCrazyDude | Brand: 
+	Score: 7/3/9
+	Damage Dealt to Champions: 14567
+	Gold Spent: 7900
+	Damage-to-Gold Ratio: 1.844
+	Vision Score: 28
+Icurus | Kai'Sa: 
+	Score: 12/3/3
+	Damage Dealt to Champions: 10824
+	Gold Spent: 9050
+	Damage-to-Gold Ratio: 1.196
+	Vision Score: 27
+Puar | Thresh: 
+	Score: 1/3/19
+	Damage Dealt to Champions: 5779
+	Gold Spent: 5575
+	Damage-to-Gold Ratio: 1.037
+	Vision Score: 52
+
+Red: Donkey Farts
+
+NeoDoctor | Urgot: 
+	Score: 0/2/0
+	Damage Dealt to Champions: 2186
+	Gold Spent: 5450
+	Damage-to-Gold Ratio: 0.401
+	Vision Score: 14
+Zâch | Kha'Zix: 
+	Score: 2/8/3
+	Damage Dealt to Champions: 6141
+	Gold Spent: 6400
+	Damage-to-Gold Ratio: 0.96
+	Vision Score: 15
+MidBaked | Viktor: 
+	Score: 2/6/2
+	Damage Dealt to Champions: 13101
+	Gold Spent: 7485
+	Damage-to-Gold Ratio: 1.75
+	Vision Score: 18
+over it | Vayne: 
+	Score: 2/8/6
+	Damage Dealt to Champions: 5137
+	Gold Spent: 6650
+	Damage-to-Gold Ratio: 0.772
+	Vision Score: 11
+Blásé | Pyke: 
+	Score: 4/7/6
+	Damage Dealt to Champions: 4917
+	Gold Spent: 6400
+	Damage-to-Gold Ratio: 0.768
+	Vision Score: 41
+
+====== GAME 17 | ID: 3812366318 ======
+
+Blue: Donkey Farts
+
+NeoDoctor | Orianna: 
+	Score: 12/3/10
+	Damage Dealt to Champions: 34999
+	Gold Spent: 13925
+	Damage-to-Gold Ratio: 2.513
+	Vision Score: 22
+Zâch | Ornn: 
+	Score: 4/2/11
+	Damage Dealt to Champions: 8797
+	Gold Spent: 9175
+	Damage-to-Gold Ratio: 0.959
+	Vision Score: 18
+Zâch | Hecarim: 
+	Score: 11/5/15
+	Damage Dealt to Champions: 24697
+	Gold Spent: 13325
+	Damage-to-Gold Ratio: 1.853
+	Vision Score: 31
+over it | Tristana: 
+	Score: 5/5/7
+	Damage Dealt to Champions: 13246
+	Gold Spent: 10250
+	Damage-to-Gold Ratio: 1.292
+	Vision Score: 40
+Blásé | Rell: 
+	Score: 1/7/22
+	Damage Dealt to Champions: 9577
+	Gold Spent: 7225
+	Damage-to-Gold Ratio: 1.326
+	Vision Score: 70
+
+Red: Discord Kittens
+
+AsylumX | Urgot: 
+	Score: 10/4/7
+	Damage Dealt to Champions: 28306
+	Gold Spent: 14650
+	Damage-to-Gold Ratio: 1.932
+	Vision Score: 33
+Icurus | Fiddlesticks: 
+	Score: 4/6/8
+	Damage Dealt to Champions: 11398
+	Gold Spent: 10625
+	Damage-to-Gold Ratio: 1.073
+	Vision Score: 80
+IAmOneCrazyDude | Syndra: 
+	Score: 4/8/4
+	Damage Dealt to Champions: 14489
+	Gold Spent: 9650
+	Damage-to-Gold Ratio: 1.501
+	Vision Score: 27
+sadder luna | Jinx: 
+	Score: 2/6/11
+	Damage Dealt to Champions: 14150
+	Gold Spent: 12100
+	Damage-to-Gold Ratio: 1.169
+	Vision Score: 52
+Puar | Thresh: 
+	Score: 2/9/13
+	Damage Dealt to Champions: 5027
+	Gold Spent: 7900
+	Damage-to-Gold Ratio: 0.636
+	Vision Score: 76
+
+====== GAME 18 | ID: 3812346217 ======
+
+Blue: Zac's Ooey Gooey Slimes
+
+Minalinsky | Aatrox: 
+	Score: 1/7/6
+	Damage Dealt to Champions: 12056
+	Gold Spent: 13125
+	Damage-to-Gold Ratio: 0.919
+	Vision Score: 43
+GLONKY FUGGLER | Hecarim: 
+	Score: 2/6/6
+	Damage Dealt to Champions: 14601
+	Gold Spent: 14208
+	Damage-to-Gold Ratio: 1.028
+	Vision Score: 35
+Mechhart | Viktor: 
+	Score: 10/4/8
+	Damage Dealt to Champions: 59479
+	Gold Spent: 18950
+	Damage-to-Gold Ratio: 3.139
+	Vision Score: 38
+Snorunt | Caitlyn: 
+	Score: 5/5/5
+	Damage Dealt to Champions: 17267
+	Gold Spent: 15550
+	Damage-to-Gold Ratio: 1.11
+	Vision Score: 56
+Ríka | Seraphine: 
+	Score: 1/6/15
+	Damage Dealt to Champions: 11074
+	Gold Spent: 9625
+	Damage-to-Gold Ratio: 1.151
+	Vision Score: 104
+
+Red: Get Me Out
+
+Spongebobu | Shen: 
+	Score: 2/4/13
+	Damage Dealt to Champions: 11892
+	Gold Spent: 13300
+	Damage-to-Gold Ratio: 0.894
+	Vision Score: 31
+Splendor | Kha'Zix: 
+	Score: 9/6/13
+	Damage Dealt to Champions: 37122
+	Gold Spent: 14850
+	Damage-to-Gold Ratio: 2.5
+	Vision Score: 41
+Jaypark Fanboy | Syndra: 
+	Score: 9/4/10
+	Damage Dealt to Champions: 38143
+	Gold Spent: 15300
+	Damage-to-Gold Ratio: 2.493
+	Vision Score: 41
+Mårç | Ezreal: 
+	Score: 7/2/12
+	Damage Dealt to Champions: 38895
+	Gold Spent: 16500
+	Damage-to-Gold Ratio: 2.357
+	Vision Score: 40
+Againstic | Lulu: 
+	Score: 1/3/20
+	Damage Dealt to Champions: 2992
+	Gold Spent: 9625
+	Damage-to-Gold Ratio: 0.311
+	Vision Score: 107
+
+====== GAME 19 | ID: 3812346811 ======
+
+Blue: Get Me Out
+
+Spongebobu | Sion: 
+	Score: 1/6/10
+	Damage Dealt to Champions: 21633
+	Gold Spent: 11850
+	Damage-to-Gold Ratio: 1.826
+	Vision Score: 33
+Splendor | Hecarim: 
+	Score: 8/4/10
+	Damage Dealt to Champions: 28581
+	Gold Spent: 14175
+	Damage-to-Gold Ratio: 2.016
+	Vision Score: 31
+Jaypark Fanboy | Orianna: 
+	Score: 8/6/8
+	Damage Dealt to Champions: 30313
+	Gold Spent: 13575
+	Damage-to-Gold Ratio: 2.233
+	Vision Score: 30
+Mårç | Sivir: 
+	Score: 4/7/10
+	Damage Dealt to Champions: 14683
+	Gold Spent: 12505
+	Damage-to-Gold Ratio: 1.174
+	Vision Score: 25
+Againstic | Seraphine: 
+	Score: 0/6/16
+	Damage Dealt to Champions: 9163
+	Gold Spent: 7735
+	Damage-to-Gold Ratio: 1.185
+	Vision Score: 100
+
+Red: Zac's Ooey Gooey Slimes
+
+Minalinsky | Aatrox: 
+	Score: 4/3/8
+	Damage Dealt to Champions: 17170
+	Gold Spent: 11725
+	Damage-to-Gold Ratio: 1.464
+	Vision Score: 37
+GLONKY FUGGLER | Kayn: 
+	Score: 10/3/12
+	Damage Dealt to Champions: 30108
+	Gold Spent: 14900
+	Damage-to-Gold Ratio: 2.021
+	Vision Score: 16
+Mechhart | Corki: 
+	Score: 5/3/12
+	Damage Dealt to Champions: 36202
+	Gold Spent: 15950
+	Damage-to-Gold Ratio: 2.27
+	Vision Score: 48
+Snorunt | Tristana: 
+	Score: 9/5/10
+	Damage Dealt to Champions: 24145
+	Gold Spent: 14180
+	Damage-to-Gold Ratio: 1.703
+	Vision Score: 32
+Ríka | Leona: 
+	Score: 1/7/20
+	Damage Dealt to Champions: 6242
+	Gold Spent: 8700
+	Damage-to-Gold Ratio: 0.717
+	Vision Score: 102
+
+====== GAME 20 | ID: 3814164209 ======
+
+Blue: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Ornn: 
+	Score: 3/6/10
+	Damage Dealt to Champions: 22618
+	Gold Spent: 11125
+	Damage-to-Gold Ratio: 2.033
+	Vision Score: 19
+Dream Eradicator | Nunu & Willump: 
+	Score: 3/5/6
+	Damage Dealt to Champions: 10083
+	Gold Spent: 10050
+	Damage-to-Gold Ratio: 1.003
+	Vision Score: 23
+One Punch Doggo | Orianna: 
+	Score: 1/3/9
+	Damage Dealt to Champions: 16446
+	Gold Spent: 13150
+	Damage-to-Gold Ratio: 1.251
+	Vision Score: 20
+Twilight Koreziv | Kai'Sa: 
+	Score: 9/6/2
+	Damage Dealt to Champions: 16079
+	Gold Spent: 15650
+	Damage-to-Gold Ratio: 1.027
+	Vision Score: 23
+Bloo | Leona: 
+	Score: 0/5/11
+	Damage Dealt to Champions: 4932
+	Gold Spent: 7600
+	Damage-to-Gold Ratio: 0.649
+	Vision Score: 94
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Riven: 
+	Score: 3/5/9
+	Damage Dealt to Champions: 11971
+	Gold Spent: 12500
+	Damage-to-Gold Ratio: 0.958
+	Vision Score: 27
+NinjaHamsters18 | Jarvan IV: 
+	Score: 3/3/21
+	Damage Dealt to Champions: 13623
+	Gold Spent: 11750
+	Damage-to-Gold Ratio: 1.159
+	Vision Score: 80
+BirdofSand | Vladimir: 
+	Score: 5/1/11
+	Damage Dealt to Champions: 18534
+	Gold Spent: 13200
+	Damage-to-Gold Ratio: 1.404
+	Vision Score: 20
+Minatozaki | Vayne: 
+	Score: 14/3/6
+	Damage Dealt to Champions: 21881
+	Gold Spent: 13350
+	Damage-to-Gold Ratio: 1.639
+	Vision Score: 56
+Kamu40 | Blitzcrank: 
+	Score: 0/4/18
+	Damage Dealt to Champions: 5366
+	Gold Spent: 6825
+	Damage-to-Gold Ratio: 0.786
+	Vision Score: 91
+
+====== GAME 21 | ID: 3814164648 ======
+
+Blue: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Ornn: 
+	Score: 2/4/14
+	Damage Dealt to Champions: 14856
+	Gold Spent: 12950
+	Damage-to-Gold Ratio: 1.147
+	Vision Score: 56
+Dream Eradicator | Kha'Zix: 
+	Score: 15/5/5
+	Damage Dealt to Champions: 33559
+	Gold Spent: 14500
+	Damage-to-Gold Ratio: 2.314
+	Vision Score: 30
+One Punch Doggo | Orianna: 
+	Score: 3/3/12
+	Damage Dealt to Champions: 20436
+	Gold Spent: 16200
+	Damage-to-Gold Ratio: 1.261
+	Vision Score: 41
+Twilight Koreziv | Miss Fortune: 
+	Score: 4/5/17
+	Damage Dealt to Champions: 30587
+	Gold Spent: 16110
+	Damage-to-Gold Ratio: 1.899
+	Vision Score: 41
+Bloo | Seraphine: 
+	Score: 3/4/18
+	Damage Dealt to Champions: 13225
+	Gold Spent: 9250
+	Damage-to-Gold Ratio: 1.43
+	Vision Score: 90
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Lulu: 
+	Score: 4/6/10
+	Damage Dealt to Champions: 10337
+	Gold Spent: 12435
+	Damage-to-Gold Ratio: 0.831
+	Vision Score: 42
+NinjaHamsters18 | Sion: 
+	Score: 4/5/10
+	Damage Dealt to Champions: 18790
+	Gold Spent: 12825
+	Damage-to-Gold Ratio: 1.465
+	Vision Score: 53
+BirdofSand | Vladimir: 
+	Score: 6/3/3
+	Damage Dealt to Champions: 20418
+	Gold Spent: 18400
+	Damage-to-Gold Ratio: 1.11
+	Vision Score: 25
+Minatozaki | Aphelios: 
+	Score: 6/7/9
+	Damage Dealt to Champions: 17400
+	Gold Spent: 17050
+	Damage-to-Gold Ratio: 1.021
+	Vision Score: 51
+Kamu40 | Blitzcrank: 
+	Score: 1/6/13
+	Damage Dealt to Champions: 7923
+	Gold Spent: 8800
+	Damage-to-Gold Ratio: 0.9
+	Vision Score: 105
+
+====== GAME 22 | ID: 3814164889 ======
+
+Blue: KAMINATONINJASANDM0DE58
+
+NinjaHamsters18 | Jarvan IV: 
+	Score: 4/5/9
+	Damage Dealt to Champions: 11504
+	Gold Spent: 9925
+	Damage-to-Gold Ratio: 1.159
+	Vision Score: 43
+SICKLEM0DE | Aatrox: 
+	Score: 1/3/8
+	Damage Dealt to Champions: 20030
+	Gold Spent: 10550
+	Damage-to-Gold Ratio: 1.899
+	Vision Score: 31
+BirdofSand | Gangplank: 
+	Score: 5/4/5
+	Damage Dealt to Champions: 19976
+	Gold Spent: 15250
+	Damage-to-Gold Ratio: 1.31
+	Vision Score: 13
+Minatozaki | Kai'Sa: 
+	Score: 4/3/4
+	Damage Dealt to Champions: 10772
+	Gold Spent: 13000
+	Damage-to-Gold Ratio: 0.829
+	Vision Score: 32
+Kamu40 | Galio: 
+	Score: 2/7/7
+	Damage Dealt to Champions: 7027
+	Gold Spent: 7060
+	Damage-to-Gold Ratio: 0.995
+	Vision Score: 92
+
+Red: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Gnar: 
+	Score: 2/4/7
+	Damage Dealt to Champions: 12692
+	Gold Spent: 12150
+	Damage-to-Gold Ratio: 1.045
+	Vision Score: 22
+Dream Eradicator | Dr. Mundo: 
+	Score: 8/3/7
+	Damage Dealt to Champions: 24427
+	Gold Spent: 13455
+	Damage-to-Gold Ratio: 1.815
+	Vision Score: 35
+One Punch Doggo | Vladimir: 
+	Score: 6/4/9
+	Damage Dealt to Champions: 21398
+	Gold Spent: 14450
+	Damage-to-Gold Ratio: 1.481
+	Vision Score: 18
+Twilight Koreziv | Miss Fortune: 
+	Score: 6/2/4
+	Damage Dealt to Champions: 12331
+	Gold Spent: 11625
+	Damage-to-Gold Ratio: 1.061
+	Vision Score: 37
+Bloo | Leona: 
+	Score: 0/3/18
+	Damage Dealt to Champions: 5289
+	Gold Spent: 8275
+	Damage-to-Gold Ratio: 0.639
+	Vision Score: 90
+
+====== GAME 23 | ID: 3816175752 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Darius: 
+	Score: 7/1/8
+	Damage Dealt to Champions: 18631
+	Gold Spent: 9475
+	Damage-to-Gold Ratio: 1.966
+	Vision Score: 25
+BrandFlakez | Udyr: 
+	Score: 9/0/11
+	Damage Dealt to Champions: 14762
+	Gold Spent: 12825
+	Damage-to-Gold Ratio: 1.151
+	Vision Score: 26
+Ejaculatory | Galio: 
+	Score: 3/2/14
+	Damage Dealt to Champions: 13519
+	Gold Spent: 9025
+	Damage-to-Gold Ratio: 1.498
+	Vision Score: 27
+FORCED ORGASM | Caitlyn: 
+	Score: 4/2/7
+	Damage Dealt to Champions: 7285
+	Gold Spent: 8725
+	Damage-to-Gold Ratio: 0.835
+	Vision Score: 23
+BIurr | Seraphine: 
+	Score: 2/1/13
+	Damage Dealt to Champions: 3009
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 0.458
+	Vision Score: 45
+
+Red: Daddy Chill
+
+Minnogi | Malphite: 
+	Score: 2/6/1
+	Damage Dealt to Champions: 8831
+	Gold Spent: 7375
+	Damage-to-Gold Ratio: 1.197
+	Vision Score: 18
+Goshiki | Jarvan IV: 
+	Score: 1/4/4
+	Damage Dealt to Champions: 4703
+	Gold Spent: 5125
+	Damage-to-Gold Ratio: 0.918
+	Vision Score: 24
+Śenpai | Yasuo: 
+	Score: 1/7/2
+	Damage Dealt to Champions: 10056
+	Gold Spent: 8520
+	Damage-to-Gold Ratio: 1.18
+	Vision Score: 24
+Akaruishi | Tristana: 
+	Score: 2/2/0
+	Damage Dealt to Champions: 8031
+	Gold Spent: 9375
+	Damage-to-Gold Ratio: 0.857
+	Vision Score: 24
+Sugoi Neko | Leona: 
+	Score: 0/6/3
+	Damage Dealt to Champions: 3562
+	Gold Spent: 5575
+	Damage-to-Gold Ratio: 0.639
+	Vision Score: 57
+
+====== GAME 24 | ID: 3816175974 ======
+
+Blue: Daddy Chill
+
+Minnogi | Sett: 
+	Score: 2/4/2
+	Damage Dealt to Champions: 6841
+	Gold Spent: 7475
+	Damage-to-Gold Ratio: 0.915
+	Vision Score: 22
+Goshiki | Ekko: 
+	Score: 3/6/5
+	Damage Dealt to Champions: 11440
+	Gold Spent: 7550
+	Damage-to-Gold Ratio: 1.515
+	Vision Score: 19
+Śenpai | Lucian: 
+	Score: 4/7/2
+	Damage Dealt to Champions: 13894
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 1.548
+	Vision Score: 37
+Akaruishi | Vayne: 
+	Score: 0/7/8
+	Damage Dealt to Champions: 6590
+	Gold Spent: 6925
+	Damage-to-Gold Ratio: 0.952
+	Vision Score: 20
+Sugoi Neko | Shen: 
+	Score: 2/5/7
+	Damage Dealt to Champions: 4393
+	Gold Spent: 5625
+	Damage-to-Gold Ratio: 0.781
+	Vision Score: 55
+
+Red: Gigastuck Marines
+
+ImTheBill | Pantheon: 
+	Score: 7/1/8
+	Damage Dealt to Champions: 16231
+	Gold Spent: 8900
+	Damage-to-Gold Ratio: 1.824
+	Vision Score: 13
+BrandFlakez | Hecarim: 
+	Score: 7/4/14
+	Damage Dealt to Champions: 18418
+	Gold Spent: 9858
+	Damage-to-Gold Ratio: 1.868
+	Vision Score: 17
+Ejaculatory | Yone: 
+	Score: 5/1/8
+	Damage Dealt to Champions: 11525
+	Gold Spent: 9350
+	Damage-to-Gold Ratio: 1.233
+	Vision Score: 26
+FORCED ORGASM | Miss Fortune: 
+	Score: 6/3/14
+	Damage Dealt to Champions: 11948
+	Gold Spent: 8425
+	Damage-to-Gold Ratio: 1.418
+	Vision Score: 16
+BIurr | Seraphine: 
+	Score: 4/2/18
+	Damage Dealt to Champions: 7555
+	Gold Spent: 6875
+	Damage-to-Gold Ratio: 1.099
+	Vision Score: 58
+
+====== GAME 25 | ID: 3818650796 ======
+
+Blue: Phantom Thieves
+
+Ren Amamiya | Kayle: 
+	Score: 1/4/8
+	Damage Dealt to Champions: 19247
+	Gold Spent: 14200
+	Damage-to-Gold Ratio: 1.355
+	Vision Score: 27
+Full Send It Bro | Dr. Mundo: 
+	Score: 2/4/6
+	Damage Dealt to Champions: 16985
+	Gold Spent: 13100
+	Damage-to-Gold Ratio: 1.297
+	Vision Score: 49
+Luau | Seraphine: 
+	Score: 0/7/5
+	Damage Dealt to Champions: 5659
+	Gold Spent: 6245
+	Damage-to-Gold Ratio: 0.906
+	Vision Score: 85
+Susânoo | Volibear: 
+	Score: 3/5/5
+	Damage Dealt to Champions: 13156
+	Gold Spent: 10350
+	Damage-to-Gold Ratio: 1.271
+	Vision Score: 24
+Sleepìng | Lucian: 
+	Score: 4/5/2
+	Damage Dealt to Champions: 9843
+	Gold Spent: 9900
+	Damage-to-Gold Ratio: 0.994
+	Vision Score: 15
+
+Red: No Scrawny Boys
+
+SoulwingXD | Shen: 
+	Score: 4/3/14
+	Damage Dealt to Champions: 11679
+	Gold Spent: 11550
+	Damage-to-Gold Ratio: 1.011
+	Vision Score: 23
+iAmezcua | Tristana: 
+	Score: 13/1/4
+	Damage Dealt to Champions: 33288
+	Gold Spent: 15375
+	Damage-to-Gold Ratio: 2.165
+	Vision Score: 37
+Piñata | Udyr: 
+	Score: 1/3/16
+	Damage Dealt to Champions: 7241
+	Gold Spent: 11025
+	Damage-to-Gold Ratio: 0.657
+	Vision Score: 24
+JawKneeNewWin | Rumble: 
+	Score: 6/2/13
+	Damage Dealt to Champions: 23367
+	Gold Spent: 12700
+	Damage-to-Gold Ratio: 1.84
+	Vision Score: 30
+ILikeBeans | Blitzcrank: 
+	Score: 1/1/13
+	Damage Dealt to Champions: 4230
+	Gold Spent: 7800
+	Damage-to-Gold Ratio: 0.542
+	Vision Score: 95
+
+====== GAME 26 | ID: 3818631280 ======
+
+Blue: Phantom Thieves
+
+Full Send It Bro | Olaf: 
+	Score: 3/2/12
+	Damage Dealt to Champions: 11715
+	Gold Spent: 10000
+	Damage-to-Gold Ratio: 1.171
+	Vision Score: 26
+Susânoo | Malphite: 
+	Score: 3/1/13
+	Damage Dealt to Champions: 11126
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 1.692
+	Vision Score: 17
+Sleepìng | Kai'Sa: 
+	Score: 5/1/7
+	Damage Dealt to Champions: 5636
+	Gold Spent: 8450
+	Damage-to-Gold Ratio: 0.667
+	Vision Score: 9
+Ren Amamiya | Viktor: 
+	Score: 8/2/11
+	Damage Dealt to Champions: 25403
+	Gold Spent: 10885
+	Damage-to-Gold Ratio: 2.334
+	Vision Score: 30
+Luau | Seraphine: 
+	Score: 2/0/16
+	Damage Dealt to Champions: 6148
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 0.935
+	Vision Score: 65
+
+Red: No Scrawny Boys
+
+Piñata | Skarner: 
+	Score: 0/6/5
+	Damage Dealt to Champions: 3113
+	Gold Spent: 6550
+	Damage-to-Gold Ratio: 0.475
+	Vision Score: 27
+ILikeBeans | Thresh: 
+	Score: 0/5/3
+	Damage Dealt to Champions: 2061
+	Gold Spent: 4625
+	Damage-to-Gold Ratio: 0.446
+	Vision Score: 43
+SoulwingXD | Shen: 
+	Score: 1/5/2
+	Damage Dealt to Champions: 6025
+	Gold Spent: 6475
+	Damage-to-Gold Ratio: 0.931
+	Vision Score: 14
+JawKneeNewWin | Vladimir: 
+	Score: 3/3/1
+	Damage Dealt to Champions: 10930
+	Gold Spent: 8850
+	Damage-to-Gold Ratio: 1.235
+	Vision Score: 13
+iAmezcua | Tristana: 
+	Score: 2/2/1
+	Damage Dealt to Champions: 6464
+	Gold Spent: 8600
+	Damage-to-Gold Ratio: 0.752
+	Vision Score: 22
+
+====== GAME 27 | ID: 3818651784 ======
+
+Blue: No Scrawny Boys
+
+iAmezcua | Caitlyn: 
+	Score: 11/1/7
+	Damage Dealt to Champions: 33058
+	Gold Spent: 16780
+	Damage-to-Gold Ratio: 1.97
+	Vision Score: 40
+Piñata | Malphite: 
+	Score: 0/3/11
+	Damage Dealt to Champions: 10244
+	Gold Spent: 9075
+	Damage-to-Gold Ratio: 1.129
+	Vision Score: 34
+JawKneeNewWin | Seraphine: 
+	Score: 3/2/14
+	Damage Dealt to Champions: 9002
+	Gold Spent: 11325
+	Damage-to-Gold Ratio: 0.795
+	Vision Score: 52
+Piñata | Olaf: 
+	Score: 2/4/7
+	Damage Dealt to Champions: 11196
+	Gold Spent: 10425
+	Damage-to-Gold Ratio: 1.074
+	Vision Score: 22
+ILikeBeans | Thresh: 
+	Score: 2/1/15
+	Damage Dealt to Champions: 4165
+	Gold Spent: 8500
+	Damage-to-Gold Ratio: 0.49
+	Vision Score: 105
+
+Red: Phantom Thieves
+
+Susânoo | Mordekaiser: 
+	Score: 0/6/6
+	Damage Dealt to Champions: 15782
+	Gold Spent: 10950
+	Damage-to-Gold Ratio: 1.441
+	Vision Score: 35
+Full Send It Bro | Skarner: 
+	Score: 1/3/8
+	Damage Dealt to Champions: 7346
+	Gold Spent: 11825
+	Damage-to-Gold Ratio: 0.621
+	Vision Score: 56
+Ren Amamiya | Viktor: 
+	Score: 7/2/1
+	Damage Dealt to Champions: 43056
+	Gold Spent: 16775
+	Damage-to-Gold Ratio: 2.567
+	Vision Score: 33
+Sleepìng | Miss Fortune: 
+	Score: 3/5/3
+	Damage Dealt to Champions: 7471
+	Gold Spent: 9850
+	Damage-to-Gold Ratio: 0.758
+	Vision Score: 16
+Luau | Lulu: 
+	Score: 0/2/7
+	Damage Dealt to Champions: 2002
+	Gold Spent: 7675
+	Damage-to-Gold Ratio: 0.261
+	Vision Score: 81
+
+====== GAME 28 | ID: 3818362107 ======
+
+Blue: Donkey Farts
+
+MidBaked | Orianna: 
+	Score: 5/4/11
+	Damage Dealt to Champions: 21281
+	Gold Spent: 14275
+	Damage-to-Gold Ratio: 1.491
+	Vision Score: 23
+NeoDoctor | Urgot: 
+	Score: 1/3/5
+	Damage Dealt to Champions: 8811
+	Gold Spent: 11650
+	Damage-to-Gold Ratio: 0.756
+	Vision Score: 28
+Blásé | Sett: 
+	Score: 3/6/17
+	Damage Dealt to Champions: 17624
+	Gold Spent: 9575
+	Damage-to-Gold Ratio: 1.841
+	Vision Score: 90
+Zâch | Udyr: 
+	Score: 0/7/16
+	Damage Dealt to Champions: 10898
+	Gold Spent: 12100
+	Damage-to-Gold Ratio: 0.901
+	Vision Score: 35
+over it | Kai'Sa: 
+	Score: 13/5/5
+	Damage Dealt to Champions: 33346
+	Gold Spent: 17050
+	Damage-to-Gold Ratio: 1.956
+	Vision Score: 26
+
+Red: The Zoo
+
+GINNYDOG | Sion: 
+	Score: 1/4/12
+	Damage Dealt to Champions: 13549
+	Gold Spent: 10275
+	Damage-to-Gold Ratio: 1.319
+	Vision Score: 24
+Anonymous Turtle | Nocturne: 
+	Score: 11/5/6
+	Damage Dealt to Champions: 15164
+	Gold Spent: 15000
+	Damage-to-Gold Ratio: 1.011
+	Vision Score: 43
+Bakami | Rumble: 
+	Score: 3/4/17
+	Damage Dealt to Champions: 25803
+	Gold Spent: 10700
+	Damage-to-Gold Ratio: 2.411
+	Vision Score: 26
+Brycep00 | Tristana: 
+	Score: 10/3/7
+	Damage Dealt to Champions: 24553
+	Gold Spent: 14950
+	Damage-to-Gold Ratio: 1.642
+	Vision Score: 31
+ƒrogchamp | Leona: 
+	Score: 0/6/17
+	Damage Dealt to Champions: 6719
+	Gold Spent: 6375
+	Damage-to-Gold Ratio: 1.054
+	Vision Score: 111
+
+====== GAME 29 | ID: 3818612280 ======
+
+Blue: Donkey Farts
+
+MidBaked | Galio: 
+	Score: 5/3/18
+	Damage Dealt to Champions: 19265
+	Gold Spent: 9000
+	Damage-to-Gold Ratio: 2.141
+	Vision Score: 18
+NeoDoctor | Ornn: 
+	Score: 0/2/11
+	Damage Dealt to Champions: 8953
+	Gold Spent: 8700
+	Damage-to-Gold Ratio: 1.029
+	Vision Score: 23
+MidBaked | Tristana: 
+	Score: 6/2/12
+	Damage Dealt to Champions: 14283
+	Gold Spent: 10050
+	Damage-to-Gold Ratio: 1.421
+	Vision Score: 42
+Zâch | Kindred: 
+	Score: 13/4/10
+	Damage Dealt to Champions: 30522
+	Gold Spent: 15075
+	Damage-to-Gold Ratio: 2.025
+	Vision Score: 37
+Zâch | Rell: 
+	Score: 4/6/12
+	Damage Dealt to Champions: 7010
+	Gold Spent: 7700
+	Damage-to-Gold Ratio: 0.91
+	Vision Score: 63
+
+Red: The Zoo
+
+GINNYDOG | Maokai: 
+	Score: 1/5/8
+	Damage Dealt to Champions: 14846
+	Gold Spent: 7880
+	Damage-to-Gold Ratio: 1.884
+	Vision Score: 24
+Anonymous Turtle | Nocturne: 
+	Score: 7/3/6
+	Damage Dealt to Champions: 14352
+	Gold Spent: 12150
+	Damage-to-Gold Ratio: 1.181
+	Vision Score: 29
+Bakami | Azir: 
+	Score: 4/8/9
+	Damage Dealt to Champions: 15208
+	Gold Spent: 10525
+	Damage-to-Gold Ratio: 1.445
+	Vision Score: 21
+Brycep00 | Draven: 
+	Score: 4/7/3
+	Damage Dealt to Champions: 17123
+	Gold Spent: 11725
+	Damage-to-Gold Ratio: 1.46
+	Vision Score: 31
+ƒrogchamp | Leona: 
+	Score: 1/5/9
+	Damage Dealt to Champions: 4877
+	Gold Spent: 6500
+	Damage-to-Gold Ratio: 0.75
+	Vision Score: 88
+
+====== GAME 30 | ID: 3818362947 ======
+
+Blue: The Zoo
+
+GINNYDOG | Sion: 
+	Score: 2/2/8
+	Damage Dealt to Champions: 7923
+	Gold Spent: 6000
+	Damage-to-Gold Ratio: 1.321
+	Vision Score: 17
+Brycep00 | Xayah: 
+	Score: 9/1/10
+	Damage Dealt to Champions: 17568
+	Gold Spent: 10250
+	Damage-to-Gold Ratio: 1.714
+	Vision Score: 28
+Bakami | Orianna: 
+	Score: 3/0/12
+	Damage Dealt to Champions: 10595
+	Gold Spent: 8250
+	Damage-to-Gold Ratio: 1.284
+	Vision Score: 21
+ƒrogchamp | Seraphine: 
+	Score: 1/3/20
+	Damage Dealt to Champions: 4782
+	Gold Spent: 7235
+	Damage-to-Gold Ratio: 0.661
+	Vision Score: 55
+Anonymous Turtle | Hecarim: 
+	Score: 9/1/10
+	Damage Dealt to Champions: 13252
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 1.477
+	Vision Score: 23
+
+Red: Donkey Farts
+
+MidBaked | Cassiopeia: 
+	Score: 0/3/1
+	Damage Dealt to Champions: 4283
+	Gold Spent: 6625
+	Damage-to-Gold Ratio: 0.646
+	Vision Score: 16
+NeoDoctor | Ornn: 
+	Score: 1/3/1
+	Damage Dealt to Champions: 4926
+	Gold Spent: 6625
+	Damage-to-Gold Ratio: 0.744
+	Vision Score: 18
+over it | Kai'Sa: 
+	Score: 4/5/1
+	Damage Dealt to Champions: 7842
+	Gold Spent: 7925
+	Damage-to-Gold Ratio: 0.99
+	Vision Score: 19
+Zâch | Kindred: 
+	Score: 2/7/2
+	Damage Dealt to Champions: 9877
+	Gold Spent: 6925
+	Damage-to-Gold Ratio: 1.426
+	Vision Score: 24
+Blásé | Nautilus: 
+	Score: 0/6/4
+	Damage Dealt to Champions: 5657
+	Gold Spent: 4875
+	Damage-to-Gold Ratio: 1.16
+	Vision Score: 41
+
+====== GAME 31 | ID: 3818367831 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Malphite: 
+	Score: 4/4/13
+	Damage Dealt to Champions: 17600
+	Gold Spent: 9250
+	Damage-to-Gold Ratio: 1.903
+	Vision Score: 29
+insay | Volibear: 
+	Score: 4/1/15
+	Damage Dealt to Champions: 13245
+	Gold Spent: 10775
+	Damage-to-Gold Ratio: 1.229
+	Vision Score: 37
+CrimsonR0se | Vel'Koz: 
+	Score: 4/3/10
+	Damage Dealt to Champions: 15998
+	Gold Spent: 10175
+	Damage-to-Gold Ratio: 1.572
+	Vision Score: 35
+Piercing Rain | Tristana: 
+	Score: 16/3/3
+	Damage Dealt to Champions: 23440
+	Gold Spent: 14425
+	Damage-to-Gold Ratio: 1.625
+	Vision Score: 24
+Juruken | Rell: 
+	Score: 1/3/23
+	Damage Dealt to Champions: 6418
+	Gold Spent: 7750
+	Damage-to-Gold Ratio: 0.828
+	Vision Score: 75
+
+Red: Get Me Out
+
+Spongebobu | Gnar: 
+	Score: 3/6/2
+	Damage Dealt to Champions: 15892
+	Gold Spent: 9800
+	Damage-to-Gold Ratio: 1.622
+	Vision Score: 29
+Jaypark Fanboy | Kassadin: 
+	Score: 4/4/2
+	Damage Dealt to Champions: 15768
+	Gold Spent: 12575
+	Damage-to-Gold Ratio: 1.254
+	Vision Score: 18
+Splendor | Kha'Zix: 
+	Score: 3/8/2
+	Damage Dealt to Champions: 8416
+	Gold Spent: 8075
+	Damage-to-Gold Ratio: 1.042
+	Vision Score: 27
+Mårç | Ezreal: 
+	Score: 1/4/4
+	Damage Dealt to Champions: 14470
+	Gold Spent: 8825
+	Damage-to-Gold Ratio: 1.64
+	Vision Score: 15
+Againstic | Leona: 
+	Score: 2/7/4
+	Damage Dealt to Champions: 2066
+	Gold Spent: 7175
+	Damage-to-Gold Ratio: 0.288
+	Vision Score: 65
+
+====== GAME 32 | ID: 3818368194 ======
+
+Blue: Get Me Out
+
+Spongebobu | Zed: 
+	Score: 1/3/1
+	Damage Dealt to Champions: 7515
+	Gold Spent: 8450
+	Damage-to-Gold Ratio: 0.889
+	Vision Score: 21
+Splendor | Kayn: 
+	Score: 0/4/1
+	Damage Dealt to Champions: 2312
+	Gold Spent: 7525
+	Damage-to-Gold Ratio: 0.307
+	Vision Score: 28
+Jaypark Fanboy | Cho'Gath: 
+	Score: 4/4/1
+	Damage Dealt to Champions: 10759
+	Gold Spent: 9300
+	Damage-to-Gold Ratio: 1.157
+	Vision Score: 19
+Mårç | Caitlyn: 
+	Score: 0/5/2
+	Damage Dealt to Champions: 5449
+	Gold Spent: 6800
+	Damage-to-Gold Ratio: 0.801
+	Vision Score: 16
+Againstic | Rell: 
+	Score: 0/5/3
+	Damage Dealt to Champions: 2871
+	Gold Spent: 5450
+	Damage-to-Gold Ratio: 0.527
+	Vision Score: 62
+
+Red: Lower Bracket Gatekeepers
+
+Edwin Peraza | Shen: 
+	Score: 2/1/8
+	Damage Dealt to Champions: 8031
+	Gold Spent: 7200
+	Damage-to-Gold Ratio: 1.115
+	Vision Score: 33
+insay | Volibear: 
+	Score: 3/2/14
+	Damage Dealt to Champions: 9042
+	Gold Spent: 7535
+	Damage-to-Gold Ratio: 1.2
+	Vision Score: 19
+CrimsonR0se | Vel'Koz: 
+	Score: 3/0/5
+	Damage Dealt to Champions: 18100
+	Gold Spent: 8810
+	Damage-to-Gold Ratio: 2.054
+	Vision Score: 21
+Piercing Rain | Jinx: 
+	Score: 9/1/7
+	Damage Dealt to Champions: 21069
+	Gold Spent: 12025
+	Damage-to-Gold Ratio: 1.752
+	Vision Score: 10
+Juruken | Thresh: 
+	Score: 4/1/14
+	Damage Dealt to Champions: 7786
+	Gold Spent: 6950
+	Damage-to-Gold Ratio: 1.12
+	Vision Score: 68
+
+====== GAME 33 | ID: 3820354755 ======
+
+Blue: NBNE
+
+iwc112358 | Aatrox: 
+	Score: 9/0/6
+	Damage Dealt to Champions: 24147
+	Gold Spent: 10675
+	Damage-to-Gold Ratio: 2.262
+	Vision Score: 24
+F4aintbwind | Skarner: 
+	Score: 0/0/10
+	Damage Dealt to Champions: 5873
+	Gold Spent: 6125
+	Damage-to-Gold Ratio: 0.959
+	Vision Score: 26
+EternaLProspecT | Orianna: 
+	Score: 0/3/11
+	Damage Dealt to Champions: 12158
+	Gold Spent: 6935
+	Damage-to-Gold Ratio: 1.753
+	Vision Score: 13
+ThatOneRyanGuy | Jinx: 
+	Score: 9/3/6
+	Damage Dealt to Champions: 15050
+	Gold Spent: 8100
+	Damage-to-Gold Ratio: 1.858
+	Vision Score: 8
+ketiqu | Leona: 
+	Score: 3/3/9
+	Damage Dealt to Champions: 4065
+	Gold Spent: 5300
+	Damage-to-Gold Ratio: 0.767
+	Vision Score: 41
+
+Red: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Sion: 
+	Score: 2/2/2
+	Damage Dealt to Champions: 11121
+	Gold Spent: 7000
+	Damage-to-Gold Ratio: 1.589
+	Vision Score: 9
+Dream Eradicator | Jarvan IV: 
+	Score: 1/5/7
+	Damage Dealt to Champions: 6953
+	Gold Spent: 6175
+	Damage-to-Gold Ratio: 1.126
+	Vision Score: 13
+One Punch Doggo | Vladimir: 
+	Score: 2/3/4
+	Damage Dealt to Champions: 10193
+	Gold Spent: 6775
+	Damage-to-Gold Ratio: 1.505
+	Vision Score: 12
+Twilight Koreziv | Kai'Sa: 
+	Score: 3/7/5
+	Damage Dealt to Champions: 10038
+	Gold Spent: 6010
+	Damage-to-Gold Ratio: 1.67
+	Vision Score: 13
+Bloo | Thresh: 
+	Score: 1/4/5
+	Damage Dealt to Champions: 4108
+	Gold Spent: 5025
+	Damage-to-Gold Ratio: 0.818
+	Vision Score: 31
+
+====== GAME 34 | ID: 3821500553 ======
+
+Blue: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Ornn: 
+	Score: 6/2/6
+	Damage Dealt to Champions: 13263
+	Gold Spent: 11400
+	Damage-to-Gold Ratio: 1.163
+	Vision Score: 13
+Dream Eradicator | Nunu & Willump: 
+	Score: 8/2/15
+	Damage Dealt to Champions: 21464
+	Gold Spent: 12600
+	Damage-to-Gold Ratio: 1.703
+	Vision Score: 30
+One Punch Doggo | Azir: 
+	Score: 5/2/9
+	Damage Dealt to Champions: 16060
+	Gold Spent: 12650
+	Damage-to-Gold Ratio: 1.27
+	Vision Score: 18
+Twilight Koreziv | Vayne: 
+	Score: 6/1/4
+	Damage Dealt to Champions: 15025
+	Gold Spent: 10100
+	Damage-to-Gold Ratio: 1.488
+	Vision Score: 21
+Bloo | Seraphine: 
+	Score: 0/3/13
+	Damage Dealt to Champions: 8347
+	Gold Spent: 7200
+	Damage-to-Gold Ratio: 1.159
+	Vision Score: 62
+
+Red: NBNE
+
+iwc112358 | Jax: 
+	Score: 4/5/1
+	Damage Dealt to Champions: 16302
+	Gold Spent: 13108
+	Damage-to-Gold Ratio: 1.244
+	Vision Score: 16
+F4aintbwind | Dr. Mundo: 
+	Score: 0/7/1
+	Damage Dealt to Champions: 4901
+	Gold Spent: 7000
+	Damage-to-Gold Ratio: 0.7
+	Vision Score: 20
+EternaLProspecT | Orianna: 
+	Score: 1/5/3
+	Damage Dealt to Champions: 10838
+	Gold Spent: 9325
+	Damage-to-Gold Ratio: 1.162
+	Vision Score: 23
+ThatOneRyanGuy | Veigar: 
+	Score: 3/5/3
+	Damage Dealt to Champions: 12215
+	Gold Spent: 10000
+	Damage-to-Gold Ratio: 1.222
+	Vision Score: 19
+ketiqu | Leona: 
+	Score: 2/3/4
+	Damage Dealt to Champions: 4840
+	Gold Spent: 6925
+	Damage-to-Gold Ratio: 0.699
+	Vision Score: 62
+
+====== GAME 35 | ID: 3821500835 ======
+
+Blue: NBNE
+
+iwc112358 | Sett: 
+	Score: 7/1/8
+	Damage Dealt to Champions: 22724
+	Gold Spent: 12625
+	Damage-to-Gold Ratio: 1.8
+	Vision Score: 16
+F4aintbwind | Skarner: 
+	Score: 5/2/11
+	Damage Dealt to Champions: 7437
+	Gold Spent: 8650
+	Damage-to-Gold Ratio: 0.86
+	Vision Score: 16
+EternaLProspecT | Ryze: 
+	Score: 4/1/9
+	Damage Dealt to Champions: 9695
+	Gold Spent: 10175
+	Damage-to-Gold Ratio: 0.953
+	Vision Score: 31
+ThatOneRyanGuy | Jinx: 
+	Score: 2/1/11
+	Damage Dealt to Champions: 12260
+	Gold Spent: 8750
+	Damage-to-Gold Ratio: 1.401
+	Vision Score: 18
+ketiqu | Leona: 
+	Score: 2/3/11
+	Damage Dealt to Champions: 3458
+	Gold Spent: 6850
+	Damage-to-Gold Ratio: 0.505
+	Vision Score: 57
+
+Red: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Sion: 
+	Score: 0/5/5
+	Damage Dealt to Champions: 8132
+	Gold Spent: 7475
+	Damage-to-Gold Ratio: 1.088
+	Vision Score: 19
+Dream Eradicator | Dr. Mundo: 
+	Score: 3/5/5
+	Damage Dealt to Champions: 9254
+	Gold Spent: 7950
+	Damage-to-Gold Ratio: 1.164
+	Vision Score: 20
+One Punch Doggo | Azir: 
+	Score: 0/4/5
+	Damage Dealt to Champions: 9914
+	Gold Spent: 8875
+	Damage-to-Gold Ratio: 1.117
+	Vision Score: 15
+Twilight Koreziv | Vayne: 
+	Score: 4/3/2
+	Damage Dealt to Champions: 8741
+	Gold Spent: 9650
+	Damage-to-Gold Ratio: 0.906
+	Vision Score: 17
+Bloo | Seraphine: 
+	Score: 1/3/6
+	Damage Dealt to Champions: 5616
+	Gold Spent: 6010
+	Damage-to-Gold Ratio: 0.934
+	Vision Score: 49
+
+====== GAME 36 | ID: 3820899456 ======
+
+Blue: Not My President
+
+She wont say yes | Urgot: 
+	Score: 8/2/6
+	Damage Dealt to Champions: 16407
+	Gold Spent: 10625
+	Damage-to-Gold Ratio: 1.544
+	Vision Score: 36
+Wyl | Ivern: 
+	Score: 1/1/11
+	Damage Dealt to Champions: 4948
+	Gold Spent: 7960
+	Damage-to-Gold Ratio: 0.622
+	Vision Score: 34
+Just Ask Her Out | Yasuo: 
+	Score: 5/1/7
+	Damage Dealt to Champions: 16248
+	Gold Spent: 12975
+	Damage-to-Gold Ratio: 1.252
+	Vision Score: 44
+Sojiro Sakura | Swain: 
+	Score: 2/1/10
+	Damage Dealt to Champions: 13628
+	Gold Spent: 9975
+	Damage-to-Gold Ratio: 1.366
+	Vision Score: 25
+Bill Cypher | Rell: 
+	Score: 1/1/10
+	Damage Dealt to Champions: 4067
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 0.619
+	Vision Score: 68
+
+Red: Zac's Ooey Gooey Slimes
+
+Minalinsky | Garen: 
+	Score: 3/4/2
+	Damage Dealt to Champions: 6423
+	Gold Spent: 9250
+	Damage-to-Gold Ratio: 0.694
+	Vision Score: 30
+GLONKY FUGGLER | Kayn: 
+	Score: 0/5/3
+	Damage Dealt to Champions: 5029
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 0.56
+	Vision Score: 23
+Mechhart | Syndra: 
+	Score: 0/3/4
+	Damage Dealt to Champions: 10357
+	Gold Spent: 9825
+	Damage-to-Gold Ratio: 1.054
+	Vision Score: 32
+Snorunt | Caitlyn: 
+	Score: 2/3/1
+	Damage Dealt to Champions: 7254
+	Gold Spent: 9235
+	Damage-to-Gold Ratio: 0.785
+	Vision Score: 33
+Ríka | Nami: 
+	Score: 1/2/2
+	Damage Dealt to Champions: 4805
+	Gold Spent: 5485
+	Damage-to-Gold Ratio: 0.876
+	Vision Score: 70
+
+====== GAME 37 | ID: 3822511780 ======
+
+Blue: Zac's Ooey Gooey Slimes
+
+Minalinsky | Aatrox: 
+	Score: 2/1/3
+	Damage Dealt to Champions: 3726
+	Gold Spent: 6850
+	Damage-to-Gold Ratio: 0.544
+	Vision Score: 19
+GLONKY FUGGLER | Karthus: 
+	Score: 7/1/5
+	Damage Dealt to Champions: 12523
+	Gold Spent: 10525
+	Damage-to-Gold Ratio: 1.19
+	Vision Score: 24
+Mechhart | Corki: 
+	Score: 4/1/6
+	Damage Dealt to Champions: 21399
+	Gold Spent: 11304
+	Damage-to-Gold Ratio: 1.893
+	Vision Score: 42
+Snorunt | Tristana: 
+	Score: 3/0/6
+	Damage Dealt to Champions: 10317
+	Gold Spent: 10030
+	Damage-to-Gold Ratio: 1.029
+	Vision Score: 27
+Ríka | Leona: 
+	Score: 2/2/9
+	Damage Dealt to Champions: 2719
+	Gold Spent: 7200
+	Damage-to-Gold Ratio: 0.378
+	Vision Score: 71
+
+Red: Not My President
+
+She wont say yes | Urgot: 
+	Score: 1/4/2
+	Damage Dealt to Champions: 6844
+	Gold Spent: 7925
+	Damage-to-Gold Ratio: 0.864
+	Vision Score: 24
+Wyl | Ekko: 
+	Score: 1/2/3
+	Damage Dealt to Champions: 5547
+	Gold Spent: 8400
+	Damage-to-Gold Ratio: 0.66
+	Vision Score: 18
+Just Ask Her Out | Vayne: 
+	Score: 2/6/0
+	Damage Dealt to Champions: 7538
+	Gold Spent: 9225
+	Damage-to-Gold Ratio: 0.817
+	Vision Score: 24
+Sojiro Sakura | Swain: 
+	Score: 1/2/3
+	Damage Dealt to Champions: 10259
+	Gold Spent: 8300
+	Damage-to-Gold Ratio: 1.236
+	Vision Score: 20
+Bill Cypher | Rell: 
+	Score: 0/4/3
+	Damage Dealt to Champions: 3215
+	Gold Spent: 5300
+	Damage-to-Gold Ratio: 0.607
+	Vision Score: 52
+
+====== GAME 38 | ID: 3822512241 ======
+
+Blue: Zac's Ooey Gooey Slimes
+
+Minalinsky | Garen: 
+	Score: 0/4/0
+	Damage Dealt to Champions: 2313
+	Gold Spent: 6375
+	Damage-to-Gold Ratio: 0.363
+	Vision Score: 22
+GLONKY FUGGLER | Karthus: 
+	Score: 0/4/2
+	Damage Dealt to Champions: 13102
+	Gold Spent: 9035
+	Damage-to-Gold Ratio: 1.45
+	Vision Score: 13
+Mechhart | Diana: 
+	Score: 3/3/0
+	Damage Dealt to Champions: 9736
+	Gold Spent: 7860
+	Damage-to-Gold Ratio: 1.239
+	Vision Score: 27
+Snorunt | Tristana: 
+	Score: 0/2/0
+	Damage Dealt to Champions: 3708
+	Gold Spent: 8075
+	Damage-to-Gold Ratio: 0.459
+	Vision Score: 30
+Ríka | Leona: 
+	Score: 0/4/1
+	Damage Dealt to Champions: 1850
+	Gold Spent: 4725
+	Damage-to-Gold Ratio: 0.392
+	Vision Score: 52
+
+Red: Not My President
+
+She wont say yes | Urgot: 
+	Score: 6/0/6
+	Damage Dealt to Champions: 11695
+	Gold Spent: 8575
+	Damage-to-Gold Ratio: 1.364
+	Vision Score: 33
+Wyl | Lillia: 
+	Score: 2/2/10
+	Damage Dealt to Champions: 7524
+	Gold Spent: 7025
+	Damage-to-Gold Ratio: 1.071
+	Vision Score: 29
+Just Ask Her Out | LeBlanc: 
+	Score: 6/1/5
+	Damage Dealt to Champions: 14005
+	Gold Spent: 8485
+	Damage-to-Gold Ratio: 1.651
+	Vision Score: 35
+Sojiro Sakura | Sivir: 
+	Score: 3/0/10
+	Damage Dealt to Champions: 12976
+	Gold Spent: 8890
+	Damage-to-Gold Ratio: 1.46
+	Vision Score: 28
+Bill Cypher | Thresh: 
+	Score: 0/0/13
+	Damage Dealt to Champions: 1471
+	Gold Spent: 5525
+	Damage-to-Gold Ratio: 0.266
+	Vision Score: 52
+
+====== GAME 39 | ID: 3823046356 ======
+
+Blue: UCLA
+
+booisucksomuch3 | Urgot: 
+	Score: 7/6/7
+	Damage Dealt to Champions: 23147
+	Gold Spent: 12630
+	Damage-to-Gold Ratio: 1.833
+	Vision Score: 12
+Mame Jin | Olaf: 
+	Score: 8/7/10
+	Damage Dealt to Champions: 20092
+	Gold Spent: 11900
+	Damage-to-Gold Ratio: 1.688
+	Vision Score: 14
+MadLifeisGod | Karma: 
+	Score: 2/5/16
+	Damage Dealt to Champions: 6395
+	Gold Spent: 7350
+	Damage-to-Gold Ratio: 0.87
+	Vision Score: 12
+Snail352 | Kai'Sa: 
+	Score: 7/8/14
+	Damage Dealt to Champions: 11976
+	Gold Spent: 10950
+	Damage-to-Gold Ratio: 1.094
+	Vision Score: 24
+littlemunchkin24 | Nautilus: 
+	Score: 3/10/17
+	Damage Dealt to Champions: 8212
+	Gold Spent: 8000
+	Damage-to-Gold Ratio: 1.026
+	Vision Score: 51
+
+Red: KAMINATONINJASANDM0DE58
+
+NinjaHamsters18 | Nunu & Willump: 
+	Score: 2/7/27
+	Damage Dealt to Champions: 9675
+	Gold Spent: 10125
+	Damage-to-Gold Ratio: 0.956
+	Vision Score: 25
+SICKLEM0DE | Nasus: 
+	Score: 5/2/12
+	Damage Dealt to Champions: 13587
+	Gold Spent: 9380
+	Damage-to-Gold Ratio: 1.449
+	Vision Score: 28
+BirdofSand | Pyke: 
+	Score: 15/4/13
+	Damage Dealt to Champions: 19543
+	Gold Spent: 17650
+	Damage-to-Gold Ratio: 1.107
+	Vision Score: 14
+Minatozaki | Aphelios: 
+	Score: 13/6/15
+	Damage Dealt to Champions: 36555
+	Gold Spent: 13500
+	Damage-to-Gold Ratio: 2.708
+	Vision Score: 26
+Kamu40 | Blitzcrank: 
+	Score: 1/8/25
+	Damage Dealt to Champions: 8966
+	Gold Spent: 7075
+	Damage-to-Gold Ratio: 1.267
+	Vision Score: 53
+
+====== GAME 40 | ID: 3823046750 ======
+
+Blue: UCLA
+
+booisucksomuch3 | Camille: 
+	Score: 4/8/6
+	Damage Dealt to Champions: 19144
+	Gold Spent: 10933
+	Damage-to-Gold Ratio: 1.751
+	Vision Score: 22
+Mame Jin | Hecarim: 
+	Score: 7/8/11
+	Damage Dealt to Champions: 16891
+	Gold Spent: 10460
+	Damage-to-Gold Ratio: 1.615
+	Vision Score: 25
+MadLifeisGod | Karma: 
+	Score: 2/6/12
+	Damage Dealt to Champions: 6208
+	Gold Spent: 7585
+	Damage-to-Gold Ratio: 0.818
+	Vision Score: 16
+Snail352 | Caitlyn: 
+	Score: 6/9/5
+	Damage Dealt to Champions: 19622
+	Gold Spent: 9650
+	Damage-to-Gold Ratio: 2.033
+	Vision Score: 17
+littlemunchkin24 | Morgana: 
+	Score: 4/10/11
+	Damage Dealt to Champions: 12881
+	Gold Spent: 7875
+	Damage-to-Gold Ratio: 1.636
+	Vision Score: 78
+
+Red: KAMINATONINJASANDM0DE58
+
+NinjaHamsters18 | Lillia: 
+	Score: 3/5/17
+	Damage Dealt to Champions: 13438
+	Gold Spent: 8860
+	Damage-to-Gold Ratio: 1.517
+	Vision Score: 27
+SICKLEM0DE | Sion: 
+	Score: 4/7/14
+	Damage Dealt to Champions: 15162
+	Gold Spent: 10175
+	Damage-to-Gold Ratio: 1.49
+	Vision Score: 25
+BirdofSand | Swain: 
+	Score: 15/2/20
+	Damage Dealt to Champions: 34146
+	Gold Spent: 13135
+	Damage-to-Gold Ratio: 2.6
+	Vision Score: 23
+Minatozaki | Tristana: 
+	Score: 17/4/8
+	Damage Dealt to Champions: 34789
+	Gold Spent: 13100
+	Damage-to-Gold Ratio: 2.656
+	Vision Score: 34
+Kamu40 | Alistar: 
+	Score: 2/5/29
+	Damage Dealt to Champions: 5691
+	Gold Spent: 7700
+	Damage-to-Gold Ratio: 0.739
+	Vision Score: 58
+
+====== GAME 41 | ID: 3824540154 ======
+
+Blue: Discord Kittens
+
+AsylumX | Ornn: 
+	Score: 3/5/3
+	Damage Dealt to Champions: 11210
+	Gold Spent: 7400
+	Damage-to-Gold Ratio: 1.515
+	Vision Score: 16
+Icurus | Hecarim: 
+	Score: 4/7/1
+	Damage Dealt to Champions: 6907
+	Gold Spent: 8110
+	Damage-to-Gold Ratio: 0.852
+	Vision Score: 15
+IAmOneCrazyDude | Yone: 
+	Score: 0/7/3
+	Damage Dealt to Champions: 8391
+	Gold Spent: 7275
+	Damage-to-Gold Ratio: 1.153
+	Vision Score: 13
+sadder luna | Tristana: 
+	Score: 1/3/1
+	Damage Dealt to Champions: 6035
+	Gold Spent: 8660
+	Damage-to-Gold Ratio: 0.697
+	Vision Score: 13
+Puar | Lulu: 
+	Score: 2/4/2
+	Damage Dealt to Champions: 3388
+	Gold Spent: 4735
+	Damage-to-Gold Ratio: 0.716
+	Vision Score: 45
+
+Red: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 3/3/9
+	Damage Dealt to Champions: 9639
+	Gold Spent: 7525
+	Damage-to-Gold Ratio: 1.281
+	Vision Score: 12
+WeDoWhatWeMust | Nunu & Willump: 
+	Score: 5/3/16
+	Damage Dealt to Champions: 9961
+	Gold Spent: 9925
+	Damage-to-Gold Ratio: 1.004
+	Vision Score: 31
+melon buns | Ahri: 
+	Score: 5/1/7
+	Damage Dealt to Champions: 18339
+	Gold Spent: 9775
+	Damage-to-Gold Ratio: 1.876
+	Vision Score: 29
+Ferney | Vayne: 
+	Score: 12/2/5
+	Damage Dealt to Champions: 17525
+	Gold Spent: 11675
+	Damage-to-Gold Ratio: 1.501
+	Vision Score: 26
+Kinzo | Lux: 
+	Score: 1/1/17
+	Damage Dealt to Champions: 8596
+	Gold Spent: 6660
+	Damage-to-Gold Ratio: 1.291
+	Vision Score: 42
+
+====== GAME 42 | ID: 3824540487 ======
+
+Blue: Discord Kittens
+
+AsylumX | Mordekaiser: 
+	Score: 8/2/5
+	Damage Dealt to Champions: 16646
+	Gold Spent: 9385
+	Damage-to-Gold Ratio: 1.774
+	Vision Score: 12
+Icurus | Hecarim: 
+	Score: 6/1/7
+	Damage Dealt to Champions: 9534
+	Gold Spent: 8800
+	Damage-to-Gold Ratio: 1.083
+	Vision Score: 29
+IAmOneCrazyDude | Pantheon: 
+	Score: 5/3/2
+	Damage Dealt to Champions: 9861
+	Gold Spent: 6925
+	Damage-to-Gold Ratio: 1.424
+	Vision Score: 14
+sadder luna | Sivir: 
+	Score: 6/2/10
+	Damage Dealt to Champions: 18733
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 2.087
+	Vision Score: 26
+Puar | Seraphine: 
+	Score: 0/3/18
+	Damage Dealt to Champions: 5407
+	Gold Spent: 5685
+	Damage-to-Gold Ratio: 0.951
+	Vision Score: 38
+
+Red: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 2/5/1
+	Damage Dealt to Champions: 7297
+	Gold Spent: 6350
+	Damage-to-Gold Ratio: 1.149
+	Vision Score: 15
+WeDoWhatWeMust | Lee Sin: 
+	Score: 2/6/2
+	Damage Dealt to Champions: 7391
+	Gold Spent: 6450
+	Damage-to-Gold Ratio: 1.146
+	Vision Score: 17
+melon buns | Ahri: 
+	Score: 3/4/5
+	Damage Dealt to Champions: 9563
+	Gold Spent: 6125
+	Damage-to-Gold Ratio: 1.561
+	Vision Score: 17
+Ferney | Kai'Sa: 
+	Score: 4/5/3
+	Damage Dealt to Champions: 10510
+	Gold Spent: 8225
+	Damage-to-Gold Ratio: 1.278
+	Vision Score: 12
+Kinzo | Lux: 
+	Score: 0/5/4
+	Damage Dealt to Champions: 7844
+	Gold Spent: 4400
+	Damage-to-Gold Ratio: 1.783
+	Vision Score: 24
+
+====== GAME 43 | ID: 3824540823 ======
+
+Blue: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 7/3/9
+	Damage Dealt to Champions: 16259
+	Gold Spent: 9325
+	Damage-to-Gold Ratio: 1.744
+	Vision Score: 13
+WeDoWhatWeMust | Hecarim: 
+	Score: 6/1/12
+	Damage Dealt to Champions: 12593
+	Gold Spent: 10308
+	Damage-to-Gold Ratio: 1.222
+	Vision Score: 30
+melon buns | Yone: 
+	Score: 6/2/8
+	Damage Dealt to Champions: 12080
+	Gold Spent: 8625
+	Damage-to-Gold Ratio: 1.401
+	Vision Score: 38
+Ferney | Zilean: 
+	Score: 0/0/16
+	Damage Dealt to Champions: 8934
+	Gold Spent: 7525
+	Damage-to-Gold Ratio: 1.187
+	Vision Score: 26
+Kinzo | Lux: 
+	Score: 6/0/8
+	Damage Dealt to Champions: 9048
+	Gold Spent: 7475
+	Damage-to-Gold Ratio: 1.21
+	Vision Score: 49
+
+Red: Discord Kittens
+
+AsylumX | Sett: 
+	Score: 2/6/0
+	Damage Dealt to Champions: 11351
+	Gold Spent: 8700
+	Damage-to-Gold Ratio: 1.305
+	Vision Score: 12
+Icurus | Udyr: 
+	Score: 0/6/3
+	Damage Dealt to Champions: 7081
+	Gold Spent: 7525
+	Damage-to-Gold Ratio: 0.941
+	Vision Score: 20
+IAmOneCrazyDude | Pantheon: 
+	Score: 3/6/2
+	Damage Dealt to Champions: 11434
+	Gold Spent: 8750
+	Damage-to-Gold Ratio: 1.307
+	Vision Score: 11
+sadder luna | Sivir: 
+	Score: 0/2/0
+	Damage Dealt to Champions: 7863
+	Gold Spent: 9780
+	Damage-to-Gold Ratio: 0.804
+	Vision Score: 9
+Puar | Seraphine: 
+	Score: 1/5/0
+	Damage Dealt to Champions: 3304
+	Gold Spent: 4375
+	Damage-to-Gold Ratio: 0.755
+	Vision Score: 21
+
+====== GAME 44 | ID: 3826664447 ======
+
+Blue: Zac's Ooey Gooey Slimes
+
+Minalinsky | Ornn: 
+	Score: 2/5/9
+	Damage Dealt to Champions: 16689
+	Gold Spent: 10500
+	Damage-to-Gold Ratio: 1.589
+	Vision Score: 31
+GLONKY FUGGLER | Kayn: 
+	Score: 3/8/3
+	Damage Dealt to Champions: 21121
+	Gold Spent: 10775
+	Damage-to-Gold Ratio: 1.96
+	Vision Score: 17
+Mechhart | Corki: 
+	Score: 4/5/7
+	Damage Dealt to Champions: 31634
+	Gold Spent: 11900
+	Damage-to-Gold Ratio: 2.658
+	Vision Score: 33
+Snorunt | Aphelios: 
+	Score: 5/4/4
+	Damage Dealt to Champions: 24569
+	Gold Spent: 12680
+	Damage-to-Gold Ratio: 1.938
+	Vision Score: 28
+Ríka | Leona: 
+	Score: 0/7/5
+	Damage Dealt to Champions: 6576
+	Gold Spent: 6600
+	Damage-to-Gold Ratio: 0.996
+	Vision Score: 119
+
+Red: Gigastuck Marines
+
+ImTheBill | Mordekaiser: 
+	Score: 10/1/8
+	Damage Dealt to Champions: 37426
+	Gold Spent: 14500
+	Damage-to-Gold Ratio: 2.581
+	Vision Score: 43
+BrandFlakez | Udyr: 
+	Score: 5/3/16
+	Damage Dealt to Champions: 14240
+	Gold Spent: 13000
+	Damage-to-Gold Ratio: 1.095
+	Vision Score: 43
+Ejaculatory | Galio: 
+	Score: 2/3/20
+	Damage Dealt to Champions: 20410
+	Gold Spent: 10575
+	Damage-to-Gold Ratio: 1.93
+	Vision Score: 28
+FORCED ORGASM | Tristana: 
+	Score: 10/4/9
+	Damage Dealt to Champions: 27997
+	Gold Spent: 13150
+	Damage-to-Gold Ratio: 2.129
+	Vision Score: 31
+BIurr | Alistar: 
+	Score: 2/3/20
+	Damage Dealt to Champions: 7017
+	Gold Spent: 8050
+	Damage-to-Gold Ratio: 0.872
+	Vision Score: 71
+
+====== GAME 45 | ID: 3826664844 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Mordekaiser: 
+	Score: 3/1/5
+	Damage Dealt to Champions: 11597
+	Gold Spent: 8975
+	Damage-to-Gold Ratio: 1.292
+	Vision Score: 22
+BrandFlakez | Hecarim: 
+	Score: 7/0/8
+	Damage Dealt to Champions: 14206
+	Gold Spent: 11000
+	Damage-to-Gold Ratio: 1.291
+	Vision Score: 35
+Ejaculatory | Galio: 
+	Score: 3/1/12
+	Damage Dealt to Champions: 11378
+	Gold Spent: 8935
+	Damage-to-Gold Ratio: 1.273
+	Vision Score: 25
+FORCED ORGASM | Jinx: 
+	Score: 11/0/9
+	Damage Dealt to Champions: 30486
+	Gold Spent: 11450
+	Damage-to-Gold Ratio: 2.663
+	Vision Score: 26
+BIurr | Seraphine: 
+	Score: 2/3/20
+	Damage Dealt to Champions: 7536
+	Gold Spent: 6835
+	Damage-to-Gold Ratio: 1.103
+	Vision Score: 73
+
+Red: Zac's Ooey Gooey Slimes
+
+Minalinsky | Ornn: 
+	Score: 1/5/0
+	Damage Dealt to Champions: 8581
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 1.305
+	Vision Score: 20
+GLONKY FUGGLER | Dr. Mundo: 
+	Score: 3/5/0
+	Damage Dealt to Champions: 13585
+	Gold Spent: 10150
+	Damage-to-Gold Ratio: 1.338
+	Vision Score: 26
+Mechhart | Tristana: 
+	Score: 1/3/0
+	Damage Dealt to Champions: 10304
+	Gold Spent: 9300
+	Damage-to-Gold Ratio: 1.108
+	Vision Score: 16
+Snorunt | Kai'Sa: 
+	Score: 0/4/1
+	Damage Dealt to Champions: 4974
+	Gold Spent: 8775
+	Damage-to-Gold Ratio: 0.567
+	Vision Score: 20
+Ríka | Swain: 
+	Score: 0/9/2
+	Damage Dealt to Champions: 4920
+	Gold Spent: 4775
+	Damage-to-Gold Ratio: 1.03
+	Vision Score: 63
+
+====== GAME 46 | ID: 3831451829 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Aatrox: 
+	Score: 4/0/8
+	Damage Dealt to Champions: 18698
+	Gold Spent: 15200
+	Damage-to-Gold Ratio: 1.23
+	Vision Score: 50
+insay | Volibear: 
+	Score: 1/3/5
+	Damage Dealt to Champions: 9977
+	Gold Spent: 10720
+	Damage-to-Gold Ratio: 0.931
+	Vision Score: 35
+CrimsonR0se | Vel'Koz: 
+	Score: 3/1/3
+	Damage Dealt to Champions: 21706
+	Gold Spent: 12200
+	Damage-to-Gold Ratio: 1.779
+	Vision Score: 67
+Piercing Rain | Xayah: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 27175
+	Gold Spent: 16675
+	Damage-to-Gold Ratio: 1.63
+	Vision Score: 40
+Juruken | Leona: 
+	Score: 1/2/9
+	Damage Dealt to Champions: 5952
+	Gold Spent: 8675
+	Damage-to-Gold Ratio: 0.686
+	Vision Score: 102
+
+Red: Phantom Thieves
+
+Susânoo | Ornn: 
+	Score: 2/4/3
+	Damage Dealt to Champions: 15276
+	Gold Spent: 11825
+	Damage-to-Gold Ratio: 1.292
+	Vision Score: 23
+Full Send It Bro | Kayn: 
+	Score: 2/5/4
+	Damage Dealt to Champions: 23316
+	Gold Spent: 14150
+	Damage-to-Gold Ratio: 1.648
+	Vision Score: 41
+Ren Amamiya | Ekko: 
+	Score: 4/0/3
+	Damage Dealt to Champions: 23397
+	Gold Spent: 16150
+	Damage-to-Gold Ratio: 1.449
+	Vision Score: 42
+Sleepìng | Caitlyn: 
+	Score: 0/2/3
+	Damage Dealt to Champions: 10780
+	Gold Spent: 10125
+	Damage-to-Gold Ratio: 1.065
+	Vision Score: 8
+Luau | Lulu: 
+	Score: 0/3/5
+	Damage Dealt to Champions: 4494
+	Gold Spent: 7265
+	Damage-to-Gold Ratio: 0.619
+	Vision Score: 92
+
+====== GAME 47 | ID: 3831452477 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Camille: 
+	Score: 5/5/7
+	Damage Dealt to Champions: 12589
+	Gold Spent: 12313
+	Damage-to-Gold Ratio: 1.022
+	Vision Score: 30
+insay | Volibear: 
+	Score: 2/3/9
+	Damage Dealt to Champions: 7595
+	Gold Spent: 10130
+	Damage-to-Gold Ratio: 0.75
+	Vision Score: 39
+CrimsonR0se | Galio: 
+	Score: 1/2/9
+	Damage Dealt to Champions: 9680
+	Gold Spent: 10755
+	Damage-to-Gold Ratio: 0.9
+	Vision Score: 35
+insay | Kai'Sa: 
+	Score: 6/2/5
+	Damage Dealt to Champions: 22172
+	Gold Spent: 16475
+	Damage-to-Gold Ratio: 1.346
+	Vision Score: 28
+Juruken | Leona: 
+	Score: 1/5/7
+	Damage Dealt to Champions: 3016
+	Gold Spent: 7200
+	Damage-to-Gold Ratio: 0.419
+	Vision Score: 104
+
+Red: Phantom Thieves
+
+Susânoo | Maokai: 
+	Score: 1/4/14
+	Damage Dealt to Champions: 14972
+	Gold Spent: 8625
+	Damage-to-Gold Ratio: 1.736
+	Vision Score: 15
+Full Send It Bro | Graves: 
+	Score: 10/3/5
+	Damage Dealt to Champions: 29246
+	Gold Spent: 13050
+	Damage-to-Gold Ratio: 2.241
+	Vision Score: 40
+Ren Amamiya | Akali: 
+	Score: 2/5/4
+	Damage Dealt to Champions: 10287
+	Gold Spent: 11375
+	Damage-to-Gold Ratio: 0.904
+	Vision Score: 30
+Sleepìng | Lucian: 
+	Score: 3/2/10
+	Damage Dealt to Champions: 15560
+	Gold Spent: 9375
+	Damage-to-Gold Ratio: 1.66
+	Vision Score: 20
+Luau | Lulu: 
+	Score: 1/1/14
+	Damage Dealt to Champions: 3383
+	Gold Spent: 6875
+	Damage-to-Gold Ratio: 0.492
+	Vision Score: 86
+
+====== GAME 48 | ID: 3831452999 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Aatrox: 
+	Score: 4/2/6
+	Damage Dealt to Champions: 17264
+	Gold Spent: 14775
+	Damage-to-Gold Ratio: 1.168
+	Vision Score: 40
+insay | Volibear: 
+	Score: 3/3/13
+	Damage Dealt to Champions: 8464
+	Gold Spent: 11050
+	Damage-to-Gold Ratio: 0.766
+	Vision Score: 39
+CrimsonR0se | Viktor: 
+	Score: 0/2/10
+	Damage Dealt to Champions: 14602
+	Gold Spent: 10900
+	Damage-to-Gold Ratio: 1.34
+	Vision Score: 44
+Piercing Rain | Lucian: 
+	Score: 8/2/5
+	Damage Dealt to Champions: 18650
+	Gold Spent: 16950
+	Damage-to-Gold Ratio: 1.1
+	Vision Score: 32
+Juruken | Thresh: 
+	Score: 2/3/12
+	Damage Dealt to Champions: 6092
+	Gold Spent: 8850
+	Damage-to-Gold Ratio: 0.688
+	Vision Score: 108
+
+Red: Phantom Thieves
+
+Susânoo | Malphite: 
+	Score: 2/2/6
+	Damage Dealt to Champions: 20715
+	Gold Spent: 11550
+	Damage-to-Gold Ratio: 1.794
+	Vision Score: 39
+Full Send It Bro | Lillia: 
+	Score: 1/4/7
+	Damage Dealt to Champions: 22237
+	Gold Spent: 12900
+	Damage-to-Gold Ratio: 1.724
+	Vision Score: 35
+Ren Amamiya | Irelia: 
+	Score: 7/2/3
+	Damage Dealt to Champions: 23110
+	Gold Spent: 15875
+	Damage-to-Gold Ratio: 1.456
+	Vision Score: 37
+Sleepìng | Kai'Sa: 
+	Score: 2/4/4
+	Damage Dealt to Champions: 5773
+	Gold Spent: 9150
+	Damage-to-Gold Ratio: 0.631
+	Vision Score: 12
+Luau | Lulu: 
+	Score: 0/5/8
+	Damage Dealt to Champions: 1707
+	Gold Spent: 6725
+	Damage-to-Gold Ratio: 0.254
+	Vision Score: 75
+
+====== GAME 49 | ID: 3833635897 ======
+
+Blue: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Ornn: 
+	Score: 3/4/7
+	Damage Dealt to Champions: 24724
+	Gold Spent: 13200
+	Damage-to-Gold Ratio: 1.873
+	Vision Score: 36
+Dream Eradicator | Dr. Mundo: 
+	Score: 3/8/15
+	Damage Dealt to Champions: 25320
+	Gold Spent: 11625
+	Damage-to-Gold Ratio: 2.178
+	Vision Score: 46
+One Punch Doggo | Orianna: 
+	Score: 8/5/7
+	Damage Dealt to Champions: 31011
+	Gold Spent: 16550
+	Damage-to-Gold Ratio: 1.874
+	Vision Score: 41
+Twilight Koreziv | Kai'Sa: 
+	Score: 8/7/7
+	Damage Dealt to Champions: 22429
+	Gold Spent: 17730
+	Damage-to-Gold Ratio: 1.265
+	Vision Score: 58
+Bloo | Seraphine: 
+	Score: 0/7/18
+	Damage Dealt to Champions: 15255
+	Gold Spent: 9535
+	Damage-to-Gold Ratio: 1.6
+	Vision Score: 107
+
+Red: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 4/4/7
+	Damage Dealt to Champions: 16952
+	Gold Spent: 12375
+	Damage-to-Gold Ratio: 1.37
+	Vision Score: 31
+WeDoWhatWeMust | Skarner: 
+	Score: 4/4/21
+	Damage Dealt to Champions: 17668
+	Gold Spent: 14575
+	Damage-to-Gold Ratio: 1.212
+	Vision Score: 25
+melon buns | Kassadin: 
+	Score: 7/4/10
+	Damage Dealt to Champions: 25099
+	Gold Spent: 15960
+	Damage-to-Gold Ratio: 1.573
+	Vision Score: 53
+Ferney | Miss Fortune: 
+	Score: 16/6/13
+	Damage Dealt to Champions: 54948
+	Gold Spent: 18300
+	Damage-to-Gold Ratio: 3.003
+	Vision Score: 67
+Kinzo | Lulu: 
+	Score: 0/4/21
+	Damage Dealt to Champions: 6855
+	Gold Spent: 9600
+	Damage-to-Gold Ratio: 0.714
+	Vision Score: 95
+
+====== GAME 50 | ID: 3833636361 ======
+
+Blue: Toad Dreaming of Dogs in Bloo Twilight
+
+Toad is Playing | Volibear: 
+	Score: 4/8/4
+	Damage Dealt to Champions: 22677
+	Gold Spent: 11125
+	Damage-to-Gold Ratio: 2.038
+	Vision Score: 33
+Dream Eradicator | Evelynn: 
+	Score: 5/10/4
+	Damage Dealt to Champions: 14822
+	Gold Spent: 10650
+	Damage-to-Gold Ratio: 1.392
+	Vision Score: 29
+One Punch Doggo | Azir: 
+	Score: 1/6/7
+	Damage Dealt to Champions: 23323
+	Gold Spent: 12575
+	Damage-to-Gold Ratio: 1.855
+	Vision Score: 24
+Twilight Koreziv | Miss Fortune: 
+	Score: 3/5/2
+	Damage Dealt to Champions: 26199
+	Gold Spent: 14600
+	Damage-to-Gold Ratio: 1.794
+	Vision Score: 37
+Bloo | Leona: 
+	Score: 1/8/8
+	Damage Dealt to Champions: 5562
+	Gold Spent: 9200
+	Damage-to-Gold Ratio: 0.605
+	Vision Score: 93
+
+Red: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 6/3/15
+	Damage Dealt to Champions: 17816
+	Gold Spent: 13875
+	Damage-to-Gold Ratio: 1.284
+	Vision Score: 42
+WeDoWhatWeMust | Olaf: 
+	Score: 14/4/12
+	Damage Dealt to Champions: 25418
+	Gold Spent: 15200
+	Damage-to-Gold Ratio: 1.672
+	Vision Score: 44
+melon buns | Yone: 
+	Score: 13/4/10
+	Damage Dealt to Champions: 32432
+	Gold Spent: 16550
+	Damage-to-Gold Ratio: 1.96
+	Vision Score: 33
+Ferney | Zilean: 
+	Score: 1/2/22
+	Damage Dealt to Champions: 14341
+	Gold Spent: 10975
+	Damage-to-Gold Ratio: 1.307
+	Vision Score: 49
+Kinzo | Morgana: 
+	Score: 3/1/13
+	Damage Dealt to Champions: 11017
+	Gold Spent: 9250
+	Damage-to-Gold Ratio: 1.191
+	Vision Score: 57
+
+====== GAME 51 | ID: 3833939163 ======
+
+Blue: Donkey Farts
+
+NeoDoctor | Ornn: 
+	Score: 0/5/4
+	Damage Dealt to Champions: 4505
+	Gold Spent: 5725
+	Damage-to-Gold Ratio: 0.787
+	Vision Score: 16
+Zâch | Graves: 
+	Score: 3/0/3
+	Damage Dealt to Champions: 11180
+	Gold Spent: 9325
+	Damage-to-Gold Ratio: 1.199
+	Vision Score: 22
+MidBaked | Orianna: 
+	Score: 0/2/3
+	Damage Dealt to Champions: 6710
+	Gold Spent: 7225
+	Damage-to-Gold Ratio: 0.929
+	Vision Score: 22
+over it | Kai'Sa: 
+	Score: 4/3/2
+	Damage Dealt to Champions: 7834
+	Gold Spent: 8800
+	Damage-to-Gold Ratio: 0.89
+	Vision Score: 23
+Blásé | Alistar: 
+	Score: 1/4/4
+	Damage Dealt to Champions: 3950
+	Gold Spent: 4800
+	Damage-to-Gold Ratio: 0.823
+	Vision Score: 45
+
+Red: KAMINATONINJASANDM0DE58
+
+NinjaHamsters18 | Gangplank: 
+	Score: 2/4/5
+	Damage Dealt to Champions: 9899
+	Gold Spent: 8800
+	Damage-to-Gold Ratio: 1.125
+	Vision Score: 22
+NinjaHamsters18 | Sejuani: 
+	Score: 1/0/10
+	Damage Dealt to Champions: 5738
+	Gold Spent: 8300
+	Damage-to-Gold Ratio: 0.691
+	Vision Score: 28
+BirdofSand | Diana: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 10291
+	Gold Spent: 11060
+	Damage-to-Gold Ratio: 0.93
+	Vision Score: 13
+Kamu40 | Rakan: 
+	Score: 1/1/8
+	Damage Dealt to Champions: 4348
+	Gold Spent: 6375
+	Damage-to-Gold Ratio: 0.682
+	Vision Score: 71
+Minatozaki | Jinx: 
+	Score: 5/1/7
+	Damage Dealt to Champions: 18092
+	Gold Spent: 10950
+	Damage-to-Gold Ratio: 1.652
+	Vision Score: 36
+
+====== GAME 52 | ID: 3833939544 ======
+
+Blue: Donkey Farts
+
+NeoDoctor | Cho'Gath: 
+	Score: 2/3/0
+	Damage Dealt to Champions: 6489
+	Gold Spent: 6625
+	Damage-to-Gold Ratio: 0.979
+	Vision Score: 11
+MidBaked | Orianna: 
+	Score: 0/5/3
+	Damage Dealt to Champions: 4791
+	Gold Spent: 5675
+	Damage-to-Gold Ratio: 0.844
+	Vision Score: 12
+Zâch | Kindred: 
+	Score: 0/4/0
+	Damage Dealt to Champions: 4252
+	Gold Spent: 6325
+	Damage-to-Gold Ratio: 0.672
+	Vision Score: 27
+over it | Tristana: 
+	Score: 5/6/1
+	Damage Dealt to Champions: 9498
+	Gold Spent: 7200
+	Damage-to-Gold Ratio: 1.319
+	Vision Score: 16
+Blásé | Rell: 
+	Score: 1/7/4
+	Damage Dealt to Champions: 4329
+	Gold Spent: 4625
+	Damage-to-Gold Ratio: 0.936
+	Vision Score: 26
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Nasus: 
+	Score: 2/2/2
+	Damage Dealt to Champions: 9425
+	Gold Spent: 8300
+	Damage-to-Gold Ratio: 1.136
+	Vision Score: 21
+NinjaHamsters18 | Lillia: 
+	Score: 6/2/10
+	Damage Dealt to Champions: 14605
+	Gold Spent: 9400
+	Damage-to-Gold Ratio: 1.554
+	Vision Score: 22
+BirdofSand | LeBlanc: 
+	Score: 12/0/7
+	Damage Dealt to Champions: 15912
+	Gold Spent: 11225
+	Damage-to-Gold Ratio: 1.418
+	Vision Score: 20
+Minatozaki | Samira: 
+	Score: 2/5/5
+	Damage Dealt to Champions: 6140
+	Gold Spent: 7125
+	Damage-to-Gold Ratio: 0.862
+	Vision Score: 20
+Kamu40 | Alistar: 
+	Score: 3/0/12
+	Damage Dealt to Champions: 4560
+	Gold Spent: 6600
+	Damage-to-Gold Ratio: 0.691
+	Vision Score: 50
+
+====== GAME 53 | ID: 3838224693 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Gnar: 
+	Score: 8/0/16
+	Damage Dealt to Champions: 27716
+	Gold Spent: 12425
+	Damage-to-Gold Ratio: 2.231
+	Vision Score: 24
+BrandFlakez | Volibear: 
+	Score: 1/2/25
+	Damage Dealt to Champions: 13767
+	Gold Spent: 9825
+	Damage-to-Gold Ratio: 1.401
+	Vision Score: 47
+Ejaculatory | Ekko: 
+	Score: 13/4/13
+	Damage Dealt to Champions: 19125
+	Gold Spent: 11710
+	Damage-to-Gold Ratio: 1.633
+	Vision Score: 22
+FORCED ORGASM | Tristana: 
+	Score: 7/0/13
+	Damage Dealt to Champions: 19757
+	Gold Spent: 10625
+	Damage-to-Gold Ratio: 1.859
+	Vision Score: 24
+BIurr | Seraphine: 
+	Score: 1/2/20
+	Damage Dealt to Champions: 6656
+	Gold Spent: 6725
+	Damage-to-Gold Ratio: 0.99
+	Vision Score: 51
+
+Red: Team 7 Mid
+
+AFurnitureItem | Poppy: 
+	Score: 2/5/1
+	Damage Dealt to Champions: 9928
+	Gold Spent: 9150
+	Damage-to-Gold Ratio: 1.085
+	Vision Score: 19
+WeDoWhatWeMust | Nunu & Willump: 
+	Score: 2/5/4
+	Damage Dealt to Champions: 10020
+	Gold Spent: 8300
+	Damage-to-Gold Ratio: 1.207
+	Vision Score: 34
+melon buns | Sylas: 
+	Score: 3/7/2
+	Damage Dealt to Champions: 19215
+	Gold Spent: 9485
+	Damage-to-Gold Ratio: 2.026
+	Vision Score: 17
+Ferney | Samira: 
+	Score: 1/6/3
+	Damage Dealt to Champions: 13660
+	Gold Spent: 10000
+	Damage-to-Gold Ratio: 1.366
+	Vision Score: 13
+Kinzo | Morgana: 
+	Score: 0/7/3
+	Damage Dealt to Champions: 6801
+	Gold Spent: 5560
+	Damage-to-Gold Ratio: 1.223
+	Vision Score: 39
+
+====== GAME 54 | ID: 3838015616 ======
+
+Blue: Team 7 Mid
+
+AFurnitureItem | Gnar: 
+	Score: 0/4/0
+	Damage Dealt to Champions: 10312
+	Gold Spent: 6550
+	Damage-to-Gold Ratio: 1.574
+	Vision Score: 15
+WeDoWhatWeMust | Skarner: 
+	Score: 0/5/7
+	Damage Dealt to Champions: 5138
+	Gold Spent: 6800
+	Damage-to-Gold Ratio: 0.756
+	Vision Score: 20
+melon buns | Kassadin: 
+	Score: 3/3/1
+	Damage Dealt to Champions: 13892
+	Gold Spent: 8950
+	Damage-to-Gold Ratio: 1.552
+	Vision Score: 20
+Ferney | Vayne: 
+	Score: 4/7/2
+	Damage Dealt to Champions: 13494
+	Gold Spent: 7875
+	Damage-to-Gold Ratio: 1.714
+	Vision Score: 22
+Kinzo | Lulu: 
+	Score: 1/4/6
+	Damage Dealt to Champions: 2984
+	Gold Spent: 5500
+	Damage-to-Gold Ratio: 0.543
+	Vision Score: 47
+
+Red: Gigastuck Marines
+
+ImTheBill | Renekton: 
+	Score: 7/1/11
+	Damage Dealt to Champions: 10517
+	Gold Spent: 9950
+	Damage-to-Gold Ratio: 1.057
+	Vision Score: 28
+BrandFlakez | Volibear: 
+	Score: 3/2/18
+	Damage Dealt to Champions: 11931
+	Gold Spent: 8700
+	Damage-to-Gold Ratio: 1.371
+	Vision Score: 33
+Ejaculatory | Galio: 
+	Score: 5/1/15
+	Damage Dealt to Champions: 15949
+	Gold Spent: 10300
+	Damage-to-Gold Ratio: 1.548
+	Vision Score: 14
+FORCED ORGASM | Tristana: 
+	Score: 7/2/11
+	Damage Dealt to Champions: 18963
+	Gold Spent: 9900
+	Damage-to-Gold Ratio: 1.915
+	Vision Score: 18
+BIurr | Seraphine: 
+	Score: 1/2/20
+	Damage Dealt to Champions: 8518
+	Gold Spent: 6725
+	Damage-to-Gold Ratio: 1.267
+	Vision Score: 64
+
+====== GAME 55 | ID: 3839976456 ======
+
+Blue: No Scrawny Boys
+
+SoulwingXD | Cho'Gath: 
+	Score: 1/3/11
+	Damage Dealt to Champions: 8473
+	Gold Spent: 11700
+	Damage-to-Gold Ratio: 0.724
+	Vision Score: 20
+Piñata | Lillia: 
+	Score: 4/4/11
+	Damage Dealt to Champions: 15772
+	Gold Spent: 14275
+	Damage-to-Gold Ratio: 1.105
+	Vision Score: 14
+JawKneeNewWin | Jayce: 
+	Score: 5/1/10
+	Damage Dealt to Champions: 33495
+	Gold Spent: 14300
+	Damage-to-Gold Ratio: 2.342
+	Vision Score: 28
+iAmezcua | Senna: 
+	Score: 8/2/9
+	Damage Dealt to Champions: 17791
+	Gold Spent: 16000
+	Damage-to-Gold Ratio: 1.112
+	Vision Score: 57
+ILikeBeans | Karma: 
+	Score: 0/2/10
+	Damage Dealt to Champions: 3152
+	Gold Spent: 7675
+	Damage-to-Gold Ratio: 0.411
+	Vision Score: 92
+
+Red: The Zoo
+
+GINNYDOG | Sion: 
+	Score: 2/4/5
+	Damage Dealt to Champions: 12706
+	Gold Spent: 12175
+	Damage-to-Gold Ratio: 1.044
+	Vision Score: 41
+Anonymous Turtle | Nocturne: 
+	Score: 2/4/4
+	Damage Dealt to Champions: 7915
+	Gold Spent: 12325
+	Damage-to-Gold Ratio: 0.642
+	Vision Score: 53
+Bakami | Galio: 
+	Score: 4/3/8
+	Damage Dealt to Champions: 19034
+	Gold Spent: 11700
+	Damage-to-Gold Ratio: 1.627
+	Vision Score: 37
+Brycep00 | Caitlyn: 
+	Score: 4/2/3
+	Damage Dealt to Champions: 16490
+	Gold Spent: 14775
+	Damage-to-Gold Ratio: 1.116
+	Vision Score: 40
+ƒrogchamp | Morgana: 
+	Score: 0/5/11
+	Damage Dealt to Champions: 5923
+	Gold Spent: 7135
+	Damage-to-Gold Ratio: 0.83
+	Vision Score: 97
+
+====== GAME 56 | ID: 3839976910 ======
+
+Blue: The Zoo
+
+GINNYDOG | Garen: 
+	Score: 3/1/2
+	Damage Dealt to Champions: 7751
+	Gold Spent: 11525
+	Damage-to-Gold Ratio: 0.673
+	Vision Score: 37
+Anonymous Turtle | Hecarim: 
+	Score: 2/3/5
+	Damage Dealt to Champions: 8626
+	Gold Spent: 11325
+	Damage-to-Gold Ratio: 0.762
+	Vision Score: 47
+Anonymous Turtle | Ahri: 
+	Score: 3/5/6
+	Damage Dealt to Champions: 24821
+	Gold Spent: 11710
+	Damage-to-Gold Ratio: 2.12
+	Vision Score: 41
+Brycep00 | Aphelios: 
+	Score: 1/5/6
+	Damage Dealt to Champions: 23762
+	Gold Spent: 13300
+	Damage-to-Gold Ratio: 1.787
+	Vision Score: 32
+ƒrogchamp | Leona: 
+	Score: 0/7/8
+	Damage Dealt to Champions: 5097
+	Gold Spent: 7650
+	Damage-to-Gold Ratio: 0.666
+	Vision Score: 114
+
+Red: No Scrawny Boys
+
+SoulwingXD | Volibear: 
+	Score: 1/2/15
+	Damage Dealt to Champions: 13127
+	Gold Spent: 11600
+	Damage-to-Gold Ratio: 1.132
+	Vision Score: 29
+Piñata | Skarner: 
+	Score: 4/2/15
+	Damage Dealt to Champions: 8790
+	Gold Spent: 12275
+	Damage-to-Gold Ratio: 0.716
+	Vision Score: 28
+JawKneeNewWin | Orianna: 
+	Score: 5/2/13
+	Damage Dealt to Champions: 24559
+	Gold Spent: 14825
+	Damage-to-Gold Ratio: 1.657
+	Vision Score: 48
+ILikeBeans | Senna: 
+	Score: 11/1/10
+	Damage Dealt to Champions: 25126
+	Gold Spent: 11200
+	Damage-to-Gold Ratio: 2.243
+	Vision Score: 102
+iAmezcua | Taric: 
+	Score: 0/2/20
+	Damage Dealt to Champions: 5118
+	Gold Spent: 9775
+	Damage-to-Gold Ratio: 0.524
+	Vision Score: 23
+
+====== GAME 57 | ID: 3842012627 ======
+
+Blue: NBNE
+
+iwc112358 | Aatrox: 
+	Score: 3/1/14
+	Damage Dealt to Champions: 17766
+	Gold Spent: 13425
+	Damage-to-Gold Ratio: 1.323
+	Vision Score: 47
+F4aintbwind | Nocturne: 
+	Score: 6/2/11
+	Damage Dealt to Champions: 10348
+	Gold Spent: 10975
+	Damage-to-Gold Ratio: 0.943
+	Vision Score: 34
+EternaLProspecT | Viktor: 
+	Score: 5/5/9
+	Damage Dealt to Champions: 15970
+	Gold Spent: 11135
+	Damage-to-Gold Ratio: 1.434
+	Vision Score: 19
+ThatOneRyanGuy | Swain: 
+	Score: 5/5/10
+	Damage Dealt to Champions: 24681
+	Gold Spent: 11050
+	Damage-to-Gold Ratio: 2.234
+	Vision Score: 21
+ketiqu | Leona: 
+	Score: 4/5/17
+	Damage Dealt to Champions: 9492
+	Gold Spent: 9475
+	Damage-to-Gold Ratio: 1.002
+	Vision Score: 76
+
+Red: Not My President
+
+She wont say yes | Urgot: 
+	Score: 2/5/4
+	Damage Dealt to Champions: 11351
+	Gold Spent: 9225
+	Damage-to-Gold Ratio: 1.23
+	Vision Score: 24
+Just Ask Her Out | Qiyana: 
+	Score: 5/4/6
+	Damage Dealt to Champions: 13872
+	Gold Spent: 10900
+	Damage-to-Gold Ratio: 1.273
+	Vision Score: 26
+Wyl | Ekko: 
+	Score: 6/4/7
+	Damage Dealt to Champions: 24300
+	Gold Spent: 12300
+	Damage-to-Gold Ratio: 1.976
+	Vision Score: 45
+Sojiro Sakura | Sivir: 
+	Score: 4/4/8
+	Damage Dealt to Champions: 18365
+	Gold Spent: 12150
+	Damage-to-Gold Ratio: 1.512
+	Vision Score: 31
+Bill Cypher | Thresh: 
+	Score: 1/6/10
+	Damage Dealt to Champions: 5390
+	Gold Spent: 6900
+	Damage-to-Gold Ratio: 0.781
+	Vision Score: 75
+
+====== GAME 58 | ID: 3842043112 ======
+
+Blue: Not My President
+
+She wont say yes | Garen: 
+	Score: 1/5/3
+	Damage Dealt to Champions: 7479
+	Gold Spent: 5725
+	Damage-to-Gold Ratio: 1.306
+	Vision Score: 11
+Wyl | Lillia: 
+	Score: 4/6/3
+	Damage Dealt to Champions: 9226
+	Gold Spent: 7150
+	Damage-to-Gold Ratio: 1.29
+	Vision Score: 19
+Just Ask Her Out | Lucian: 
+	Score: 2/8/4
+	Damage Dealt to Champions: 12423
+	Gold Spent: 7250
+	Damage-to-Gold Ratio: 1.714
+	Vision Score: 20
+Sojiro Sakura | Sivir: 
+	Score: 3/3/3
+	Damage Dealt to Champions: 13547
+	Gold Spent: 7100
+	Damage-to-Gold Ratio: 1.908
+	Vision Score: 9
+Bill Cypher | Rell: 
+	Score: 1/7/4
+	Damage Dealt to Champions: 2629
+	Gold Spent: 4150
+	Damage-to-Gold Ratio: 0.633
+	Vision Score: 27
+
+Red: NBNE
+
+iwc112358 | Poppy: 
+	Score: 5/1/7
+	Damage Dealt to Champions: 14334
+	Gold Spent: 8525
+	Damage-to-Gold Ratio: 1.681
+	Vision Score: 19
+F4aintbwind | Nautilus: 
+	Score: 6/3/15
+	Damage Dealt to Champions: 8040
+	Gold Spent: 7375
+	Damage-to-Gold Ratio: 1.09
+	Vision Score: 21
+EternaLProspecT | Ryze: 
+	Score: 7/5/14
+	Damage Dealt to Champions: 16192
+	Gold Spent: 10625
+	Damage-to-Gold Ratio: 1.524
+	Vision Score: 17
+ThatOneRyanGuy | Jhin: 
+	Score: 8/1/11
+	Damage Dealt to Champions: 12487
+	Gold Spent: 7350
+	Damage-to-Gold Ratio: 1.699
+	Vision Score: 11
+ketiqu | Xerath: 
+	Score: 3/1/10
+	Damage Dealt to Champions: 9084
+	Gold Spent: 5550
+	Damage-to-Gold Ratio: 1.637
+	Vision Score: 31
+
+====== GAME 59 | ID: 3842208568 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Riven: 
+	Score: 4/2/0
+	Damage Dealt to Champions: 4565
+	Gold Spent: 9175
+	Damage-to-Gold Ratio: 0.498
+	Vision Score: 17
+insay | Sejuani: 
+	Score: 0/2/1
+	Damage Dealt to Champions: 1403
+	Gold Spent: 6400
+	Damage-to-Gold Ratio: 0.219
+	Vision Score: 26
+CrimsonR0se | Xerath: 
+	Score: 0/1/1
+	Damage Dealt to Champions: 7660
+	Gold Spent: 7900
+	Damage-to-Gold Ratio: 0.97
+	Vision Score: 28
+Piercing Rain | Jinx: 
+	Score: 1/4/1
+	Damage Dealt to Champions: 5888
+	Gold Spent: 8980
+	Damage-to-Gold Ratio: 0.656
+	Vision Score: 11
+Juruken | Rell: 
+	Score: 1/4/2
+	Damage Dealt to Champions: 2304
+	Gold Spent: 5325
+	Damage-to-Gold Ratio: 0.433
+	Vision Score: 59
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 1/3/8
+	Damage Dealt to Champions: 7096
+	Gold Spent: 8600
+	Damage-to-Gold Ratio: 0.825
+	Vision Score: 29
+NinjaHamsters18 | Rek'Sai: 
+	Score: 2/2/3
+	Damage Dealt to Champions: 1716
+	Gold Spent: 7400
+	Damage-to-Gold Ratio: 0.232
+	Vision Score: 47
+BirdofSand | Fizz: 
+	Score: 3/0/4
+	Damage Dealt to Champions: 4607
+	Gold Spent: 9175
+	Damage-to-Gold Ratio: 0.502
+	Vision Score: 17
+Minatozaki | Vayne: 
+	Score: 6/0/4
+	Damage Dealt to Champions: 9913
+	Gold Spent: 9775
+	Damage-to-Gold Ratio: 1.014
+	Vision Score: 23
+Kamu40 | Alistar: 
+	Score: 1/1/8
+	Damage Dealt to Champions: 1183
+	Gold Spent: 5400
+	Damage-to-Gold Ratio: 0.219
+	Vision Score: 67
+
+====== GAME 60 | ID: 3842209011 ======
+
+Blue: Lower Bracket Gatekeepers
+
+Edwin Peraza | Shen: 
+	Score: 1/6/4
+	Damage Dealt to Champions: 8435
+	Gold Spent: 6400
+	Damage-to-Gold Ratio: 1.318
+	Vision Score: 18
+insay | Amumu: 
+	Score: 1/3/2
+	Damage Dealt to Champions: 7159
+	Gold Spent: 7275
+	Damage-to-Gold Ratio: 0.984
+	Vision Score: 21
+CrimsonR0se | Vel'Koz: 
+	Score: 2/2/2
+	Damage Dealt to Champions: 16634
+	Gold Spent: 8225
+	Damage-to-Gold Ratio: 2.022
+	Vision Score: 41
+Piercing Rain | Lucian: 
+	Score: 3/3/2
+	Damage Dealt to Champions: 16274
+	Gold Spent: 9725
+	Damage-to-Gold Ratio: 1.673
+	Vision Score: 23
+Juruken | Alistar: 
+	Score: 0/4/4
+	Damage Dealt to Champions: 4682
+	Gold Spent: 5350
+	Damage-to-Gold Ratio: 0.875
+	Vision Score: 58
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Aatrox: 
+	Score: 5/1/5
+	Damage Dealt to Champions: 22051
+	Gold Spent: 11780
+	Damage-to-Gold Ratio: 1.872
+	Vision Score: 33
+NinjaHamsters18 | Hecarim: 
+	Score: 5/1/6
+	Damage Dealt to Champions: 8213
+	Gold Spent: 9900
+	Damage-to-Gold Ratio: 0.83
+	Vision Score: 43
+BirdofSand | Malzahar: 
+	Score: 3/1/7
+	Damage Dealt to Champions: 14466
+	Gold Spent: 9760
+	Damage-to-Gold Ratio: 1.482
+	Vision Score: 30
+Minatozaki | Xayah: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 15747
+	Gold Spent: 10630
+	Damage-to-Gold Ratio: 1.481
+	Vision Score: 33
+Kamu40 | Rakan: 
+	Score: 0/2/14
+	Damage Dealt to Champions: 3991
+	Gold Spent: 5825
+	Damage-to-Gold Ratio: 0.685
+	Vision Score: 64
+
+====== GAME 61 | ID: 3848087828 ======
+
+Blue: The Zoo
+
+GINNYDOG | Garen: 
+	Score: 3/2/1
+	Damage Dealt to Champions: 6044
+	Gold Spent: 9000
+	Damage-to-Gold Ratio: 0.672
+	Vision Score: 17
+Anonymous Turtle | Kayn: 
+	Score: 2/3/3
+	Damage Dealt to Champions: 5766
+	Gold Spent: 9250
+	Damage-to-Gold Ratio: 0.623
+	Vision Score: 18
+Bakami | Orianna: 
+	Score: 0/7/1
+	Damage Dealt to Champions: 8302
+	Gold Spent: 8000
+	Damage-to-Gold Ratio: 1.038
+	Vision Score: 25
+ƒrogchamp | Senna: 
+	Score: 0/5/4
+	Damage Dealt to Champions: 8539
+	Gold Spent: 6575
+	Damage-to-Gold Ratio: 1.299
+	Vision Score: 45
+Brycep00 | Karma: 
+	Score: 0/4/1
+	Damage Dealt to Champions: 2180
+	Gold Spent: 6110
+	Damage-to-Gold Ratio: 0.357
+	Vision Score: 40
+
+Red: Gigastuck Marines
+
+ImTheBill | Darius: 
+	Score: 3/2/5
+	Damage Dealt to Champions: 11640
+	Gold Spent: 9475
+	Damage-to-Gold Ratio: 1.228
+	Vision Score: 31
+BrandFlakez | Volibear: 
+	Score: 3/2/10
+	Damage Dealt to Champions: 7400
+	Gold Spent: 10300
+	Damage-to-Gold Ratio: 0.718
+	Vision Score: 37
+Ejaculatory | Corki: 
+	Score: 8/1/9
+	Damage Dealt to Champions: 24867
+	Gold Spent: 13025
+	Damage-to-Gold Ratio: 1.909
+	Vision Score: 27
+FORCED ORGASM | Jinx: 
+	Score: 4/0/6
+	Damage Dealt to Champions: 10827
+	Gold Spent: 10975
+	Damage-to-Gold Ratio: 0.987
+	Vision Score: 36
+BIurr | Leona: 
+	Score: 3/0/11
+	Damage Dealt to Champions: 4061
+	Gold Spent: 7150
+	Damage-to-Gold Ratio: 0.568
+	Vision Score: 71
+
+====== GAME 62 | ID: 3848088122 ======
+
+Blue: The Zoo
+
+GINNYDOG | Urgot: 
+	Score: 1/9/3
+	Damage Dealt to Champions: 9968
+	Gold Spent: 6400
+	Damage-to-Gold Ratio: 1.558
+	Vision Score: 10
+Anonymous Turtle | Amumu: 
+	Score: 1/10/4
+	Damage Dealt to Champions: 8178
+	Gold Spent: 6100
+	Damage-to-Gold Ratio: 1.341
+	Vision Score: 24
+Bakami | Twisted Fate: 
+	Score: 4/7/1
+	Damage Dealt to Champions: 13783
+	Gold Spent: 8625
+	Damage-to-Gold Ratio: 1.598
+	Vision Score: 14
+Brycep00 | Tristana: 
+	Score: 0/3/1
+	Damage Dealt to Champions: 5947
+	Gold Spent: 6825
+	Damage-to-Gold Ratio: 0.871
+	Vision Score: 10
+ƒrogchamp | Rell: 
+	Score: 1/9/5
+	Damage Dealt to Champions: 6076
+	Gold Spent: 4950
+	Damage-to-Gold Ratio: 1.227
+	Vision Score: 52
+
+Red: Gigastuck Marines
+
+ImTheBill | Aatrox: 
+	Score: 6/0/15
+	Damage Dealt to Champions: 18368
+	Gold Spent: 10125
+	Damage-to-Gold Ratio: 1.814
+	Vision Score: 21
+BrandFlakez | Gragas: 
+	Score: 11/1/11
+	Damage Dealt to Champions: 16209
+	Gold Spent: 11450
+	Damage-to-Gold Ratio: 1.416
+	Vision Score: 22
+Ejaculatory | Corki: 
+	Score: 5/2/15
+	Damage Dealt to Champions: 13621
+	Gold Spent: 9775
+	Damage-to-Gold Ratio: 1.393
+	Vision Score: 20
+BIurr | Senna: 
+	Score: 13/2/10
+	Damage Dealt to Champions: 16363
+	Gold Spent: 8600
+	Damage-to-Gold Ratio: 1.903
+	Vision Score: 33
+FORCED ORGASM | Malphite: 
+	Score: 3/2/19
+	Damage Dealt to Champions: 7820
+	Gold Spent: 6000
+	Damage-to-Gold Ratio: 1.303
+	Vision Score: 11
+
+====== GAME 63 | ID: 3849936710 ======
+
+Blue: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 2/1/11
+	Damage Dealt to Champions: 14345
+	Gold Spent: 8033
+	Damage-to-Gold Ratio: 1.786
+	Vision Score: 15
+NinjaHamsters18 | Jarvan IV: 
+	Score: 5/2/12
+	Damage Dealt to Champions: 6821
+	Gold Spent: 7450
+	Damage-to-Gold Ratio: 0.916
+	Vision Score: 27
+BirdofSand | LeBlanc: 
+	Score: 7/0/9
+	Damage Dealt to Champions: 16885
+	Gold Spent: 8500
+	Damage-to-Gold Ratio: 1.986
+	Vision Score: 18
+Minatozaki | Vayne: 
+	Score: 9/1/5
+	Damage Dealt to Champions: 13516
+	Gold Spent: 8825
+	Damage-to-Gold Ratio: 1.532
+	Vision Score: 30
+Kamu40 | Seraphine: 
+	Score: 0/1/15
+	Damage Dealt to Champions: 4758
+	Gold Spent: 4925
+	Damage-to-Gold Ratio: 0.966
+	Vision Score: 49
+
+Red: Not My President
+
+She wont say yes | Sett: 
+	Score: 0/5/2
+	Damage Dealt to Champions: 7609
+	Gold Spent: 5875
+	Damage-to-Gold Ratio: 1.295
+	Vision Score: 14
+Just Ask Her Out | Annie: 
+	Score: 0/7/0
+	Damage Dealt to Champions: 5778
+	Gold Spent: 5950
+	Damage-to-Gold Ratio: 0.971
+	Vision Score: 10
+Sojiro Sakura | Samira: 
+	Score: 1/4/3
+	Damage Dealt to Champions: 8272
+	Gold Spent: 7775
+	Damage-to-Gold Ratio: 1.064
+	Vision Score: 13
+Wyl | Volibear: 
+	Score: 2/3/1
+	Damage Dealt to Champions: 4578
+	Gold Spent: 6600
+	Damage-to-Gold Ratio: 0.694
+	Vision Score: 20
+Bill Cypher | Alistar: 
+	Score: 2/4/2
+	Damage Dealt to Champions: 1332
+	Gold Spent: 4675
+	Damage-to-Gold Ratio: 0.285
+	Vision Score: 30
+
+====== GAME 64 | ID: 3849937027 ======
+
+Blue: Not My President
+
+She wont say yes | Shen: 
+	Score: 2/4/17
+	Damage Dealt to Champions: 7475
+	Gold Spent: 9750
+	Damage-to-Gold Ratio: 0.767
+	Vision Score: 32
+Sojiro Sakura | Vayne: 
+	Score: 12/5/4
+	Damage Dealt to Champions: 27716
+	Gold Spent: 17550
+	Damage-to-Gold Ratio: 1.579
+	Vision Score: 34
+Just Ask Her Out | Qiyana: 
+	Score: 4/5/8
+	Damage Dealt to Champions: 14926
+	Gold Spent: 10975
+	Damage-to-Gold Ratio: 1.36
+	Vision Score: 20
+Wyl | Hecarim: 
+	Score: 1/5/12
+	Damage Dealt to Champions: 9682
+	Gold Spent: 10600
+	Damage-to-Gold Ratio: 0.913
+	Vision Score: 28
+Bill Cypher | Rell: 
+	Score: 0/7/17
+	Damage Dealt to Champions: 5663
+	Gold Spent: 7450
+	Damage-to-Gold Ratio: 0.76
+	Vision Score: 87
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Heimerdinger: 
+	Score: 4/3/12
+	Damage Dealt to Champions: 30538
+	Gold Spent: 13075
+	Damage-to-Gold Ratio: 2.336
+	Vision Score: 45
+NinjaHamsters18 | Olaf: 
+	Score: 3/5/13
+	Damage Dealt to Champions: 10603
+	Gold Spent: 11900
+	Damage-to-Gold Ratio: 0.891
+	Vision Score: 34
+BirdofSand | Pyke: 
+	Score: 11/2/9
+	Damage Dealt to Champions: 14755
+	Gold Spent: 15250
+	Damage-to-Gold Ratio: 0.968
+	Vision Score: 30
+Minatozaki | Kai'Sa: 
+	Score: 6/3/14
+	Damage Dealt to Champions: 21679
+	Gold Spent: 15945
+	Damage-to-Gold Ratio: 1.36
+	Vision Score: 46
+Kamu40 | Rakan: 
+	Score: 2/6/17
+	Damage Dealt to Champions: 4141
+	Gold Spent: 7975
+	Damage-to-Gold Ratio: 0.519
+	Vision Score: 98
+
+====== GAME 65 | ID: 3859080592 ======
+
+Blue: NBNE
+
+iwc112358 | Wukong: 
+	Score: 2/0/6
+	Damage Dealt to Champions: 10993
+	Gold Spent: 14050
+	Damage-to-Gold Ratio: 0.782
+	Vision Score: 30
+F4aintbwind | Hecarim: 
+	Score: 2/0/9
+	Damage Dealt to Champions: 8026
+	Gold Spent: 10960
+	Damage-to-Gold Ratio: 0.732
+	Vision Score: 54
+EternaLProspecT | Seraphine: 
+	Score: 3/1/6
+	Damage Dealt to Champions: 8378
+	Gold Spent: 11650
+	Damage-to-Gold Ratio: 0.719
+	Vision Score: 17
+ThatOneRyanGuy | Senna: 
+	Score: 6/1/6
+	Damage Dealt to Champions: 20590
+	Gold Spent: 11700
+	Damage-to-Gold Ratio: 1.76
+	Vision Score: 17
+ketiqu | Leona: 
+	Score: 1/0/10
+	Damage Dealt to Champions: 4924
+	Gold Spent: 7075
+	Damage-to-Gold Ratio: 0.696
+	Vision Score: 97
+
+Red: No Scrawny Boys
+
+SoulwingXD | Cho'Gath: 
+	Score: 1/3/0
+	Damage Dealt to Champions: 8287
+	Gold Spent: 9500
+	Damage-to-Gold Ratio: 0.872
+	Vision Score: 16
+Piñata | Udyr: 
+	Score: 1/3/0
+	Damage Dealt to Champions: 2105
+	Gold Spent: 8950
+	Damage-to-Gold Ratio: 0.235
+	Vision Score: 22
+JawKneeNewWin | Orianna: 
+	Score: 0/3/2
+	Damage Dealt to Champions: 14346
+	Gold Spent: 11375
+	Damage-to-Gold Ratio: 1.261
+	Vision Score: 24
+iAmezcua | Jinx: 
+	Score: 0/4/1
+	Damage Dealt to Champions: 6518
+	Gold Spent: 9375
+	Damage-to-Gold Ratio: 0.695
+	Vision Score: 32
+ILikeBeans | Karma: 
+	Score: 0/1/1
+	Damage Dealt to Champions: 6002
+	Gold Spent: 5735
+	Damage-to-Gold Ratio: 1.047
+	Vision Score: 79
+
+====== GAME 66 | ID: 3859081062 ======
+
+Blue: No Scrawny Boys
+
+SoulwingXD | Cho'Gath: 
+	Score: 7/5/7
+	Damage Dealt to Champions: 20810
+	Gold Spent: 15270
+	Damage-to-Gold Ratio: 1.363
+	Vision Score: 35
+Piñata | Udyr: 
+	Score: 6/3/17
+	Damage Dealt to Champions: 18984
+	Gold Spent: 15425
+	Damage-to-Gold Ratio: 1.231
+	Vision Score: 41
+JawKneeNewWin | Yone: 
+	Score: 16/4/8
+	Damage Dealt to Champions: 40569
+	Gold Spent: 18250
+	Damage-to-Gold Ratio: 2.223
+	Vision Score: 56
+ILikeBeans | Senna: 
+	Score: 6/2/19
+	Damage Dealt to Champions: 30988
+	Gold Spent: 14100
+	Damage-to-Gold Ratio: 2.198
+	Vision Score: 98
+iAmezcua | Taric: 
+	Score: 0/2/25
+	Damage Dealt to Champions: 7747
+	Gold Spent: 11600
+	Damage-to-Gold Ratio: 0.668
+	Vision Score: 42
+
+Red: NBNE
+
+iwc112358 | Aatrox: 
+	Score: 5/6/8
+	Damage Dealt to Champions: 25387
+	Gold Spent: 15900
+	Damage-to-Gold Ratio: 1.597
+	Vision Score: 33
+F4aintbwind | Amumu: 
+	Score: 0/9/13
+	Damage Dealt to Champions: 14348
+	Gold Spent: 11150
+	Damage-to-Gold Ratio: 1.287
+	Vision Score: 29
+EternaLProspecT | Ryze: 
+	Score: 3/10/5
+	Damage Dealt to Champions: 20646
+	Gold Spent: 16975
+	Damage-to-Gold Ratio: 1.216
+	Vision Score: 45
+ThatOneRyanGuy | Jinx: 
+	Score: 8/6/4
+	Damage Dealt to Champions: 45535
+	Gold Spent: 17500
+	Damage-to-Gold Ratio: 2.602
+	Vision Score: 34
+ketiqu | Lulu: 
+	Score: 0/4/11
+	Damage Dealt to Champions: 5274
+	Gold Spent: 9450
+	Damage-to-Gold Ratio: 0.558
+	Vision Score: 99
+
+====== GAME 67 | ID: 3861627339 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Aatrox: 
+	Score: 9/2/10
+	Damage Dealt to Champions: 20134
+	Gold Spent: 14150
+	Damage-to-Gold Ratio: 1.423
+	Vision Score: 33
+BrandFlakez | Hecarim: 
+	Score: 5/2/11
+	Damage Dealt to Champions: 15557
+	Gold Spent: 13525
+	Damage-to-Gold Ratio: 1.15
+	Vision Score: 40
+Ejaculatory | Corki: 
+	Score: 9/3/12
+	Damage Dealt to Champions: 32626
+	Gold Spent: 15475
+	Damage-to-Gold Ratio: 2.108
+	Vision Score: 25
+FORCED ORGASM | Varus: 
+	Score: 4/2/14
+	Damage Dealt to Champions: 19991
+	Gold Spent: 12425
+	Damage-to-Gold Ratio: 1.609
+	Vision Score: 31
+BIurr | Karma: 
+	Score: 1/2/12
+	Damage Dealt to Champions: 5662
+	Gold Spent: 7750
+	Damage-to-Gold Ratio: 0.731
+	Vision Score: 86
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Yorick: 
+	Score: 4/8/0
+	Damage Dealt to Champions: 27735
+	Gold Spent: 15358
+	Damage-to-Gold Ratio: 1.806
+	Vision Score: 28
+NinjaHamsters18 | Olaf: 
+	Score: 1/6/6
+	Damage Dealt to Champions: 10828
+	Gold Spent: 10625
+	Damage-to-Gold Ratio: 1.019
+	Vision Score: 31
+BirdofSand | Swain: 
+	Score: 4/6/4
+	Damage Dealt to Champions: 28700
+	Gold Spent: 11560
+	Damage-to-Gold Ratio: 2.483
+	Vision Score: 25
+Minatozaki | Ezreal: 
+	Score: 2/3/3
+	Damage Dealt to Champions: 22641
+	Gold Spent: 13200
+	Damage-to-Gold Ratio: 1.715
+	Vision Score: 32
+Kamu40 | Bard: 
+	Score: 0/5/5
+	Damage Dealt to Champions: 4872
+	Gold Spent: 6175
+	Damage-to-Gold Ratio: 0.789
+	Vision Score: 100
+
+====== GAME 68 | ID: 3861627627 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Pantheon: 
+	Score: 4/7/9
+	Damage Dealt to Champions: 22170
+	Gold Spent: 11450
+	Damage-to-Gold Ratio: 1.936
+	Vision Score: 20
+BrandFlakez | Hecarim: 
+	Score: 2/6/8
+	Damage Dealt to Champions: 11244
+	Gold Spent: 10583
+	Damage-to-Gold Ratio: 1.062
+	Vision Score: 37
+Ejaculatory | Galio: 
+	Score: 3/6/11
+	Damage Dealt to Champions: 15634
+	Gold Spent: 8925
+	Damage-to-Gold Ratio: 1.752
+	Vision Score: 28
+FORCED ORGASM | Jinx: 
+	Score: 7/5/5
+	Damage Dealt to Champions: 23098
+	Gold Spent: 14975
+	Damage-to-Gold Ratio: 1.542
+	Vision Score: 20
+BIurr | Seraphine: 
+	Score: 0/5/14
+	Damage Dealt to Champions: 8566
+	Gold Spent: 6610
+	Damage-to-Gold Ratio: 1.296
+	Vision Score: 72
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 5/2/13
+	Damage Dealt to Champions: 22091
+	Gold Spent: 13245
+	Damage-to-Gold Ratio: 1.668
+	Vision Score: 18
+NinjaHamsters18 | Rek'Sai: 
+	Score: 5/3/12
+	Damage Dealt to Champions: 11723
+	Gold Spent: 11275
+	Damage-to-Gold Ratio: 1.04
+	Vision Score: 40
+BirdofSand | Pyke: 
+	Score: 13/2/10
+	Damage Dealt to Champions: 16989
+	Gold Spent: 14725
+	Damage-to-Gold Ratio: 1.154
+	Vision Score: 25
+Minatozaki | Kai'Sa: 
+	Score: 6/3/18
+	Damage Dealt to Champions: 21840
+	Gold Spent: 14100
+	Damage-to-Gold Ratio: 1.549
+	Vision Score: 44
+Kamu40 | Alistar: 
+	Score: 0/6/20
+	Damage Dealt to Champions: 3619
+	Gold Spent: 7600
+	Damage-to-Gold Ratio: 0.476
+	Vision Score: 87
+
+====== GAME 69 | ID: 3861627843 ======
+
+Blue: Gigastuck Marines
+
+ImTheBill | Yone: 
+	Score: 3/5/4
+	Damage Dealt to Champions: 8599
+	Gold Spent: 9900
+	Damage-to-Gold Ratio: 0.869
+	Vision Score: 35
+BrandFlakez | Hecarim: 
+	Score: 1/5/7
+	Damage Dealt to Champions: 6555
+	Gold Spent: 8275
+	Damage-to-Gold Ratio: 0.792
+	Vision Score: 31
+Ejaculatory | Ekko: 
+	Score: 1/2/3
+	Damage Dealt to Champions: 6898
+	Gold Spent: 7475
+	Damage-to-Gold Ratio: 0.923
+	Vision Score: 31
+FORCED ORGASM | Senna: 
+	Score: 3/1/5
+	Damage Dealt to Champions: 9380
+	Gold Spent: 7450
+	Damage-to-Gold Ratio: 1.259
+	Vision Score: 48
+BIurr | Malphite: 
+	Score: 1/3/7
+	Damage Dealt to Champions: 5072
+	Gold Spent: 7075
+	Damage-to-Gold Ratio: 0.717
+	Vision Score: 21
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 3/1/9
+	Damage Dealt to Champions: 12867
+	Gold Spent: 11755
+	Damage-to-Gold Ratio: 1.095
+	Vision Score: 39
+NinjaHamsters18 | Rek'Sai: 
+	Score: 4/2/6
+	Damage Dealt to Champions: 5984
+	Gold Spent: 7600
+	Damage-to-Gold Ratio: 0.787
+	Vision Score: 30
+BirdofSand | Swain: 
+	Score: 4/1/11
+	Damage Dealt to Champions: 19728
+	Gold Spent: 11025
+	Damage-to-Gold Ratio: 1.789
+	Vision Score: 18
+Minatozaki | Vayne: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 9307
+	Gold Spent: 10800
+	Damage-to-Gold Ratio: 0.862
+	Vision Score: 31
+Kamu40 | Blitzcrank: 
+	Score: 0/3/11
+	Damage Dealt to Champions: 3676
+	Gold Spent: 6025
+	Damage-to-Gold Ratio: 0.61
+	Vision Score: 57
+
+====== GAME 70 | ID: 3868066226 ======
+
+Blue: No Scrawny Boys
+
+SoulwingXD | Cho'Gath: 
+	Score: 1/5/0
+	Damage Dealt to Champions: 6241
+	Gold Spent: 6850
+	Damage-to-Gold Ratio: 0.911
+	Vision Score: 8
+Piñata | Volibear: 
+	Score: 0/4/2
+	Damage Dealt to Champions: 3216
+	Gold Spent: 6475
+	Damage-to-Gold Ratio: 0.497
+	Vision Score: 26
+JawKneeNewWin | Rumble: 
+	Score: 2/3/2
+	Damage Dealt to Champions: 10506
+	Gold Spent: 6200
+	Damage-to-Gold Ratio: 1.695
+	Vision Score: 12
+iAmezcua | Miss Fortune: 
+	Score: 1/3/4
+	Damage Dealt to Champions: 7253
+	Gold Spent: 7225
+	Damage-to-Gold Ratio: 1.004
+	Vision Score: 20
+ILikeBeans | Seraphine: 
+	Score: 1/2/3
+	Damage Dealt to Champions: 3911
+	Gold Spent: 5050
+	Damage-to-Gold Ratio: 0.774
+	Vision Score: 50
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Sion: 
+	Score: 7/0/5
+	Damage Dealt to Champions: 13943
+	Gold Spent: 8675
+	Damage-to-Gold Ratio: 1.607
+	Vision Score: 19
+NinjaHamsters18 | Olaf: 
+	Score: 3/2/6
+	Damage Dealt to Champions: 5118
+	Gold Spent: 10050
+	Damage-to-Gold Ratio: 0.509
+	Vision Score: 32
+BirdofSand | Fizz: 
+	Score: 1/0/8
+	Damage Dealt to Champions: 11904
+	Gold Spent: 9310
+	Damage-to-Gold Ratio: 1.279
+	Vision Score: 24
+Minatozaki | Twitch: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 14218
+	Gold Spent: 10750
+	Damage-to-Gold Ratio: 1.323
+	Vision Score: 31
+Kamu40 | Blitzcrank: 
+	Score: 1/1/5
+	Damage Dealt to Champions: 3459
+	Gold Spent: 5375
+	Damage-to-Gold Ratio: 0.644
+	Vision Score: 60
+
+====== GAME 71 | ID: 3868067001 ======
+
+Blue: No Scrawny Boys
+
+SoulwingXD | Malphite: 
+	Score: 2/7/8
+	Damage Dealt to Champions: 16818
+	Gold Spent: 9975
+	Damage-to-Gold Ratio: 1.686
+	Vision Score: 19
+Piñata | Lillia: 
+	Score: 4/5/11
+	Damage Dealt to Champions: 20139
+	Gold Spent: 11475
+	Damage-to-Gold Ratio: 1.755
+	Vision Score: 21
+JawKneeNewWin | Lucian: 
+	Score: 7/4/6
+	Damage Dealt to Champions: 17937
+	Gold Spent: 14450
+	Damage-to-Gold Ratio: 1.241
+	Vision Score: 21
+ILikeBeans | Senna: 
+	Score: 8/3/12
+	Damage Dealt to Champions: 24018
+	Gold Spent: 11500
+	Damage-to-Gold Ratio: 2.089
+	Vision Score: 75
+iAmezcua | Thresh: 
+	Score: 1/5/15
+	Damage Dealt to Champions: 5878
+	Gold Spent: 8700
+	Damage-to-Gold Ratio: 0.676
+	Vision Score: 37
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 5/4/8
+	Damage Dealt to Champions: 30738
+	Gold Spent: 17500
+	Damage-to-Gold Ratio: 1.756
+	Vision Score: 35
+NinjaHamsters18 | Olaf: 
+	Score: 3/2/9
+	Damage Dealt to Champions: 10286
+	Gold Spent: 11900
+	Damage-to-Gold Ratio: 0.864
+	Vision Score: 48
+BirdofSand | Diana: 
+	Score: 13/3/8
+	Damage Dealt to Champions: 29948
+	Gold Spent: 18250
+	Damage-to-Gold Ratio: 1.641
+	Vision Score: 20
+Minatozaki | Twitch: 
+	Score: 3/5/15
+	Damage Dealt to Champions: 17072
+	Gold Spent: 12905
+	Damage-to-Gold Ratio: 1.323
+	Vision Score: 39
+Kamu40 | Blitzcrank: 
+	Score: 0/8/13
+	Damage Dealt to Champions: 6297
+	Gold Spent: 8400
+	Damage-to-Gold Ratio: 0.75
+	Vision Score: 102
+
+====== GAME 72 | ID: 3871002680 ======
+
+Blue: NBNE
+
+F4aintbwind | Darius: 
+	Score: 8/4/15
+	Damage Dealt to Champions: 22522
+	Gold Spent: 11650
+	Damage-to-Gold Ratio: 1.933
+	Vision Score: 28
+F4aintbwind | Nunu & Willump: 
+	Score: 3/6/19
+	Damage Dealt to Champions: 7833
+	Gold Spent: 8800
+	Damage-to-Gold Ratio: 0.89
+	Vision Score: 34
+EternaLProspecT | Ryze: 
+	Score: 7/2/15
+	Damage Dealt to Champions: 21870
+	Gold Spent: 10700
+	Damage-to-Gold Ratio: 2.044
+	Vision Score: 30
+ThatOneRyanGuy | Swain: 
+	Score: 14/2/17
+	Damage Dealt to Champions: 31325
+	Gold Spent: 12750
+	Damage-to-Gold Ratio: 2.457
+	Vision Score: 14
+ketiqu | Nautilus: 
+	Score: 2/1/25
+	Damage Dealt to Champions: 7489
+	Gold Spent: 8150
+	Damage-to-Gold Ratio: 0.919
+	Vision Score: 58
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Sion: 
+	Score: 5/7/7
+	Damage Dealt to Champions: 16349
+	Gold Spent: 11650
+	Damage-to-Gold Ratio: 1.403
+	Vision Score: 25
+NinjaHamsters18 | Olaf: 
+	Score: 5/6/9
+	Damage Dealt to Champions: 20413
+	Gold Spent: 9650
+	Damage-to-Gold Ratio: 2.115
+	Vision Score: 42
+BirdofSand | Fizz: 
+	Score: 4/4/7
+	Damage Dealt to Champions: 13550
+	Gold Spent: 9900
+	Damage-to-Gold Ratio: 1.369
+	Vision Score: 13
+Minatozaki | Vayne: 
+	Score: 1/8/5
+	Damage Dealt to Champions: 12759
+	Gold Spent: 9050
+	Damage-to-Gold Ratio: 1.41
+	Vision Score: 18
+Kamu40 | Alistar: 
+	Score: 0/9/5
+	Damage Dealt to Champions: 3171
+	Gold Spent: 5275
+	Damage-to-Gold Ratio: 0.601
+	Vision Score: 73
+
+====== GAME 73 | ID: 3871003176 ======
+
+Blue: NBNE
+
+iwc112358 | Aatrox: 
+	Score: 5/2/6
+	Damage Dealt to Champions: 16355
+	Gold Spent: 12175
+	Damage-to-Gold Ratio: 1.343
+	Vision Score: 30
+F4aintbwind | Rammus: 
+	Score: 1/4/7
+	Damage Dealt to Champions: 7555
+	Gold Spent: 6325
+	Damage-to-Gold Ratio: 1.194
+	Vision Score: 27
+EternaLProspecT | Viktor: 
+	Score: 4/4/6
+	Damage Dealt to Champions: 13205
+	Gold Spent: 9725
+	Damage-to-Gold Ratio: 1.358
+	Vision Score: 19
+ThatOneRyanGuy | Jhin: 
+	Score: 5/5/6
+	Damage Dealt to Champions: 11310
+	Gold Spent: 9600
+	Damage-to-Gold Ratio: 1.178
+	Vision Score: 11
+ketiqu | Leona: 
+	Score: 2/8/12
+	Damage Dealt to Champions: 5027
+	Gold Spent: 6675
+	Damage-to-Gold Ratio: 0.753
+	Vision Score: 53
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 3/4/11
+	Damage Dealt to Champions: 18138
+	Gold Spent: 10050
+	Damage-to-Gold Ratio: 1.805
+	Vision Score: 23
+NinjaHamsters18 | Jarvan IV: 
+	Score: 2/5/16
+	Damage Dealt to Champions: 9486
+	Gold Spent: 8600
+	Damage-to-Gold Ratio: 1.103
+	Vision Score: 23
+BirdofSand | Lissandra: 
+	Score: 8/1/13
+	Damage Dealt to Champions: 23776
+	Gold Spent: 10500
+	Damage-to-Gold Ratio: 2.264
+	Vision Score: 21
+Minatozaki | Jinx: 
+	Score: 9/1/7
+	Damage Dealt to Champions: 21902
+	Gold Spent: 11550
+	Damage-to-Gold Ratio: 1.896
+	Vision Score: 37
+Kamu40 | Alistar: 
+	Score: 1/6/13
+	Damage Dealt to Champions: 4950
+	Gold Spent: 5650
+	Damage-to-Gold Ratio: 0.876
+	Vision Score: 64
+
+====== GAME 74 | ID: 3871003691 ======
+
+Blue: NBNE
+
+iwc112358 | Darius: 
+	Score: 4/3/7
+	Damage Dealt to Champions: 12904
+	Gold Spent: 13325
+	Damage-to-Gold Ratio: 0.968
+	Vision Score: 44
+F4aintbwind | Hecarim: 
+	Score: 2/4/8
+	Damage Dealt to Champions: 9196
+	Gold Spent: 10800
+	Damage-to-Gold Ratio: 0.851
+	Vision Score: 32
+EternaLProspecT | Seraphine: 
+	Score: 4/2/6
+	Damage Dealt to Champions: 6212
+	Gold Spent: 12425
+	Damage-to-Gold Ratio: 0.5
+	Vision Score: 45
+ThatOneRyanGuy | Jinx: 
+	Score: 1/3/8
+	Damage Dealt to Champions: 8731
+	Gold Spent: 11930
+	Damage-to-Gold Ratio: 0.732
+	Vision Score: 25
+ketiqu | Lulu: 
+	Score: 1/3/8
+	Damage Dealt to Champions: 4392
+	Gold Spent: 7750
+	Damage-to-Gold Ratio: 0.567
+	Vision Score: 62
+
+Red: KAMINATONINJASANDM0DE58
+
+SICKLEM0DE | Gangplank: 
+	Score: 2/3/11
+	Damage Dealt to Champions: 16479
+	Gold Spent: 13345
+	Damage-to-Gold Ratio: 1.235
+	Vision Score: 34
+NinjaHamsters18 | Jarvan IV: 
+	Score: 2/4/6
+	Damage Dealt to Champions: 6321
+	Gold Spent: 8375
+	Damage-to-Gold Ratio: 0.755
+	Vision Score: 41
+BirdofSand | Lissandra: 
+	Score: 4/2/8
+	Damage Dealt to Champions: 15223
+	Gold Spent: 11785
+	Damage-to-Gold Ratio: 1.292
+	Vision Score: 19
+Minatozaki | Xayah: 
+	Score: 5/2/7
+	Damage Dealt to Champions: 13992
+	Gold Spent: 13750
+	Damage-to-Gold Ratio: 1.018
+	Vision Score: 38
+Kamu40 | Rakan: 
+	Score: 2/1/9
+	Damage Dealt to Champions: 2086
+	Gold Spent: 7300
+	Damage-to-Gold Ratio: 0.286
+	Vision Score: 87
+
+Estimated error rate: 12.0%
